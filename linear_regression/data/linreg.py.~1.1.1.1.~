@@ -1,0 +1,11 @@
+#!/usr/bin/python
+
+"""
+Here, you should put your linear regression analysis, i.e., the functions you
+need to go through the data and find interesting linearly related variables
+(pairs that have small residuals).  You should feel free to use the numpy
+linear regression function to do the calculation for you.  For information on
+the numpy linear regression function see:
+http://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.lstsq.html
+"""
+

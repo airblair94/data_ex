@@ -1,0 +1,2998 @@
+id,start_measure,cadence_alter,cadence_final_tone,stop_measure,cadence,cadence_kind
+Vous estes un fascheux homme,10,Displaced,D,10,True,NoCadence
+Si je n'avois de fermeté,19,,G,20,True,Authentic
+Si je n'avois de fermeté,16,,None,17,True,NoCadence
+Si je n'avois de fermeté,13,,A,14,True,Authentic
+Si je n'avois de fermeté,10,,D,10,True,Plagal
+Si je n'avois de fermeté,6,,G,7,True,Authentic
+Si je n'avois de fermeté,2,"Displaced, Inverted, Evaded",C,3,True,Authentic
+Si tu as veu que pour ton feu estaindre,42,,G,43,True,Authentic
+Si tu as veu que pour ton feu estaindre,36,,None,38,True,NoCadence
+Si tu as veu que pour ton feu estaindre,31,"Displaced, Inverted, Evaded",C,32,True,Authentic
+Si tu as veu que pour ton feu estaindre,21,,G,21,True,Plagal
+Si tu as veu que pour ton feu estaindre,16,,None,17,True,NoCadence
+Si tu as veu que pour ton feu estaindre,9,"Inverted, Evaded",C,10,True,Authentic
+Si tu as veu que pour ton feu estaindre,5,,None,6,True,NoCadence
+Vous souvient-il ; ma mignonne,29,,G,30,True,Authentic
+Vous souvient-il ; ma mignonne,25,,None,26,True,NoCadence
+Vous souvient-il ; ma mignonne,20,,C,21,True,Authentic
+Vous souvient-il ; ma mignonne,17,,None,18,True,NoCadence
+Vous souvient-il ; ma mignonne,6,,G,7,True,Authentic
+Vous souvient-il ; ma mignonne,3,,D,4,True,Plagal
+Je suys a vous mais sçavez vous comment,36,,G,37,True,Authentic
+Je suys a vous mais sçavez vous comment,33,,None,34,True,NoCadence
+Je suys a vous mais sçavez vous comment,29,,None,31,True,NoCadence
+Je suys a vous mais sçavez vous comment,23,,None,24,True,NoCadence
+Je suys a vous mais sçavez vous comment,8,,G,9,True,Authentic
+Je suys a vous mais sçavez vous comment,4,,None,5,True,NoCadence
+Un gay berger prioit une bergiere,48,,G,49,True,Authentic
+Un gay berger prioit une bergiere,41,Evaded,G,42,True,Authentic
+Un gay berger prioit une bergiere,34,,None,35,True,NoCadence
+Un gay berger prioit une bergiere,31,,G,32,True,Plagal
+Un gay berger prioit une bergiere,26,,G,27,True,Authentic
+Un gay berger prioit une bergiere,13,,G,14,True,Authentic
+Un gay berger prioit une bergiere,6,,G,7,True,Authentic
+En amour y a du plaisir,24,,F,25,True,Authentic
+En amour y a du plaisir,21,,None,22,True,NoCadence
+En amour y a du plaisir,19,,C,19,True,Plagal
+En amour y a du plaisir,15,,D,16,True,Plagal
+En amour y a du plaisir,13,,None,13,True,NoCadence
+En amour y a du plaisir,11,,None,11,True,NoCadence
+En amour y a du plaisir,8,,None,8,True,NoCadence
+En amour y a du plaisir,5,,None,5,True,NoCadence
+En amour y a du plaisir,2,,None,3,True,NoCadence
+Il n'est que d'estre sur l'herbette,30,,F,31,True,None
+Il n'est que d'estre sur l'herbette,26,,None,28,True,NoCadence
+Il n'est que d'estre sur l'herbette,23,,G,24,True,None
+Il n'est que d'estre sur l'herbette,18,,None,18,True,NoCadence
+Il n'est que d'estre sur l'herbette,11,,F,12,True,Authentic
+Il n'est que d'estre sur l'herbette,4,,None,5,True,NoCadence
+Pour avoir fille en mariage,41,,F,42,True,Authentic
+Pour avoir fille en mariage,39,,None,39,True,NoCadence
+Pour avoir fille en mariage,37,,None,37,True,NoCadence
+Pour avoir fille en mariage,33,,D,34,True,Plagal
+Pour avoir fille en mariage,29,,D,30,True,Plagal
+Pour avoir fille en mariage,21,,A,22,True,Plagal
+Pour avoir fille en mariage,14,,F,15,True,Authentic
+Pour avoir fille en mariage,11,"Displaced, Inverted, Evaded",A,12,True,Authentic
+Pour avoir fille en mariage,9,"Displaced, Inverted",A,10,True,Authentic
+Pour avoir fille en mariage,7,,F,8,True,Authentic
+Pour avoir fille en mariage,4,"Displaced, Inverted",F,4,True,Authentic
+Pour avoir fille en mariage,2,Displaced,F,3,True,Authentic
+Si le pouvoir de Diane a esté,26,,F,27,True,Authentic
+Si le pouvoir de Diane a esté,21,"Displaced, Inverted, Evaded",E,22,True,Phrygian
+Si le pouvoir de Diane a esté,17,,A,18,True,Phrygian
+Si le pouvoir de Diane a esté,13,"Displaced, Inverted, Evaded",F,14,True,Authentic
+Si le pouvoir de Diane a esté,8,,F,9,True,Authentic
+Si le pouvoir de Diane a esté,3,,G,4,True,Authentic
+Dieu doinct le bon jour à m'amye,26,,F,27,True,Authentic
+Dieu doinct le bon jour à m'amye,21,,None,22,True,NoCadence
+Dieu doinct le bon jour à m'amye,18,,C,19,True,Authentic
+Dieu doinct le bon jour à m'amye,16,"Displaced, Evaded",C,17,True,Authentic
+Dieu doinct le bon jour à m'amye,15,Incomplete,C,16,True,Authentic
+Dieu doinct le bon jour à m'amye,12,,None,14,True,NoCadence
+Dieu doinct le bon jour à m'amye,8,Displaced,F,9,True,Authentic
+Dieu doinct le bon jour à m'amye,6,Displaced,F,7,True,Authentic
+Dieu doinct le bon jour à m'amye,4,,None,5,True,NoCadence
+"N'ayez plus peur, mary jaloux",27,,F,28,True,Authentic
+"N'ayez plus peur, mary jaloux",20,Displaced,C,21,True,Authentic
+"N'ayez plus peur, mary jaloux",15,,A,16,True,Authentic
+"N'ayez plus peur, mary jaloux",12,,None,13,True,NoCadence
+"N'ayez plus peur, mary jaloux",7,,F,8,True,Authentic
+"N'ayez plus peur, mary jaloux",4,,None,4,True,NoCadence
+Mon ami est en grace si parfaict,42,,C,43,True,Plagal
+Mon ami est en grace si parfaict,29,,C,30,True,Plagal
+Mon ami est en grace si parfaict,22,,D,23,True,Authentic
+Mon ami est en grace si parfaict,15,,None,16,True,NoCadence
+Mon ami est en grace si parfaict,10,,None,11,True,NoCadence
+Mon ami est en grace si parfaict,4,Evaded,C,5,True,Authentic
+"Et vray Dieu, qu'il m'ennuye",11,,D,12,True,Authentic
+"Et vray Dieu, qu'il m'ennuye",9,,D,9,True,Plagal
+"Et vray Dieu, qu'il m'ennuye",5,,G,6,True,None
+"Et vray Dieu, qu'il m'ennuye",2,,None,3,True,NoCadence
+Puisque voulez que de vous je m'absente,38,,G,39,True,Authentic
+Puisque voulez que de vous je m'absente,32,"Displaced, Inverted, Evaded",D,33,True,Authentic
+Puisque voulez que de vous je m'absente,27,,A,28,True,Phrygian
+Puisque voulez que de vous je m'absente,23,,B-flat,24,True,Authentic
+Puisque voulez que de vous je m'absente,18,Displaced,D,18,True,Phrygian
+Puisque voulez que de vous je m'absente,14,,None,14,True,NoCadence
+Puisque voulez que de vous je m'absente,10,,G,11,True,Authentic
+Puisque voulez que de vous je m'absente,6,,G,7,True,Authentic
+Puisque voulez que de vous je m'absente,2,,G,3,True,Authentic
+Sur l'aubépin qui est en fleur,44,,D,45,True,Authentic
+Sur l'aubépin qui est en fleur,38,Evaded,G,39,True,Authentic
+Sur l'aubépin qui est en fleur,32,,C,32,True,Plagal
+Sur l'aubépin qui est en fleur,28,,C,28,True,Plagal
+Sur l'aubépin qui est en fleur,25,Displaced,D,25,True,Phrygian
+Sur l'aubépin qui est en fleur,19,,None,20,True,NoCadence
+Sur l'aubépin qui est en fleur,13,,None,14,True,NoCadence
+Sur l'aubépin qui est en fleur,9,,None,10,True,NoCadence
+Sur l'aubépin qui est en fleur,7,,None,8,True,NoCadence
+Un bon vieillard qui n'avoit que le bec,42,,G,43,True,Authentic
+Un bon vieillard qui n'avoit que le bec,36,,None,36,True,NoCadence
+Un bon vieillard qui n'avoit que le bec,30,,D,31,True,Plagal
+Un bon vieillard qui n'avoit que le bec,26,Displaced,B-flat,26,True,Plagal
+Un bon vieillard qui n'avoit que le bec,15,,D,16,True,Authentic
+Un bon vieillard qui n'avoit que le bec,10,,G,11,True,Authentic
+Un bon vieillard qui n'avoit que le bec,4,,None,5,True,NoCadence
+Je ne suis devin ne prophète,21,,G,22,True,Authentic
+Je ne suis devin ne prophète,19,,G,20,True,Authentic
+Je ne suis devin ne prophète,15,,G,15,True,Plagal
+Je ne suis devin ne prophète,12,Evaded,B-flat,13,True,Authentic
+Je ne suis devin ne prophète,10,,D,11,True,Authentic
+Je ne suis devin ne prophète,4,,G,5,True,Authentic
+Je ne suis devin ne prophète,2,,D,2,True,Plagal
+Qui veult sçavoyr quelle est m'amye,46,,G,47,True,Authentic
+Qui veult sçavoyr quelle est m'amye,40,,None,41,True,NoCadence
+Qui veult sçavoyr quelle est m'amye,34,,D,35,True,Plagal
+Qui veult sçavoyr quelle est m'amye,29,,D,30,True,Authentic
+Qui veult sçavoyr quelle est m'amye,12,,G,13,True,Authentic
+Qui veult sçavoyr quelle est m'amye,3,,None,5,True,NoCadence
+Si m'amie a de fermeté,37,,G,38,True,Authentic
+Si m'amie a de fermeté,32,,G,33,True,Authentic
+Si m'amie a de fermeté,27,,None,28,True,NoCadence
+Si m'amie a de fermeté,22,,None,23,True,NoCadence
+Si m'amie a de fermeté,18,,B-flat,19,True,Authentic
+Si m'amie a de fermeté,8,,G,9,True,Authentic
+Si m'amie a de fermeté,4,,None,5,True,NoCadence
+"Ce n'est poinct moy, mon oeil, qui te travaille",23,,G,24,True,Authentic
+"Ce n'est poinct moy, mon oeil, qui te travaille",16,"Inverted, Evaded",B-flat,17,True,Authentic
+"Ce n'est poinct moy, mon oeil, qui te travaille",14,,D,15,True,Plagal
+"Ce n'est poinct moy, mon oeil, qui te travaille",12,,D,12,True,Plagal
+"Ce n'est poinct moy, mon oeil, qui te travaille",8,"Displaced, Inverted, Evaded",G,9,True,Authentic
+"Ce n'est poinct moy, mon oeil, qui te travaille",5,,D,6,True,Authentic
+"Ce n'est poinct moy, mon oeil, qui te travaille",3,,None,3,True,NoCadence
+Quand tant me mectz devant mes yeulx,22,,G,23,True,Authentic
+Quand tant me mectz devant mes yeulx,17,"Displaced, Inverted",D,18,True,Phrygian
+Quand tant me mectz devant mes yeulx,11,,None,12,True,NoCadence
+Quand tant me mectz devant mes yeulx,7,,G,8,True,Authentic
+"Où est ce temps, dictes, mademoiselle",46,,G,47,True,Authentic
+"Où est ce temps, dictes, mademoiselle",32,,G,33,True,Authentic
+"Où est ce temps, dictes, mademoiselle",26,Evaded,A,27,True,Authentic
+"Où est ce temps, dictes, mademoiselle",23,,D,23,True,Plagal
+"Où est ce temps, dictes, mademoiselle",16,,D,17,True,Authentic
+"Où est ce temps, dictes, mademoiselle",12,,D,13,True,Authentic
+"Où est ce temps, dictes, mademoiselle",7,,D,8,True,Authentic
+Or à ce jour le verd may se termine,56,,D,57,True,Authentic
+Or à ce jour le verd may se termine,53,"Displaced, Inverted, Evaded",A,54,True,Authentic
+Or à ce jour le verd may se termine,49,,None,50,True,NoCadence
+Or à ce jour le verd may se termine,47,,None,47,True,NoCadence
+Or à ce jour le verd may se termine,42,,A,43,True,Authentic
+Or à ce jour le verd may se termine,40,"Displaced, Inverted",D,41,True,Authentic
+Or à ce jour le verd may se termine,36,,F,37,True,Authentic
+Or à ce jour le verd may se termine,28,,D,29,True,Authentic
+Or à ce jour le verd may se termine,25,,None,25,True,NoCadence
+Or à ce jour le verd may se termine,22,,A,22,True,Plagal
+Or à ce jour le verd may se termine,17,"Displaced, Inverted, Evaded",A,18,True,Authentic
+Or à ce jour le verd may se termine,12,,None,13,True,NoCadence
+Or à ce jour le verd may se termine,4,,A,5,True,Authentic
+Elle voyant approcher mon départ ,23,,D,24,True,Authentic
+Elle voyant approcher mon départ ,17,,F,17,True,Authentic
+Elle voyant approcher mon départ ,11,,D,12,True,Authentic
+Elle voyant approcher mon départ ,6,,A,7,True,Plagal
+Quand contremont voirras retourner loyre,31,,D,32,True,Authentic
+Quand contremont voirras retourner loyre,24,,D,25,True,Authentic
+Quand contremont voirras retourner loyre,19,Incomplete,D,20,True,Authentic
+Quand contremont voirras retourner loyre,13,,E,14,True,Phrygian
+Quand contremont voirras retourner loyre,9,,A,10,True,Authentic
+Quand contremont voirras retourner loyre,6,,E,6,True,Plagal
+Malade si fut ma mignonne,41,,G,42,True,Authentic
+Malade si fut ma mignonne,37,,None,37,True,NoCadence
+Malade si fut ma mignonne,33,,G,34,True,Authentic
+Malade si fut ma mignonne,26,Displaced,D,26,True,Authentic
+Malade si fut ma mignonne,23,"Displaced, Inverted, Incomplete",D,24,True,Authentic
+Malade si fut ma mignonne,20,,None,21,True,NoCadence
+Malade si fut ma mignonne,17,"Displaced, Evaded",G,17,True,Authentic
+Malade si fut ma mignonne,15,"Displaced, Inverted",G,16,True,Authentic
+Malade si fut ma mignonne,12,,None,13,True,NoCadence
+Malade si fut ma mignonne,8,,G,9,True,Authentic
+Malade si fut ma mignonne,3,,None,3,True,NoCadence
+Je ly au cueur de m'amye,21,,G,21,True,Authentic
+Je ly au cueur de m'amye,18,,B-flat,18,True,Authentic
+Je ly au cueur de m'amye,14,,A,14,True,Phrygian
+Je ly au cueur de m'amye,10,,D,10,True,Authentic
+Je ly au cueur de m'amye,8,,G,8,True,Authentic
+Je ly au cueur de m'amye,5,,A,5,True,Plagal
+"En ce verd moys, temps opportun",38,,G,39,True,Authentic
+"En ce verd moys, temps opportun",34,,G,35,True,Authentic
+"En ce verd moys, temps opportun",27,"Displaced, Inverted",A,28,True,Phrygian
+"En ce verd moys, temps opportun",25,,D,26,True,Plagal
+"En ce verd moys, temps opportun",23,"Displaced, Inverted",D,23,True,Authentic
+"En ce verd moys, temps opportun",21,Displaced,B-flat,21,True,Authentic
+"En ce verd moys, temps opportun",15,,B-flat,16,True,Authentic
+"En ce verd moys, temps opportun",9,,G,10,True,Authentic
+"En ce verd moys, temps opportun",5,,D,6,True,Authentic
+"En ce verd moys, temps opportun",3,,D,4,True,Plagal
+Si je cognois que l'on ayme m'amye,35,,G,38,True,Authentic
+Si je cognois que l'on ayme m'amye,33,Displaced,D,33,True,Phrygian
+Si je cognois que l'on ayme m'amye,26,Displaced,D,27,True,Phrygian
+Si je cognois que l'on ayme m'amye,21,Displaced,D,22,True,Authentic
+Si je cognois que l'on ayme m'amye,20,"Displaced, Inverted",D,20,True,Authentic
+Si je cognois que l'on ayme m'amye,17,,D,18,True,Authentic
+Si je cognois que l'on ayme m'amye,11,,G,12,True,Authentic
+Si je cognois que l'on ayme m'amye,7,,A,7,True,Phrygian
+Si je cognois que l'on ayme m'amye,5,Displaced,D,6,True,Phrygian
+Quelqu'un me disoit l'aultre jour,48,,G,49,True,Authentic
+Quelqu'un me disoit l'aultre jour,45,,G,45,True,Authentic
+Quelqu'un me disoit l'aultre jour,42,,D,42,True,Plagal
+Quelqu'un me disoit l'aultre jour,39,Displaced,A,39,True,Phrygian
+Quelqu'un me disoit l'aultre jour,36,"Displaced, Inverted",G,36,True,Authentic
+Quelqu'un me disoit l'aultre jour,34,,G,35,True,Plagal
+Quelqu'un me disoit l'aultre jour,30,,G,30,True,Plagal
+Quelqu'un me disoit l'aultre jour,24,,None,25,True,NoCadence
+Quelqu'un me disoit l'aultre jour,22,,None,23,True,NoCadence
+Quelqu'un me disoit l'aultre jour,8,,D,9,True,Plagal
+Quelqu'un me disoit l'aultre jour,4,,D,5,True,CadInCad
+Qui la vous faict tant regarder,35,,G,36,True,Authentic
+Qui la vous faict tant regarder,32,,None,32,True,NoCadence
+Qui la vous faict tant regarder,30,Displaced,D,31,True,Phrygian
+Qui la vous faict tant regarder,25,Displaced,D,26,True,Phrygian
+Qui la vous faict tant regarder,23,Evaded,B-flat,24,True,Authentic
+Qui la vous faict tant regarder,21,"Displaced, Inverted, Evaded",B-flat,22,True,Authentic
+Qui la vous faict tant regarder,18,"Displaced, Inverted",D,19,True,Authentic
+Qui la vous faict tant regarder,17,"Displaced, Inverted",D,18,True,Phrygian
+Qui la vous faict tant regarder,15,"Displaced, Inverted",A,15,True,Phrygian
+Qui la vous faict tant regarder,13,,G,13,True,Authentic
+Qui la vous faict tant regarder,11,"Displaced, Evaded",B-flat,11,True,Authentic
+Qui la vous faict tant regarder,7,"Displaced, Inverted, Evaded",D,8,True,Authentic
+Qui la vous faict tant regarder,4,Displaced,D,4,True,Phrygian
+"Las, si tu veulx en aultre part aymer",29,,G,30,True,Authentic
+"Las, si tu veulx en aultre part aymer",22,Displaced,D,23,True,Phrygian
+"Las, si tu veulx en aultre part aymer",19,,B-flat,19,True,Authentic
+"Las, si tu veulx en aultre part aymer",15,"Displaced, Inverted",D,16,True,Phrygian
+"Las, si tu veulx en aultre part aymer",9,,G,10,True,Authentic
+"Las, si tu veulx en aultre part aymer",3,,B-flat,4,True,Authentic
+Avant que partiez de ce lieu,35,,F,36,True,Authentic
+Avant que partiez de ce lieu,33,Inverted,F,34,True,Authentic
+Avant que partiez de ce lieu,35,,F,36,True,Authentic
+Avant que partiez de ce lieu,25,Inverted,C,26,True,Authentic
+Avant que partiez de ce lieu,18,,A,19,True,Phrygian
+Avant que partiez de ce lieu,15,Incomplete,C,16,True,Authentic
+Avant que partiez de ce lieu,7,,A,7,True,Plagal
+Avant que partiez de ce lieu,2,Displaced,F,3,True,Authentic
+Robin couché à mesme terre,26,,C,27,True,Authentic
+Robin couché à mesme terre,24,,None,24,True,NoCadence
+Robin couché à mesme terre,21,Displaced,C,22,True,Authentic
+Robin couché à mesme terre,15,,None,16,True,NoCadence
+Robin couché à mesme terre,14,,C,14,True,Plagal
+Robin couché à mesme terre,11,,None,11,True,NoCadence
+Robin couché à mesme terre,5,,C,6,True,Authentic
+Robin couché à mesme terre,2,,F,3,True,Authentic
+Si la roze croist sans l'espine,28,,F,29,True,Authentic
+Si la roze croist sans l'espine,23,"Displaced, Inverted, Evaded",C,23,True,Authentic
+Si la roze croist sans l'espine,20,Displaced,C,20,True,Authentic
+Si la roze croist sans l'espine,16,,C,16,True,Plagal
+Si la roze croist sans l'espine,13,"Displaced, Inverted, Evaded",F,14,True,Authentic
+Si la roze croist sans l'espine,10,,None,10,True,NoCadence
+Si la roze croist sans l'espine,7,,F,8,True,Authentic
+Si la roze croist sans l'espine,4,"Displaced, Inverted, Evaded",C,5,True,Authentic
+"Qu'est-ce qu'amour, l'un dit que c'est un dieu",37,,F,38,True,Authentic
+"Qu'est-ce qu'amour, l'un dit que c'est un dieu",30,Displaced,C,30,True,Authentic
+"Qu'est-ce qu'amour, l'un dit que c'est un dieu",27,Displaced,F,28,True,Authentic
+"Qu'est-ce qu'amour, l'un dit que c'est un dieu",25,"Displaced, Inverted, Evaded",C,25,True,Authentic
+"Qu'est-ce qu'amour, l'un dit que c'est un dieu",22,Displaced,C,22,True,Authentic
+"Qu'est-ce qu'amour, l'un dit que c'est un dieu",16,,A,17,True,Phrygian
+"Qu'est-ce qu'amour, l'un dit que c'est un dieu",12,,F,12,True,Authentic
+"Qu'est-ce qu'amour, l'un dit que c'est un dieu",5,Displaced,F,6,True,Authentic
+Petit jardin a Vénus consacré,23,,G,24,True,Authentic
+Petit jardin a Vénus consacré,19,Evaded,B-flat,20,True,Authentic
+Petit jardin a Vénus consacré,18,,D,19,True,Plagal
+Petit jardin a Vénus consacré,14,,D,15,True,Authentic
+Petit jardin a Vénus consacré,11,,None,12,True,NoCadence
+Petit jardin a Vénus consacré,7,,G,8,True,Authentic
+Petit jardin a Vénus consacré,4,,B-flat,4,True,Authentic
+Cent baysers au departir,17,,D,18,True,Plagal
+Cent baysers au departir,15,,None,16,True,NoCadence
+Cent baysers au departir,13,,A,14,True,Phrygian
+Cent baysers au departir,10,,D,11,True,Authentic
+Cent baysers au departir,8,,G,8,True,Authentic
+Cent baysers au departir,6,"Displaced, Inverted",D,6,True,Phrygian
+Cent baysers au departir,4,,None,4,True,NoCadence
+Cent baysers au departir,2,"Displaced, Inverted",D,2,True,Phrygian
+De ceans jusque chez m'amye,24,,G,27,True,Authentic
+De ceans jusque chez m'amye,18,,B-flat,18,True,Authentic
+De ceans jusque chez m'amye,12,"Displaced, Inverted, Evaded",D,13,True,CadInCad
+De ceans jusque chez m'amye,8,,G,9,True,Authentic
+De ceans jusque chez m'amye,4,,D,5,True,Authentic
+Or perdz-je celle en qui gist tout mon bien,33,,G,36,True,Authentic
+Or perdz-je celle en qui gist tout mon bien,26,,C,27,True,Authentic
+Or perdz-je celle en qui gist tout mon bien,20,"Displaced, Evaded",D,21,True,Authentic
+Or perdz-je celle en qui gist tout mon bien,15,,D,16,True,Authentic
+Or perdz-je celle en qui gist tout mon bien,9,,G,10,True,Authentic
+Or perdz-je celle en qui gist tout mon bien,5,,B-flat,6,True,Authentic
+"Petite damoyselle, Amour donnez lieu",21,,G,22,True,Authentic
+"Petite damoyselle, Amour donnez lieu",19,,D,19,True,Plagal
+"Petite damoyselle, Amour donnez lieu",15,,D,16,True,Authentic
+"Petite damoyselle, Amour donnez lieu",13,Displaced,B-flat,13,True,Authentic
+"Petite damoyselle, Amour donnez lieu",5,,D,5,True,Plagal
+"Petite damoyselle, Amour donnez lieu",2,Evaded,C,3,True,Authentic
+Je me veulx tant a son vouloir offrir,23,,G,24,True,Authentic
+Je me veulx tant a son vouloir offrir,14,,B-flat,15,True,Authentic
+Je me veulx tant a son vouloir offrir,9,,G,9,True,Authentic
+Je me veulx tant a son vouloir offrir,4,,D,4,True,Plagal
+Ce qu'il [=qui] me faict si aysément jaloux,37,,F,38,True,Authentic
+Ce qu'il [=qui] me faict si aysément jaloux,29,,F,30,True,CadInCad
+Ce qu'il [=qui] me faict si aysément jaloux,24,,C,24,True,Authentic
+Ce qu'il [=qui] me faict si aysément jaloux,20,,A,21,True,Phrygian
+Ce qu'il [=qui] me faict si aysément jaloux,16,Displaced,F,17,True,Authentic
+Ce qu'il [=qui] me faict si aysément jaloux,14,"Displaced, Inverted, Evaded",F,14,True,Authentic
+Ce qu'il [=qui] me faict si aysément jaloux,12,,F,12,True,Authentic
+Ce qu'il [=qui] me faict si aysément jaloux,5,,C,5,True,Authentic
+Quand tant me mectz devant mes yeulx,26,,F,27,True,Authentic
+Quand tant me mectz devant mes yeulx,21,"Displaced, Inverted, Evaded",C,22,True,Authentic
+Quand tant me mectz devant mes yeulx,16,Displaced,A,17,True,Phrygian
+Quand tant me mectz devant mes yeulx,12,Inverted,A,12,True,Phrygian
+Quand tant me mectz devant mes yeulx,10,Displaced,F,10,True,Authentic
+Quand tant me mectz devant mes yeulx,5,Displaced,F,6,True,Authentic
+Quand tant me mectz devant mes yeulx,3,Displaced,C,3,True,Authentic
+Pour avoir fille en mariage,7,,F,8,True,Authentic
+Pour avoir fille en mariage,5,"Displaced, Evaded",F,6,True,Authentic
+Pour avoir fille en mariage,2,"Displaced, Evaded",F,3,True,Authentic
+Pourquoy fais-tu à aultre chere,25,,G,26,True,Authentic
+Pourquoy fais-tu à aultre chere,22,,C,22,True,CadInCad
+Pourquoy fais-tu à aultre chere,19,Incomplete,C,19,True,CadInCad
+Pourquoy fais-tu à aultre chere,15,,C,16,True,Plagal
+Pourquoy fais-tu à aultre chere,13,,A,14,True,Authentic
+Pourquoy fais-tu à aultre chere,9,,G,9,True,Authentic
+Pourquoy fais-tu à aultre chere,4,,C,5,True,CadInCad
+En amour y a du plaisir,23,,F,25,True,Authentic
+En amour y a du plaisir,21,,None,22,True,NoCadence
+En amour y a du plaisir,19,,C,19,True,Plagal
+En amour y a du plaisir,15,,D,16,True,Plagal
+En amour y a du plaisir,13,,None,13,True,NoCadence
+En amour y a du plaisir,5,,None,6,True,NoCadence
+En amour y a du plaisir,2,,None,3,True,NoCadence
+Pour avoir fille en mariage,41,,F,42,True,Authentic
+Pour avoir fille en mariage,39,,F,39,True,Authentic
+Pour avoir fille en mariage,37,,None,37,True,NoCadence
+Pour avoir fille en mariage,29,,D,30,True,Plagal
+Pour avoir fille en mariage,21,,A,22,True,Plagal
+Pour avoir fille en mariage,14,,F,15,True,Authentic
+Il n'est que d'estre sur l'herbette,30,,F,31,True,Authentic
+Il n'est que d'estre sur l'herbette,23,,G,24,True,Authentic
+Il n'est que d'estre sur l'herbette,17,,None,18,True,NoCadence
+Il n'est que d'estre sur l'herbette,11,,F,12,True,Authentic
+Il n'est que d'estre sur l'herbette,4,,None,5,True,NoCadence
+J'ay baisé m'amye à mon aise,17,,C,18,True,Authentic
+J'ay baisé m'amye à mon aise,13,,A,14,True,Phrygian
+J'ay baisé m'amye à mon aise,9,,F,10,True,Authentic
+J'ay baisé m'amye à mon aise,4,"Displaced, Inverted, Evaded",C,5,True,Authentic
+O qui aura sur mon heur advantage,37,"Displaced, Inverted, Evaded",C,40,True,CadInCad
+O qui aura sur mon heur advantage,33,"Displaced, Inverted, Evaded",C,33,True,Authentic
+O qui aura sur mon heur advantage,28,,G,29,True,Authentic
+O qui aura sur mon heur advantage,25,Displaced,G,26,True,CAD NDLT
+O qui aura sur mon heur advantage,11,,C,11,True,Authentic
+O qui aura sur mon heur advantage,4,"Displaced, Inverted",C,5,True,CadInCad
+Si le pouvoir de Diane a esté,25,,F,27,True,Authentic
+Si le pouvoir de Diane a esté,21,Displaced,C,22,True,Authentic
+Si le pouvoir de Diane a esté,17,,A,18,True,Phrygian
+Si le pouvoir de Diane a esté,13,"Displaced, Inverted, Evaded",F,14,True,Authentic
+Si le pouvoir de Diane a esté,8,,F,9,True,Authentic
+Si le pouvoir de Diane a esté,4,,G,5,True,Authentic
+Si me voyez face triste et dolente,27,,G,29,True,Authentic
+Si me voyez face triste et dolente,21,,A,22,True,Authentic
+Si me voyez face triste et dolente,17,Displaced,G,18,True,CAD NDLT
+Si me voyez face triste et dolente,13,Evaded,C,14,True,Authentic
+Si me voyez face triste et dolente,8,,G,9,True,Authentic
+Si me voyez face triste et dolente,3,,None,4,True,NoCadence
+Si j'ay grand desir de la veoir,26,,G,28,True,Authentic
+Si j'ay grand desir de la veoir,20,,None,22,True,NoCadence
+Si j'ay grand desir de la veoir,17,"Evaded, Displaced, Incomplete",C,18,True,Authentic
+Si j'ay grand desir de la veoir,13,,D,13,True,Plagal
+Si j'ay grand desir de la veoir,8,,G,9,True,Authentic
+Si j'ay grand desir de la veoir,2,,None,4,True,NoCadence
+Le temps vouldroit de soy trop presumer,39,,G,40,True,Authentic
+Le temps vouldroit de soy trop presumer,33,,D,34,True,Plagal
+Le temps vouldroit de soy trop presumer,28,,A,30,True,Authentic
+Le temps vouldroit de soy trop presumer,24,"Displaced, Inverted",D,25,True,Authentic
+Le temps vouldroit de soy trop presumer,12,,D,14,True,CadInCad
+Le temps vouldroit de soy trop presumer,8,,G,9,True,Authentic
+Le temps vouldroit de soy trop presumer,3,"Displaced, Inverted",D,4,True,Authentic
+Dieu doinct le bon jour à m'amye,25,,F,27,True,Authentic
+Dieu doinct le bon jour à m'amye,21,,None,22,True,NoCadence
+Dieu doinct le bon jour à m'amye,18,,C,19,True,Authentic
+Dieu doinct le bon jour à m'amye,16,"Displaced, Evaded",C,17,True,Authentic
+Dieu doinct le bon jour à m'amye,12,,None,14,True,NoCadence
+Dieu doinct le bon jour à m'amye,8,Displaced,F,9,True,Authentic
+Dieu doinct le bon jour à m'amye,6,Displaced,F,7,True,Authentic
+Dieu doinct le bon jour à m'amye,4,,None,5,True,NoCadence
+Une safrette safrettant,33,,G,34,True,Authentic
+Une safrette safrettant,27,"Displaced, Inverted, Incomplete, Evaded",C,28,True,Authentic
+Une safrette safrettant,23,,E,24,True,Phrygian
+Une safrette safrettant,18,,None,20,True,NoCadence
+Une safrette safrettant,7,,G,9,True,Authentic
+Une safrette safrettant,7,,G,9,True,Authentic
+Une safrette safrettant,5,,C,6,True,Authentic
+Une safrette safrettant,3,,None,3,True,NoCadence
+Robin vouloit sa femme battre,27,,G,28,True,Authentic
+Robin vouloit sa femme battre,19,,C,20,True,Authentic
+Robin vouloit sa femme battre,18,,None,19,True,NoCadence
+Robin vouloit sa femme battre,15,,E,16,True,Phrygian
+Robin vouloit sa femme battre,10,,G,12,True,Authentic
+Robin vouloit sa femme battre,4,,None,5,True,NoCadence
+Mon ami est en grace si parfaict,15,"Inverted, Displaced",G,16,True,CAD NDLT
+Mon ami est en grace si parfaict,10,"Inverted, Displaced",G,11,True,CAD NDLT
+"N'ayez plus peur, mary jaloux",27,,F,28,True,Authentic
+"N'ayez plus peur, mary jaloux",20,Displaced,C,21,True,Authentic
+"N'ayez plus peur, mary jaloux",15,,A,16,True,Phrygian
+"N'ayez plus peur, mary jaloux",12,,None,13,True,NoCadence
+"N'ayez plus peur, mary jaloux",7,,F,8,True,Authentic
+"N'ayez plus peur, mary jaloux",4,,None,4,True,NoCadence
+Si me voyez face triste et dolente,27,,G,28,True,Authentic
+Si me voyez face triste et dolente,18,Displaced,G,22,True,Authentic
+Si me voyez face triste et dolente,17,,G,18,True,Authentic
+Si me voyez face triste et dolente,13,,None,14,True,NoCadence
+Si me voyez face triste et dolente,8,,G,9,True,Authentic
+Si me voyez face triste et dolente,3,"Inverted, Incomplete",G,4,True,Authentic
+Si j'ay grand desir de la veoir,25,,G,28,True,Authentic
+Si j'ay grand desir de la veoir,21,,None,22,True,NoCadence
+Si j'ay grand desir de la veoir,17,"Inverted, Displaced, Evaded",C,18,True,Authentic
+Si j'ay grand desir de la veoir,14,,None,14,True,NoCadence
+Si j'ay grand desir de la veoir,7,,G,9,True,Authentic
+Si j'ay grand desir de la veoir,3,,None,3,True,NoCadence
+Le temps vouldroit de soy trop presumer,39,,G,40,True,Authentic
+Le temps vouldroit de soy trop presumer,29,,A,30,True,Authentic
+Le temps vouldroit de soy trop presumer,24,Displaced,D,26,True,Authentic
+Le temps vouldroit de soy trop presumer,21,Evaded,D,22,True,Authentic
+Le temps vouldroit de soy trop presumer,17,,G,19,True,Authentic
+Le temps vouldroit de soy trop presumer,12,,D,14,True,Authentic
+Le temps vouldroit de soy trop presumer,8,,G,9,True,Authentic
+Le temps vouldroit de soy trop presumer,3,"Displaced, Inverted",D,4,True,Authentic
+Une safrette safrettant,32,,G,34,True,Authentic
+Une safrette safrettant,27,"Displaced, Evaded, Inverted",C,29,True,Authentic
+Une safrette safrettant,22,,None,24,True,NoCadence
+Une safrette safrettant,19,,None,19,True,NoCadence
+Une safrette safrettant,14,,G,16,True,Authentic
+Une safrette safrettant,12,"Displaced, Evaded",C,14,True,Authentic
+Une safrette safrettant,11,,None,11,True,NoCadence
+Une safrette safrettant,11,,None,11,True,NoCadence
+Une safrette safrettant,7,,G,9,True,Authentic
+Une safrette safrettant,7,,None,9,True,Authentic
+Une safrette safrettant,4,,C,6,True,Authentic
+Une safrette safrettant,3,,None,3,True,NoCadence
+Robin vouloit sa femme battre,26,,G,28,True,Authentic
+Robin vouloit sa femme battre,20,,G,21,True,Plagal
+Robin vouloit sa femme battre,16,,None,17,True,NoCadence
+Robin vouloit sa femme battre,9,,G,11,True,Authentic
+"Veoir, deviser et converser",22,Displaced,F,25,True,Authentic
+"Veoir, deviser et converser",20,Displaced,C,21,True,Authentic
+"Veoir, deviser et converser",16,Evaded,F,17,True,Authentic
+"Veoir, deviser et converser",11,,G,13,True,Authentic
+"Veoir, deviser et converser",7,Displaced,F,8,True,Authentic
+"Veoir, deviser et converser",5,,None,5,True,NoCadence
+Si vous l'avez rendez le moy,32,,F,34,True,Authentic
+Si vous l'avez rendez le moy,26,,None,28,True,NoCadence
+Si vous l'avez rendez le moy,23,"Displaced, Evaded",C,24,True,Authentic
+Si vous l'avez rendez le moy,21,,None,22,True,NoCadence
+Si vous l'avez rendez le moy,17,,F,19,True,Authentic
+Si vous l'avez rendez le moy,14,,F,15,True,Authentic
+Si vous l'avez rendez le moy,6,,None,7,True,NoCadence
+Si vous l'avez rendez le moy,3,,None,5,True,NoCadence
+Rossignolet qui chante au verd bois,55,,C,56,True,Plagal
+Rossignolet qui chante au verd bois,45,Displaced,G,47,True,Authentic
+Rossignolet qui chante au verd bois,36,"Displaced, Inverted, Incomplete, Evaded",C,38,True,Authentic
+Rossignolet qui chante au verd bois,24,Incomplete,G,26,True,Authentic
+Rossignolet qui chante au verd bois,20,,C,22,True,Authentic
+Rossignolet qui chante au verd bois,8,,C,10,True,Authentic
+Rossignolet qui chante au verd bois,6,Displaced,G,7,True,Authentic
+Passant melancolie,23,,C,25,True,Authentic
+Passant melancolie,19,,None,19,True,NoCadence
+Passant melancolie,15,,G,16,True,Plagal
+Passant melancolie,13,,None,13,True,NoCadence
+Passant melancolie,11,,None,11,True,NoCadence
+Passant melancolie,6,,F,7,True,Authentic
+Passant melancolie,4,,None,4,True,NoCadence
+Mon ami est en grace si parfaict,42,,C,43,True,Plagal
+Mon ami est en grace si parfaict,29,,C,30,True,Plagal
+Mon ami est en grace si parfaict,22,,D,23,True,Authentic
+Mon ami est en grace si parfaict,4,Evaded,C,5,True,Authentic
+"Veoir, deviser et converser",23,,F,25,True,Authentic
+"Veoir, deviser et converser",20,Displaced,C,21,True,CAD NDLT
+"Veoir, deviser et converser",16,,None,17,True,NoCadence
+"Veoir, deviser et converser",12,,G,13,True,Authentic
+"Veoir, deviser et converser",7,,F,8,True,Authentic
+"Veoir, deviser et converser",5,,None,5,True,NoCadence
+Si vous l'avez rendez le moy,41,,F,42,True,Authentic
+Si vous l'avez rendez le moy,27,,None,28,True,NoCadence
+Si vous l'avez rendez le moy,24,"Displaced, Incomplete, Evaded",C,24,True,Authentic
+Si vous l'avez rendez le moy,15,,F,15,True,Authentic
+Si vous l'avez rendez le moy,6,,None,7,True,NoCadence
+Si vous l'avez rendez le moy,4,,None,5,True,NoCadence
+"Et vray Dieu, qu'il m'ennuye",11,,D,12,True,Authentic
+"Et vray Dieu, qu'il m'ennuye",9,,None,10,True,NoCadence
+"Et vray Dieu, qu'il m'ennuye",5,,G,6,True,Authentic
+"Et vray Dieu, qu'il m'ennuye",2,"Displaced, Inverted",D,3,True,Phrygian
+Rossignolet qui chante au verd bois,56,,C,56,True,Plagal
+Rossignolet qui chante au verd bois,46,Displaced,G,47,True,CAD NDLT
+Rossignolet qui chante au verd bois,37,"Displaced, Inverted, Incomplete, Evaded",C,38,True,Authentic
+Rossignolet qui chante au verd bois,34,,None,34,True,NoCadence
+Rossignolet qui chante au verd bois,25,,G,26,True,Authentic
+Rossignolet qui chante au verd bois,21,,C,22,True,Authentic
+Rossignolet qui chante au verd bois,12,,None,15,True,NoCadence
+Rossignolet qui chante au verd bois,9,,C,10,True,Authentic
+Rossignolet qui chante au verd bois,6,"Displaced, Evaded",G,7,True,Authentic
+Amour que tu me fais de mal,42,,F,48,True,Authentic
+Amour que tu me fais de mal,37,,C,38,True,Authentic
+Amour que tu me fais de mal,33,"Displaced, Incomplete",F,34,True,Authentic
+Amour que tu me fais de mal,29,,F,31,True,Authentic
+Amour que tu me fais de mal,26,Displaced,F,28,True,CAD NDLT
+Amour que tu me fais de mal,22,Displaced,F,23,True,CAD NDLT
+Amour que tu me fais de mal,17,,D,19,True,Plagal
+Amour que tu me fais de mal,14,Displaced,C,15,True,CAD NDLT
+Amour que tu me fais de mal,10,"Inverted, Evaded, Displaced",F,11,True,Authentic
+Amour que tu me fais de mal,3,,None,4,True,NoCadence
+Je voudrois ce gentil clerc estre,18,,C,19,True,Authentic
+Je voudrois ce gentil clerc estre,16,,None,16,True,NoCadence
+Je voudrois ce gentil clerc estre,12,Displaced,F,13,True,Authentic
+Je voudrois ce gentil clerc estre,10,,None,10,True,NoCadence
+Je voudrois ce gentil clerc estre,6,,F,7,True,Authentic
+Je voudrois ce gentil clerc estre,3,,None,4,True,NoCadence
+Je voudrois ce gentil clerc estre,1,,None,1,True,None
+D'un amy fainct je ne me puis deffaire,39,,F,40,True,Authentic
+D'un amy fainct je ne me puis deffaire,35,,F,36,True,Authentic
+D'un amy fainct je ne me puis deffaire,32,Displaced,C,33,True,Authentic
+D'un amy fainct je ne me puis deffaire,9,,F,11,True,Authentic
+D'un amy fainct je ne me puis deffaire,4,Displaced,C,6,True,CAD NDLT
+Or suis-je bien sur tous le miserable,32,,G,34,True,Authentic
+Or suis-je bien sur tous le miserable,27,"Displaced, Inverted, Evaded",D,28,True,Authentic
+Or suis-je bien sur tous le miserable,21,,B-flat,22,True,CadInCad
+Or suis-je bien sur tous le miserable,16,,D,18,True,CadInCad
+Or suis-je bien sur tous le miserable,11,,G,12,True,Authentic
+Or suis-je bien sur tous le miserable,6,"Displaced, Inverted",D,7,True,Authentic
+Or suis-je bien sur tous le miserable,1,,D,3,True,Plagal
+Puisque voulez que de vous je m'absente,37,,G,39,True,Authentic
+Puisque voulez que de vous je m'absente,32,"Displaced, Inverted, Evaded",D,33,True,Authentic
+Puisque voulez que de vous je m'absente,27,,D,28,True,Plagal
+Puisque voulez que de vous je m'absente,23,,B-flat,24,True,Authentic
+Puisque voulez que de vous je m'absente,21,,D,21,True,Plagal
+Puisque voulez que de vous je m'absente,18,Displaced,D,18,True,Phrygian
+Puisque voulez que de vous je m'absente,10,,G,11,True,Authentic
+Puisque voulez que de vous je m'absente,5,,G,7,True,Authentic
+Puisque voulez que de vous je m'absente,2,,G,3,True,Authentic
+Si me voyez face triste et dolente,42,,G,47,True,Authentic
+Si me voyez face triste et dolente,42,,G,43,True,Authentic
+Si me voyez face triste et dolente,31,,G,32,True,Authentic
+Si me voyez face triste et dolente,33,"Inverted, Evaded",G,34,True,Authentic
+Si me voyez face triste et dolente,30,"Displaced, Evaded",D,31,True,Authentic
+Si me voyez face triste et dolente,24,Evaded,A,25,True,Phrygian
+Si me voyez face triste et dolente,17,Displaced,B-flat,18,True,Authentic
+Si me voyez face triste et dolente,13,,G,14,True,Authentic
+Si me voyez face triste et dolente,6,,B-flat,7,True,Plagal
+Passant melancolie,23,,C,25,True,Authentic
+Passant melancolie,21,,None,22,True,NoCadence
+Passant melancolie,19,,None,19,True,NoCadence
+Passant melancolie,15,,G,16,True,Plagal
+Passant melancolie,13,,None,14,True,NoCadence
+Passant melancolie,11,,None,11,True,NoCadence
+Passant melancolie,6,,F,7,True,Authentic
+Passant melancolie,3,,None,4,True,NoCadence
+Amour que tu me fais de mal,47,,F,48,True,Authentic
+Amour que tu me fais de mal,37,,C,38,True,Authentic
+Amour que tu me fais de mal,33,Displaced,F,34,True,Authentic
+Amour que tu me fais de mal,30,,None,31,True,NoCadence
+Amour que tu me fais de mal,27,"Displaced, Inverted",F,28,True,Authentic
+Amour que tu me fais de mal,22,Displaced,F,23,True,CAD NDLT
+Amour que tu me fais de mal,18,,A,19,True,Phrygian
+Amour que tu me fais de mal,14,Displaced,C,15,True,CAD NDLT
+Amour que tu me fais de mal,10,"Displaced, Inverted, Incomplete, Evaded",F,11,True,Authentic
+Amour que tu me fais de mal,3,,None,5,True,NoCadence
+Sur l'aubépin qui est en fleur,44,,D,45,True,Authentic
+Sur l'aubépin qui est en fleur,38,,G,39,True,Authentic
+Sur l'aubépin qui est en fleur,32,,C,32,True,Plagal
+Un galland le fit et refit,37,Evaded,C,39,True,Authentic
+Un galland le fit et refit,35,"Inverted, Incomplete, Evaded",None,36,True,Authentic
+Un galland le fit et refit,31,"Displaced, Incomplete, Evaded",C,32,True,Authentic
+Un galland le fit et refit,26,,None,27,True,NoCadence
+Un galland le fit et refit,23,,C,24,True,Authentic
+Un galland le fit et refit,18,,G,20,True,Authentic
+Un galland le fit et refit,11,,None,12,True,NoCadence
+Un galland le fit et refit,6,Incomplete,C,7,True,Authentic
+Un galland le fit et refit,4,,None,5,True,NoCadence
+O vous mes yeulx qui avez incité,28,,C,29,True,Authentic
+O vous mes yeulx qui avez incité,24,,,25,True,No cadence
+O vous mes yeulx qui avez incité,19,,A,21,True,Authentic
+O vous mes yeulx qui avez incité,13,Displaced,C,15,True,Authentic
+O vous mes yeulx qui avez incité,8,,C,10,True,Authentic
+O vous mes yeulx qui avez incité,4,,None,5,True,NoCadence
+O vous mes yeulx qui avez incité,3,,None,5,True,None
+Si pour amans la lune est importune,29,,None,30,True,NoCadence
+Si pour amans la lune est importune,23,Displaced,G,25,True,Authentic
+Si pour amans la lune est importune,19,,C,20,True,Authentic
+Si pour amans la lune est importune,15,,None,16,True,NoCadence
+Si pour amans la lune est importune,8,,C,9,True,Authentic
+Si pour amans la lune est importune,4,,None,5,True,NoCadence
+Sur l'aubépin qui est en fleur,28,,C,28,True,Plagal
+Sur l'aubépin qui est en fleur,25,Displaced,D,25,True,Phrygian
+Sur l'aubépin qui est en fleur,13,,,14,True,NoCadence
+Sur l'aubépin qui est en fleur,9,,D,10,True,Authentic
+Sur l'aubépin qui est en fleur,3,,None,4,True,NoCadence
+Je voudrois ce gentil clerc estre,18,,C,19,True,Authentic
+Je voudrois ce gentil clerc estre,15,,None,16,True,NoCadence
+Je voudrois ce gentil clerc estre,12,"Displaced, Evaded",F,13,True,CAD NDLT
+Je voudrois ce gentil clerc estre,10,,None,10,True,NoCadence
+Je voudrois ce gentil clerc estre,6,,F,7,True,Authentic
+Je voudrois ce gentil clerc estre,3,,C,4,True,Plagal
+Soleil qui tout voit par ma foy,30,,G,32,True,Authentic
+Soleil qui tout voit par ma foy,26,,B-flat,27,True,Authentic
+Soleil qui tout voit par ma foy,21,,G,22,True,Authentic
+Soleil qui tout voit par ma foy,19,"Displaced, Inverted",G,20,True,Authentic
+Soleil qui tout voit par ma foy,17,,None,18,True,NoCadence
+Soleil qui tout voit par ma foy,10,,D,11,True,Plagal
+Soleil qui tout voit par ma foy,6,,G,7,True,Authentic
+Soleil qui tout voit par ma foy,5,Displaced,B-flat,5,True,Authentic
+Soleil qui tout voit par ma foy,3,,None,4,True,NoCadence
+Soleil qui tout voit par ma foy,2,,D,3,True,Plagal
+Jamais amour n'aura ceste puissance,36,"Displaced, Inverted",D,38,True,Authentic
+Jamais amour n'aura ceste puissance,31,,D,33,True,Plagal
+Jamais amour n'aura ceste puissance,13,,G,14,True,Authentic
+Jamais amour n'aura ceste puissance,5,,B-flat,7,True,Authentic
+Jamais amour n'aura ceste puissance,1,,None,4,True,None
+Amour se doibt figurer une rose,27,,G,29,True,Authentic
+Amour se doibt figurer une rose,24,,D,25,True,Plagal
+Amour se doibt figurer une rose,19,,D,20,True,Authentic
+Un bon vieillard qui n'avoit que le bec,42,,G,43,True,Authentic
+Amour se doibt figurer une rose,18,,None,18,True,NoCadence
+Amour se doibt figurer une rose,9,,G,11,True,Authentic
+Amour se doibt figurer une rose,5,,D,6,True,Phrygian
+"Plaisir, prouffit, honneur, advancement",42,,G,44,True,Authentic
+"Plaisir, prouffit, honneur, advancement",33,,B-flat,35,True,Authentic
+"Plaisir, prouffit, honneur, advancement",30,"Displaced, Evaded",B-flat,31,True,Authentic
+Un bon vieillard qui n'avoit que le bec,35,,None,36,True,NoCadence
+"Plaisir, prouffit, honneur, advancement",25,,None,26,True,NoCadence
+"Plaisir, prouffit, honneur, advancement",9,,G,11,True,Authentic
+Un bon vieillard qui n'avoit que le bec,30,,D,31,True,Plagal
+"Plaisir, prouffit, honneur, advancement",4,Incomplete,None,5,True,Authentic
+Un bon vieillard qui n'avoit que le bec,25,,B-flat,26,True,Plagal
+Un bon vieillard qui n'avoit que le bec,23,,B-flat,24,True,Authentic
+Un bon vieillard qui n'avoit que le bec,21,,B-flat,22,True,Authentic
+Un bon vieillard qui n'avoit que le bec,20,,None,21,True,NoCadence
+Un bon vieillard qui n'avoit que le bec,15,,D,16,True,Authentic
+Un bon vieillard qui n'avoit que le bec,9,,G,11,True,Authentic
+Un bon vieillard qui n'avoit que le bec,4,,None,5,True,NoCadence
+Mon ami est en grace si parfaict,17,Displaced,D,18,True,Phrygian
+Mon ami est en grace si parfaict,15,Incomplete,G,16,True,Authentic
+Mon ami est en grace si parfaict,8,,G,10,True,Authentic
+Mon ami est en grace si parfaict,4,"Displaced, Inverted, Evaded",D,4,True,Authentic
+Un bon vieillard qui n'avoit que le bec,42,,G,45,True,Authentic
+Un bon vieillard qui n'avoit que le bec,40,"Displaced, Incomplete",D,41,True,Phrygian
+Un bon vieillard qui n'avoit que le bec,35,,B-flat,36,True,Authentic
+Un bon vieillard qui n'avoit que le bec,29,,D,30,True,Authentic
+Un bon vieillard qui n'avoit que le bec,23,,B-flat,24,True,Authentic
+Un bon vieillard qui n'avoit que le bec,20,Displaced,D,20,True,Authentic
+Un bon vieillard qui n'avoit que le bec,15,,A,15,True,Phrygian
+Un bon vieillard qui n'avoit que le bec,8,,G,9,True,Authentic
+Un bon vieillard qui n'avoit que le bec,4,Displaced,D,5,True,Authentic
+Je suis bien aise qu'elle est belle,26,,D,28,True,Authentic
+Je suis bien aise qu'elle est belle,21,"Displaced, Inverted",D,22,True,Authentic
+Je suis bien aise qu'elle est belle,18,,A,18,True,Plagal
+Je suis bien aise qu'elle est belle,15,,A,16,True,Authentic
+Je suis bien aise qu'elle est belle,13,,None,13,True,NoCadence
+Je suis bien aise qu'elle est belle,9,,D,10,True,CadInCad
+Je suis bien aise qu'elle est belle,3,,A,4,True,Authentic
+Je suis bien aise qu'elle est belle,2,,None,3,True,None
+"Or sus, pas je ne veulx refaire",26,,D,28,True,Authentic
+"Or sus, pas je ne veulx refaire",23,,None,24,True,NoCadence
+"Or sus, pas je ne veulx refaire",21,,A,22,True,Plagal
+"Or sus, pas je ne veulx refaire",18,"Displaced, Inverted",D,19,True,Authentic
+"Or sus, pas je ne veulx refaire",15,Displaced,C,16,True,Authentic
+"Or sus, pas je ne veulx refaire",12,,None,13,True,NoCadence
+"Or sus, pas je ne veulx refaire",5,,A,6,True,Authentic
+"Or sus, pas je ne veulx refaire",3,,None,4,True,NoCadence
+D'un amy fainct je ne me puis deffaire,39,,F,40,True,Authentic
+D'un amy fainct je ne me puis deffaire,35,,F,36,True,Authentic
+D'un amy fainct je ne me puis deffaire,32,Displaced,C,33,True,Authentic
+D'un amy fainct je ne me puis deffaire,26,,None,29,True,NoCadence
+D'un amy fainct je ne me puis deffaire,10,,F,11,True,Authentic
+D'un amy fainct je ne me puis deffaire,5,Displaced,C,6,True,CAD NDLT
+Un galland le fit et refit,38,Evaded,C,39,True,Authentic
+Un galland le fit et refit,35,"Inverted, Incomplete, Evaded, Displaced",G,36,True,Authentic
+Un galland le fit et refit,31,"Displaced, Incomplete, Evaded",C,32,True,Authentic
+Un galland le fit et refit,27,,G,27,True,Plagal
+Un galland le fit et refit,23,,C,24,True,Authentic
+Un galland le fit et refit,19,,G,20,True,Authentic
+Un galland le fit et refit,6,Incomplete,C,7,True,Authentic
+Un galland le fit et refit,4,,None,5,True,NoCadence
+O vous mes yeulx qui avez incité,28,,C,29,True,Authentic
+O vous mes yeulx qui avez incité,24,,None,25,True,NoCadence
+O vous mes yeulx qui avez incité,24,,,25,True,NoCadence
+O vous mes yeulx qui avez incité,20,,A,21,True,Authentic
+O vous mes yeulx qui avez incité,14,"Displaced, Evaded",C,15,True,CAD NDLT
+O vous mes yeulx qui avez incité,8,,C,10,True,Authentic
+O vous mes yeulx qui avez incité,4,,None,5,True,NoCadence
+Je ne suis devin ne prophète,21,,G,22,True,Authentic
+Je ne suis devin ne prophète,19,,G,20,True,Authentic
+Je ne suis devin ne prophète,12,Evaded,B-flat,13,True,Authentic
+Je ne suis devin ne prophète,10,,D,11,True,Authentic
+Je ne suis devin ne prophète,4,,G,5,True,Authentic
+Je ne suis devin ne prophète,2,,D,2,True,Plagal
+Qui veult sçavoyr quelle est m'amye,47,,G,48,True,Authentic
+Qui veult sçavoyr quelle est m'amye,40,,None,41,True,NoCadence
+D'amour me plainctz et du mal que je sens,36,,G,38,True,Authentic
+D'amour me plainctz et du mal que je sens,26,,None,26,True,NoCadence
+D'amour me plainctz et du mal que je sens,22,,G,23,True,Authentic
+D'amour me plainctz et du mal que je sens,17,Displaced,A,19,True,Phrygian
+D'amour me plainctz et du mal que je sens,11,,G,12,True,Authentic
+D'amour me plainctz et du mal que je sens,4,,None,5,True,NoCadence
+Qui veult sçavoyr quelle est m'amye,29,,D,30,True,Authentic
+La grant doulceur de vostre cler visaige,8,,B-flat,9,True,Authentic
+La grant doulceur de vostre cler visaige,17,,G,18,True,Authentic
+Qui veult sçavoyr quelle est m'amye,12,,G,13,True,Authentic
+La grant doulceur de vostre cler visaige,23,,D,25,True,Plagal
+La grant doulceur de vostre cler visaige,40,,G,42,True,Authentic
+Qui veult sçavoyr quelle est m'amye,3,,None,5,True,NoCadence
+La grant doulceur de vostre cler visaige,33,Displaced,D,35,True,Phrygian
+La grant doulceur de vostre cler visaige,28,,G,30,True,Plagal
+A tout jamais d'un vouloir immortel,17,,G,8,True,Authentic
+A tout jamais d'un vouloir immortel,8,,D,9,True,Authentic
+A tout jamais d'un vouloir immortel,55,,D,56,True,Plagal
+A tout jamais d'un vouloir immortel,53,Displaced,G,55,True,Authentic
+A tout jamais d'un vouloir immortel,50,,D,52,True,Authentic
+A tout jamais d'un vouloir immortel,40,"Incomplete, Evaded",D,41,True,Authentic
+A tout jamais d'un vouloir immortel,34,"Inverted, Displaced",D,36,True,Authentic
+A tout jamais d'un vouloir immortel,31,,G,32,True,Authentic
+A tout jamais d'un vouloir immortel,23,Evaded,F,25,True,Authentic
+A tout jamais d'un vouloir immortel,18,,B-flat,19,True,Authentic
+A tout jamais d'un vouloir immortel,9,,D,10,True,Authentic
+A tout jamais d'un vouloir immortel,5,,None,6,True,None
+A tout jamais d'un vouloir immortel,3,Incomplete,G,5,True,Authentic
+Si m'amie a de fermeté,32,,G,33,True,Authentic
+Si m'amie a de fermeté,27,Evaded,B-flat,28,True,Authentic
+Si m'amie a de fermeté,22,,D,23,True,Plagal
+Si m'amie a de fermeté,18,,B-flat,19,True,Authentic
+Si m'amie a de fermeté,8,,G,9,True,Authentic
+Si m'amie a de fermeté,4,"Displaced, Inverted",B-flat,5,True,Authentic
+Prendre plaisir en aymant loyaulment,31,,G,34,True,Authentic
+Prendre plaisir en aymant loyaulment,27,,D,29,True,Authentic
+Prendre plaisir en aymant loyaulment,17,,D,22,True,Authentic
+Prendre plaisir en aymant loyaulment,17,Inverted,G,18,True,Authentic
+Prendre plaisir en aymant loyaulment,15,"Displaced, Inverted",D,16,True,Authentic
+Prendre plaisir en aymant loyaulment,10,,G,12,True,Authentic
+Prendre plaisir en aymant loyaulment,5,Evaded,D,6,True,Authentic
+Quand suis au lict pour prendre mon repos,28,,G,30,True,Authentic
+Quand suis au lict pour prendre mon repos,22,"Displaced, Inverted",D,23,True,Authentic
+Quand suis au lict pour prendre mon repos,18,,None,18,True,NoCadence
+Quand suis au lict pour prendre mon repos,13,"Inverted, Evaded",C,15,True,Authentic
+Quand suis au lict pour prendre mon repos,8,,G,10,True,Authentic
+Quand suis au lict pour prendre mon repos,5,,None,5,True,None
+Quand suis au lict pour prendre mon repos,4,,D,4,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,75,,G,77,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,73,"Inverted, Evaded, Displaced",D,75,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,71,Displaced,D,72,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,68,,D,71,True,Plagal
+Monsieur l'Abbé et monsieur son vallet,61,,None,63,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,58,,None,58,True,NoCadence
+Monsieur l'Abbé et monsieur son vallet,43,,D,44,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,19,,G,21,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,11,,D,13,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,11,,D,13,True,Authentic
+"Ce n'est poinct moy, mon oeil, qui te travaille",23,,G,24,True,Authentic
+"Ce n'est poinct moy, mon oeil, qui te travaille",16,"Inverted, Evaded",B-flat,17,True,Authentic
+"Ce n'est poinct moy, mon oeil, qui te travaille",14,,D,15,True,Plagal
+"Ce n'est poinct moy, mon oeil, qui te travaille",12,,D,12,True,Plagal
+"Ce n'est poinct moy, mon oeil, qui te travaille",8,"Displaced, Inverted, Evaded",G,9,True,Authentic
+"Ce n'est poinct moy, mon oeil, qui te travaille",5,,D,6,True,Authentic
+"Ce n'est poinct moy, mon oeil, qui te travaille",3,Displaced,A,3,True,Phrygian
+Recepte pour un flux de bourse,32,,G,34,True,Authentic
+Recepte pour un flux de bourse,28,Displaced,G,29,True,Authentic
+Recepte pour un flux de bourse,21,Displaced,C,22,True,Authentic
+Recepte pour un flux de bourse,18,,C,20,True,Authentic
+Recepte pour un flux de bourse,6,,G,8,True,Authentic
+Recepte pour un flux de bourse,4,Incomplete,G,5,True,Authentic
+Recepte pour un flux de bourse,2,,G,4,True,Authentic
+Tels menus plaidz conferment les amours,35,,G,37,True,Authentic
+Tels menus plaidz conferment les amours,32,,C,33,True,Plagal
+Tels menus plaidz conferment les amours,25,,C,26,True,Authentic
+Tels menus plaidz conferment les amours,21,,C,22,True,Authentic
+Tels menus plaidz conferment les amours,19,,None,19,True,NoCadence
+Tels menus plaidz conferment les amours,11,,G,12,True,Authentic
+Tels menus plaidz conferment les amours,3,,G,5,True,Authentic
+Tels menus plaidz conferment les amours,1,"Displaced, Inverted, Evaded",C,2,True,Authentic
+Jamais amour sans guerre n'est parfaict,32,Evaded,C,33,True,Authentic
+Jamais amour sans guerre n'est parfaict,19,,None,19,True,NoCadence
+Jamais amour sans guerre n'est parfaict,34,,G,36,True,Authentic
+Jamais amour sans guerre n'est parfaict,30,Evaded,C,31,True,Authentic
+Jamais amour sans guerre n'est parfaict,27,Displaced,C,28,True,Authentic
+Jamais amour sans guerre n'est parfaict,22,Incomplete,C,23,True,Authentic
+Jamais amour sans guerre n'est parfaict,19,Displaced,C,20,True,Authentic
+Jamais amour sans guerre n'est parfaict,16,,G,16,True,Plagal
+Jamais amour sans guerre n'est parfaict,11,,G,12,True,Authentic
+Jamais amour sans guerre n'est parfaict,5,"Displaced, Inverted",C,7,True,Authentic
+Qui diable nous a faict ces jours,36,,G,37,True,Authentic
+Qui diable nous a faict ces jours,33,,E,34,True,Plagal
+Qui diable nous a faict ces jours,30,,None,31,True,NoCadence
+Qui diable nous a faict ces jours,28,"Displaced, Inverted, Evaded",C,29,True,Authentic
+Qui diable nous a faict ces jours,22,"Displaced, Evaded",C,23,True,Authentic
+Qui diable nous a faict ces jours,18,,None,19,True,NoCadence
+Qui diable nous a faict ces jours,15,,None,16,True,NoCadence
+Qui diable nous a faict ces jours,11,,C,14,True,Plagal
+Qui diable nous a faict ces jours,10,,D,11,True,Plagal
+Qui diable nous a faict ces jours,6,,C,7,True,Plagal
+Jehan se jouant un jour avec Jehannette,43,,C,44,True,Authentic
+Jehan se jouant un jour avec Jehannette,38,,C,39,True,Plagal
+Jehan se jouant un jour avec Jehannette,34,,G,35,True,Authentic
+Quand tant me mectz devant mes yeulx,18,Displaced,G,19,True,Authentic
+Quand tant me mectz devant mes yeulx,20,,G,22,True,Authentic
+Quand tant me mectz devant mes yeulx,16,"Displaced, Inverted",D,17,True,Phrygian
+Quand tant me mectz devant mes yeulx,14,,None,15,True,NoCadence
+Quand tant me mectz devant mes yeulx,10,,None,11,True,NoCadence
+Quand tant me mectz devant mes yeulx,3,,D,4,True,Plagal
+Quand tant me mectz devant mes yeulx,5,,G,7,True,Authentic
+Jehan se jouant un jour avec Jehannette,31,"Inverted, Evaded, Displaced",C,31,True,Authentic
+Jehan se jouant un jour avec Jehannette,25,,None,26,True,NoCadence
+Jehan se jouant un jour avec Jehannette,21,"Inverted, Displaced",G,24,True,Authentic
+Jehan se jouant un jour avec Jehannette,19,Displaced,G,21,True,CAD NDLT
+Jehan se jouant un jour avec Jehannette,14,"Inverted, Evaded, Displaced",C,15,True,Authentic
+Jehan se jouant un jour avec Jehannette,6,,C,7,True,Authentic
+Jehan se jouant un jour avec Jehannette,3,,E,3,True,Plagal
+Quelque yvrongne de par le monde,43,"Displaced, Evaded",C,45,True,CadInCad
+Quelque yvrongne de par le monde,37,,None,37,True,NoCadence
+Quelque yvrongne de par le monde,34,Incomplete,G,35,True,Authentic
+Quelque yvrongne de par le monde,27,"Displaced, Inverted, Evaded",G,29,True,Authentic
+Quelque yvrongne de par le monde,25,,None,25,True,NoCadence
+Quelque yvrongne de par le monde,19,,G,20,True,Authentic
+Quelque yvrongne de par le monde,16,,None,17,True,NoCadence
+Quelque yvrongne de par le monde,12,,C,14,True,Authentic
+Quelque yvrongne de par le monde,7,Displaced,C,8,True,Authentic
+Quelque yvrongne de par le monde,6,,None,6,True,NoCadence
+"Si je te voy, qui est ce que desire",38,,C,40,True,Authentic
+"Si je te voy, qui est ce que desire",24,Displaced,C,26,True,Authentic
+"Si je te voy, qui est ce que desire",20,,None,22,True,NoCadence
+"Si je te voy, qui est ce que desire",12,,C,13,True,Authentic
+"Si je te voy, qui est ce que desire",5,,E,6,True,Plagal
+Puisqu'à t'aimer ne reçoy que tourment,17,,G,19,True,Authentic
+Puisqu'à t'aimer ne reçoy que tourment,13,"Displaced, Inverted",G,15,True,Authentic
+Puisqu'à t'aimer ne reçoy que tourment,8,,C,10,True,Authentic
+Puisqu'à t'aimer ne reçoy que tourment,3,"Displaced, Inverted",C,4,True,Authentic
+Un jour dormoit Colin en my des prez,42,,F,43,True,Authentic
+Un jour dormoit Colin en my des prez,36,Incomplete,C,37,True,Authentic
+Un jour dormoit Colin en my des prez,33,Displaced,F,34,True,CAD NDLT
+Un jour dormoit Colin en my des prez,27,Incomplete,C,29,True,Authentic
+Un jour dormoit Colin en my des prez,25,"Evaded, Incomplete",C,26,True,Authentic
+Un jour dormoit Colin en my des prez,22,,G,23,True,Plagal
+Un jour dormoit Colin en my des prez,17,,F,18,True,Authentic
+Un jour dormoit Colin en my des prez,13,Evaded,C,14,True,Authentic
+Un jour dormoit Colin en my des prez,10,,F,11,True,Authentic
+Un jour dormoit Colin en my des prez,4,,None,5,True,NoCadence
+Il est permis trouver au lict s'amie,30,,F,32,True,Authentic
+Il est permis trouver au lict s'amie,27,,None,27,True,NoCadence
+Il est permis trouver au lict s'amie,22,,G,24,True,Authentic
+Il est permis trouver au lict s'amie,18,,None,18,True,NoCadence
+Il est permis trouver au lict s'amie,7,"Displaced, Inverted, Evaded",C,8,True,Authentic
+Il est permis trouver au lict s'amie,3,,None,4,True,NoCadence
+Où cerchez-vous du dieu d'amour l'empire,36,,F,38,True,Authentic
+Où cerchez-vous du dieu d'amour l'empire,30,,F,31,True,Authentic
+Où cerchez-vous du dieu d'amour l'empire,28,,D,29,True,Plagal
+Où cerchez-vous du dieu d'amour l'empire,23,Displaced,C,25,True,Authentic
+Où cerchez-vous du dieu d'amour l'empire,19,Displaced,C,20,True,CAD NDLT
+Où cerchez-vous du dieu d'amour l'empire,14,,G,15,True,Authentic
+Où cerchez-vous du dieu d'amour l'empire,9,,F,10,True,Authentic
+Où cerchez-vous du dieu d'amour l'empire,5,Displaced,C,6,True,CAD NDLT
+Puisque tu veulx mettre fin à ta plaincte,31,,E,32,True,Plagal
+Puisque tu veulx mettre fin à ta plaincte,25,Evaded,None,26,True,Authentic
+Puisque tu veulx mettre fin à ta plaincte,20,,A,21,True,Authentic
+Puisque tu veulx mettre fin à ta plaincte,16,,None,16,True,NoCadence
+Puisque tu veulx mettre fin à ta plaincte,10,,A,11,True,Authentic
+Puisque tu veulx mettre fin à ta plaincte,5,,C,7,True,Authentic
+Je ne veulx plus de mon malheur me plaindre,28,Displaced,E,29,True,Phrygian
+Je ne veulx plus de mon malheur me plaindre,25,,None,26,True,NoCadence
+Je ne veulx plus de mon malheur me plaindre,20,,A,22,True,Authentic
+Je ne veulx plus de mon malheur me plaindre,16,Displaced,G,17,True,CAD NDLT
+Je ne veulx plus de mon malheur me plaindre,14,,C,15,True,Authentic
+Je ne veulx plus de mon malheur me plaindre,11,,A,12,True,Authentic
+Je ne veulx plus de mon malheur me plaindre,6,"Displaced, Inverted, Evaded",C,7,True,Authentic
+Je ne veulx plus de mon malheur me plaindre,3,Displaced,E,3,True,Phrygian
+Quand je voy ma mignonne rire,18,,G,19,True,Authentic
+Quand je voy ma mignonne rire,16,,None,16,True,NoCadence
+Quand je voy ma mignonne rire,13,,None,13,True,NoCadence
+Quand je voy ma mignonne rire,9,,None,9,True,NoCadence
+Quand je voy ma mignonne rire,4,Evaded,D,5,True,Authentic
+Quand je voy ma mignonne rire,3,,None,3,True,NoCadence
+Ce disoit une jeune dame,40,,G,41,True,Authentic
+Ce disoit une jeune dame,35,Displaced,A,36,True,Phrygian
+Ce disoit une jeune dame,30,,D,31,True,Authentic
+Ce disoit une jeune dame,25,"Displaced, Inverted, Evaded",G,27,True,Authentic
+Ce disoit une jeune dame,21,,B-flat,22,True,Authentic
+Ce disoit une jeune dame,15,"Displaced, Inverted",None,15,True,Phrygian
+Ce disoit une jeune dame,7,,None,7,True,NoCadence
+Ce disoit une jeune dame,3,,None,4,True,NoCadence
+"J'endure tout, c'est bien raison",7,,None,7,True,NoCadence
+"J'endure tout, c'est bien raison",35,,G,36,True,Authentic
+"J'endure tout, c'est bien raison",30,,D,30,True,Plagal
+"J'endure tout, c'est bien raison",25,,D,27,True,Authentic
+"J'endure tout, c'est bien raison",24,,D,24,True,Plagal
+"J'endure tout, c'est bien raison",9,"Inverted, Evaded, Displaced",D,10,True,Authentic
+"J'endure tout, c'est bien raison",2,,D,4,True,Authentic
+"Ça ces beaux yeux, ça ceste bouche",32,,G,33,True,Authentic
+"Ça ces beaux yeux, ça ceste bouche",29,Displaced,A,30,True,Phrygian
+"Ça ces beaux yeux, ça ceste bouche",25,,B-flat,26,True,Authentic
+"Ça ces beaux yeux, ça ceste bouche",22,Evaded,D,23,True,Authentic
+"Ça ces beaux yeux, ça ceste bouche",11,,G,12,True,Authentic
+"Ça ces beaux yeux, ça ceste bouche",4,,D,6,True,Authentic
+Musiciens qui chantez à plaisir,54,,D,55,True,Authentic
+Musiciens qui chantez à plaisir,50,,G,52,True,Authentic
+Musiciens qui chantez à plaisir,37,,G,39,True,CadInCad
+Musiciens qui chantez à plaisir,30,,D,32,True,Authentic
+Musiciens qui chantez à plaisir,12,,G,13,True,Authentic
+Musiciens qui chantez à plaisir,5,,D,6,True,Plagal
+Musiciens qui chantez à plaisir,64,,G,65,True,Authentic
+Musiciens qui chantez à plaisir,59,,G,61,True,Authentic
+"Long temps y a, innocente pucelle",34,,G,35,True,Authentic
+"Long temps y a, innocente pucelle",28,,D,29,True,Authentic
+"Long temps y a, innocente pucelle",24,,D,24,True,Plagal
+"Long temps y a, innocente pucelle",18,,B-flat,19,True,Authentic
+"Long temps y a, innocente pucelle",15,,F,16,True,Plagal
+"Long temps y a, innocente pucelle",10,,G,12,True,Authentic
+"Long temps y a, innocente pucelle",5,,D,6,True,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,33,,D,34,True,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,31,"Inverted, Displaced",G,31,True,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,27,,D,28,True,Plagal
+Madame je vous remercie/ De m'avoir esté si rebourse,24,Displaced,B-flat,25,True,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,19,Displaced,D,20,True,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,11,,D,12,True,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,3,Displaced,D,5,True,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,2,Displaced,D,3,True,Authentic
+Si pour amans la lune est importune,30,,C,30,True,Plagal
+Si pour amans la lune est importune,24,Displaced,G,25,True,CAD NDLT
+Si pour amans la lune est importune,19,,C,20,True,Authentic
+Si pour amans la lune est importune,15,,None,16,True,NoCadence
+Si pour amans la lune est importune,8,,C,9,True,Authentic
+Si pour amans la lune est importune,4,,None,5,True,NoCadence
+Jamais amour n'aura ceste puissance,37,"Displaced, Inverted",D,38,True,Authentic
+Jamais amour n'aura ceste puissance,32,,A,33,True,Phrygian
+"Où est ce temps, dictes, mademoiselle",32,,G,33,True,Authentic
+Jamais amour n'aura ceste puissance,13,,G,14,True,Authentic
+Jamais amour n'aura ceste puissance,6,,B-flat,7,True,Authentic
+"Où est ce temps, dictes, mademoiselle",26,,None,27,True,NoCadence
+"Où est ce temps, dictes, mademoiselle",23,,D,23,True,Plagal
+"Où est ce temps, dictes, mademoiselle",16,,D,17,True,Authentic
+"Où est ce temps, dictes, mademoiselle",12,,G,13,True,Authentic
+Amour se doibt figurer une rose,28,,G,29,True,Authentic
+Amour se doibt figurer une rose,24,,D,25,True,Plagal
+Amour se doibt figurer une rose,19,,D,20,True,Authentic
+Amour se doibt figurer une rose,15,,B-flat,16,True,Authentic
+Amour se doibt figurer une rose,10,,G,11,True,Authentic
+Amour se doibt figurer une rose,5,Displaced,D,6,True,Phrygian
+"Plaisir, prouffit, honneur, advancement",43,,G,44,True,Authentic
+"Plaisir, prouffit, honneur, advancement",33,,B-flat,34,True,Authentic
+"Plaisir, prouffit, honneur, advancement",30,"Displaced, Evaded",B-flat,31,True,Authentic
+"Plaisir, prouffit, honneur, advancement",25,,None,26,True,NoCadence
+"Plaisir, prouffit, honneur, advancement",9,,G,10,True,Authentic
+"Plaisir, prouffit, honneur, advancement",6,,D,6,True,Plagal
+Or à ce jour le verd may se termine,56,,D,57,True,Authentic
+Or à ce jour le verd may se termine,53,"Displaced, Inverted, Evaded",A,54,True,Authentic
+Or à ce jour le verd may se termine,49,,None,50,True,NoCadence
+Or à ce jour le verd may se termine,46,,None,47,True,NoCadence
+Or à ce jour le verd may se termine,42,,A,43,True,Authentic
+Or à ce jour le verd may se termine,40,"Displaced, Inverted",D,41,True,Authentic
+Or à ce jour le verd may se termine,36,,F,37,True,Authentic
+Or à ce jour le verd may se termine,28,,D,29,True,Authentic
+Or à ce jour le verd may se termine,24,,None,25,True,NoCadence
+Or à ce jour le verd may se termine,21,,A,21,True,Plagal
+Or à ce jour le verd may se termine,17,"Displaced, Inverted, Evaded",A,18,True,Authentic
+Or à ce jour le verd may se termine,12,,A,13,True,Plagal
+Or à ce jour le verd may se termine,4,,A,5,True,Authentic
+D'amour me plainctz et du mal que je sens,38,,G,39,True,Authentic
+D'amour me plainctz et du mal que je sens,26,,None,26,True,NoCadence
+D'amour me plainctz et du mal que je sens,21,,G,22,True,Authentic
+D'amour me plainctz et du mal que je sens,17,Displaced,A,18,True,Phrygian
+D'amour me plainctz et du mal que je sens,11,,G,12,True,Authentic
+D'amour me plainctz et du mal que je sens,3,,D,4,True,Plagal
+La grant doulceur de vostre cler visaige,41,,G,42,True,Authentic
+La grant doulceur de vostre cler visaige,34,Displaced,D,35,True,Phrygian
+La grant doulceur de vostre cler visaige,29,,G,30,True,Plagal
+La grant doulceur de vostre cler visaige,23,,A,24,True,Phrygian
+La grant doulceur de vostre cler visaige,17,,G,18,True,Authentic
+La grant doulceur de vostre cler visaige,8,,B-flat,9,True,Authentic
+A tout jamais d'un vouloir immortel,56,,D,56,True,Plagal
+A tout jamais d'un vouloir immortel,50,,D,52,True,Authentic
+A tout jamais d'un vouloir immortel,40,"Incomplete, Evaded",D,41,True,Authentic
+A tout jamais d'un vouloir immortel,31,,G,32,True,Authentic
+A tout jamais d'un vouloir immortel,18,,B-flat,19,True,Authentic
+A tout jamais d'un vouloir immortel,9,,D,10,True,Authentic
+Elle voyant approcher mon départ ,22,,D,24,True,Authentic
+Elle voyant approcher mon départ ,16,,F,17,True,Authentic
+Elle voyant approcher mon départ ,11,,D,12,True,Authentic
+Elle voyant approcher mon départ ,6,,A,7,True,Plagal
+Si vous aviez comme moy faim,24,,G,26,True,Authentic
+Si vous aviez comme moy faim,20,Displaced,D,21,True,Phrygian
+Si vous aviez comme moy faim,16,,D,17,True,Authentic
+Si vous aviez comme moy faim,5,,G,7,True,Authentic
+Quand j'ay esté quinze heures avec vous,17,,G,18,True,Plagal
+Quand j'ay esté quinze heures avec vous,4,,B-flat,5,True,Authentic
+Vous estes un fascheux homme,46,,G,47,True,Authentic
+Vous estes un fascheux homme,39,"Inverted, Evaded, Displaced",G,40,True,Authentic
+Vous estes un fascheux homme,26,,G,27,True,Plagal
+Vous estes un fascheux homme,24,,G,25,True,Authentic
+Vous estes un fascheux homme,15,"Displaced, Inverted",A,15,True,Phrygian
+Vous estes un fascheux homme,12,"Inverted, Displaced, Evaded",D,12,True,Authentic
+Vous estes un fascheux homme,8,,G,9,True,Authentic
+J'ay le fruit tant désiré,27,,G,29,True,Authentic
+J'ay le fruit tant désiré,23,,D,24,True,Authentic
+J'ay le fruit tant désiré,20,,D,21,True,Plagal
+J'ay le fruit tant désiré,6,Incomplete,G,8,True,Authentic
+J'ay le fruit tant désiré,3,,B-flat,4,True,Authentic
+C'est a moy qu'en veult ce coqu,30,,D,31,True,Authentic
+C'est a moy qu'en veult ce coqu,14,,A,15,True,Plagal
+C'est a moy qu'en veult ce coqu,5,"Displaced, Inverted, Evaded",D,6,True,Authentic
+C'est a moy qu'en veult ce coqu,3,,None,3,True,NoCadence
+Quand contremont voirras retourner loyre,24,,D,25,True,Authentic
+Quand contremont voirras retourner loyre,20,,None,21,True,NoCadence
+Quand contremont voirras retourner loyre,19,"Displaced, Inverted, Evaded",D,20,True,Authentic
+Quand contremont voirras retourner loyre,17,,None,17,True,NoCadence
+Quand contremont voirras retourner loyre,13,,A,14,True,Plagal
+Quand contremont voirras retourner loyre,9,,A,10,Yes,Authentic
+Quand contremont voirras retourner loyre,6,,E,6,True,Plagal
+Prendre plaisir en aymant loyaulment,32,,G,34,True,Authentic
+Prendre plaisir en aymant loyaulment,21,,D,22,True,Authentic
+Prendre plaisir en aymant loyaulment,17,Inverted,G,18,True,Authentic
+Prendre plaisir en aymant loyaulment,15,"Displaced, Inverted",D,16,True,Authentic
+Prendre plaisir en aymant loyaulment,10,,G,12,True,Authentic
+Prendre plaisir en aymant loyaulment,5,Evaded,D,6,True,Authentic
+Quand suis au lict pour prendre mon repos,29,,G,30,True,Authentic
+Quand suis au lict pour prendre mon repos,22,"Displaced, Inverted",D,23,True,Authentic
+Quand suis au lict pour prendre mon repos,18,,D,18,True,Plagal
+Quand suis au lict pour prendre mon repos,14,"Inverted, Incomplete, Evaded",C,15,True,Authentic
+Quand suis au lict pour prendre mon repos,9,,G,10,True,Authentic
+Quand suis au lict pour prendre mon repos,3,,D,4,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,75,,G,77,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,67,,A,68,True,Phrygian
+Monsieur l'Abbé et monsieur son vallet,60,,G,62,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,56,,,57,True,NoCadence
+Monsieur l'Abbé et monsieur son vallet,56,,None,57,True,NoCadence
+Monsieur l'Abbé et monsieur son vallet,48,,G,49,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,42,,D,43,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,18,,G,19,True,Authentic
+Monsieur l'Abbé et monsieur son vallet,11,,D,12,True,Authentic
+"Rien plus ne quiers, ma dame me contente",28,None,G,29,Yes,Authentic
+"Rien plus ne quiers, ma dame me contente",28,None,G,29,Yes,Authentic
+"Rien plus ne quiers, ma dame me contente",23,Displaced,C,24,Yes,Authentic
+"Rien plus ne quiers, ma dame me contente",24,Displaced,C,24,Yes,CAD NDLT
+"Rien plus ne quiers, ma dame me contente",24,Displaced,C,24,Yes,Authentic
+"Rien plus ne quiers, ma dame me contente",17,None,C,18,Yes,Authentic
+"Rien plus ne quiers, ma dame me contente",18,None,C,19,Yes,Authentic
+"Rien plus ne quiers, ma dame me contente",12,None,G,14,Yes,Authentic
+"Rien plus ne quiers, ma dame me contente",13,None,G,14,Yes,Authentic
+"Rien plus ne quiers, ma dame me contente",7,None,G,8,Yes,Authentic
+"Rien plus ne quiers, ma dame me contente",2,None,G,3,Yes,Authentic
+"Rien plus ne quiers, ma dame me contente",8,None,G,8,Yes,Authentic
+Ne vous faschez si me voyez jaloux,45,None,G,45,Yes,Authentic
+Ne vous faschez si me voyez jaloux,40,Displaced,C,40,Yes,Authentic
+Ne vous faschez si me voyez jaloux,35,None,None,36,Yes,NoCadence
+Ne vous faschez si me voyez jaloux,32,Evaded,C,32,Yes,Authentic
+Ne vous faschez si me voyez jaloux,13,,G,14,Yes,Authentic
+Ne vous faschez si me voyez jaloux,8,None,C,8,Yes,Authentic
+C'est a grand tort qu'on dict que le penser,39,None,F,40,Yes,Authentic
+C'est a grand tort qu'on dict que le penser,34,None,F,35,Yes,CadInCad
+C'est a grand tort qu'on dict que le penser,29,"Displaced, Inverted",C,30,Yes,Authentic
+C'est a grand tort qu'on dict que le penser,24,None,C,25,Yes,Plagal
+C'est a grand tort qu'on dict que le penser,20,"Displaced, Inverted, Evaded",F,21,Yes,Authentic
+C'est a grand tort qu'on dict que le penser,13,None,F,14,Yes,Authentic
+C'est a grand tort qu'on dict que le penser,8,Displaced,F,9,Yes,Authentic
+Mon povre cueur qui sans aulcun repos,43,None,F,44,Yes,Authentic
+Mon povre cueur qui sans aulcun repos,39,Displaced,F,40,Yes,Authentic
+Mon povre cueur qui sans aulcun repos,34,,C,35,Yes,CadInCad
+Mon povre cueur qui sans aulcun repos,30,"Displaced, Inverted, Evaded",F,31,Yes,Authentic
+Mon povre cueur qui sans aulcun repos,24,Incomplete,F,25,Yes,Authentic
+Mon povre cueur qui sans aulcun repos,12,None,F,13,Yes,Authentic
+Mon povre cueur qui sans aulcun repos,6,Displaced,F,7,Yes,Authentic
+"En ce verd moys, temps opportun",39,None,F,40,Yes,Authentic
+"En ce verd moys, temps opportun",34,None,None,34,Yes,NoCadence
+"En ce verd moys, temps opportun",31,"Displaced, Inverted, Evaded",F,32,Yes,Authentic
+"En ce verd moys, temps opportun",26,None,None,26,Yes,NoCadence
+"En ce verd moys, temps opportun",11,None,F,12,Yes,Authentic
+"En ce verd moys, temps opportun",3,None,None,4,Yes,NoCadence
+O cruaulté logée en grant beaulté,24,None,F,24,Yes,Authentic
+O cruaulté logée en grant beaulté,17,None,A,18,Yes,Plagal
+O cruaulté logée en grant beaulté,13,"Displaced, Inverted, Evaded",C,13,Yes,Authentic
+O cruaulté logée en grant beaulté,8,None,F,9,Yes,Authentic
+O cruaulté logée en grant beaulté,4,None,A,4,Yes,Plagal
+Ayant servy soubs faveur de l'attente,22,None,G,22,Yes,Authentic
+Ayant servy soubs faveur de l'attente,13,"Displaced, Inverted, Evaded",C,13,Yes,Authentic
+Ayant servy soubs faveur de l'attente,9,None,C,10,Yes,Authentic
+"Dame excellente, en vertu bien apprise",29,Displaced,C,30,Yes,CAD NDLT
+"Dame excellente, en vertu bien apprise",21,"Displaced, Inverted",C,22,Yes,Authentic
+"Dame excellente, en vertu bien apprise",16,Displaced,G,17,Yes,Authentic
+"Dame excellente, en vertu bien apprise",11,,G,12,Yes,Authentic
+"Dame excellente, en vertu bien apprise",7,Displaced,C,8,Yes,Authentic
+Si j'estois mariée à mon amy,27,None,G,28,Yes,Authentic
+Si j'estois mariée à mon amy,25,"Displaced, Evaded",D,26,Yes,Phrygian
+Si j'estois mariée à mon amy,19,None,G,19,Yes,Authentic
+Si j'estois mariée à mon amy,12,None,G,13,Yes,Authentic
+Si j'estois mariée à mon amy,11,Evaded,G,11,Yes,Authentic
+Si j'estois mariée à mon amy,4,None,None,6,Yes,NoCadence
+L'aveuglé Dieu qui partout vole nud,37,,,38,Yes,NoCadence
+L'aveuglé Dieu qui partout vole nud,36,None,None,37,Yes,NoCadence
+L'aveuglé Dieu qui partout vole nud,29,Displaced,B-flat,30,Yes,Authentic
+L'aveuglé Dieu qui partout vole nud,30,Displaced,B-flat,32,Yes,Authentic
+L'aveuglé Dieu qui partout vole nud,25,"Inverted, Evaded",C,26,Yes,Authentic
+L'aveuglé Dieu qui partout vole nud,25,"Inverted, Evaded",C,26,Yes,Authentic
+L'aveuglé Dieu qui partout vole nud,18,,G,19,Yes,Authentic
+L'aveuglé Dieu qui partout vole nud,18,,G,19,Yes,Authentic
+L'aveuglé Dieu qui partout vole nud,12,None,F,13,Yes,Authentic
+L'aveuglé Dieu qui partout vole nud,8,,A,8,Yes,Plagal
+L'aveuglé Dieu qui partout vole nud,12,None,F,13,Yes,Authentic
+L'aveuglé Dieu qui partout vole nud,5,"Evaded, Doubtful",F,6,Yes,Authentic
+L'aveuglé Dieu qui partout vole nud,4,"Displaced, Inverted, Evaded",F,4,Yes,Authentic
+L'aveuglé Dieu qui partout vole nud,5,None,None,6,Yes,NoCadence
+Amour voyant le travail soucieux,27,"Displaced, Inverted, Evaded",D,28,Yes,Authentic
+Amour voyant le travail soucieux,21,,B-flat,22,Yes,Authentic
+Amour voyant le travail soucieux,13,None,G,14,Yes,Authentic
+Amour voyant le travail soucieux,7,None,None,8,Yes,NoCadence
+Au joly bocquet croist la violette,30,None,G,31,Yes,Authentic
+Au joly bocquet croist la violette,28,None,None,28,Yes,NoCadence
+Au joly bocquet croist la violette,24,None,None,25,Yes,NoCadence
+Au joly bocquet croist la violette,22,None,G,22,Yes,Authentic
+Au joly bocquet croist la violette,21,"Displaced, Inverted",A,21,Yes,Phrygian
+Au joly bocquet croist la violette,20,None,G,20,Yes,Plagal
+Au joly bocquet croist la violette,18,None,None,19,Yes,NoCadence
+Au joly bocquet croist la violette,17,None,None,17,Yes,NoCadence
+Au joly bocquet croist la violette,16,"Displaced, Inverted, Evaded",D,16,Yes,Authentic
+Au joly bocquet croist la violette,10,None,None,10,Yes,NoCadence
+Au joly bocquet croist la violette,8,None,G,9,Yes,Authentic
+Chasse rigueur loing de toy qui es belle,35,None,F,36,Yes,Authentic
+Chasse rigueur loing de toy qui es belle,35,None,F,36,Yes,None
+Chasse rigueur loing de toy qui es belle,29,"Displaced, Inverted, Evaded",C,30,Yes,Authentic
+Chasse rigueur loing de toy qui es belle,25,"Displaced, Inverted",C,26,Yes,Authentic
+Chasse rigueur loing de toy qui es belle,24,"Displaced, Inverted",C,25,Yes,Authentic
+Chasse rigueur loing de toy qui es belle,21,Displaced,C,22,Yes,Authentic
+Chasse rigueur loing de toy qui es belle,21,Displaced,C,22,Yes,Authentic
+Chasse rigueur loing de toy qui es belle,16,None,C,17,Yes,Authentic
+Chasse rigueur loing de toy qui es belle,16,None,C,17,Yes,Authentic
+Chasse rigueur loing de toy qui es belle,12,,,12,Yes,NoCadence
+Chasse rigueur loing de toy qui es belle,12,None,None,13,Yes,NoCadence
+Chasse rigueur loing de toy qui es belle,7,,A,8,Yes,Phrygian
+Chasse rigueur loing de toy qui es belle,8,,A,8,Yes,Phrygian
+Chasse rigueur loing de toy qui es belle,4,Displaced,A,5,Yes,Phrygian
+Chasse rigueur loing de toy qui es belle,4,Displaced,A,5,Yes,Phrygian
+"Las, si tu as plaisir en mon ennuy",36,None,A,37,Yes,Authentic
+"Las, si tu as plaisir en mon ennuy",32,None,E,32,Yes,Plagal
+"Las, si tu as plaisir en mon ennuy",28,None,C,28,Yes,Authentic
+"Las, si tu as plaisir en mon ennuy",24,None,None,25,Yes,NoCadence
+"Las, si tu as plaisir en mon ennuy",11,None,A,11,Yes,Authentic
+"Las, si tu as plaisir en mon ennuy",4,None,C,5,Yes,Authentic
+Tant plus sur toy sont arrestez mes yeulx,26,"Displaced, Inverted, Evaded",G,27,Yes,None
+Tant plus sur toy sont arrestez mes yeulx,20,"Displaced, Incomplete",D,21,Yes,Authentic
+Tant plus sur toy sont arrestez mes yeulx,16,None,B-flat,16,Yes,Authentic
+Tant plus sur toy sont arrestez mes yeulx,12,None,G,12,Yes,Authentic
+Tant plus sur toy sont arrestez mes yeulx,4,Displaced,D,4,Yes,Phrygian
+Amour et moy avons faict accointance,41,"Displaced, Inverted, Evaded",G,42,Yes,Authentic
+Amour et moy avons faict accointance,38,None,D,39,Yes,Authentic
+Amour et moy avons faict accointance,38,None,D,39,Yes,Authentic
+Amour et moy avons faict accointance,31,None,G,32,Yes,Authentic
+Amour et moy avons faict accointance,31,None,G,32,Yes,Authentic
+Amour et moy avons faict accointance,24,"Displaced, Inverted, Evaded",D,25,Yes,Authentic
+Amour et moy avons faict accointance,25,"Displaced, Inverted, Evaded",D,26,Yes,Authentic
+Amour et moy avons faict accointance,21,None,B-flat,22,Yes,Authentic
+Amour et moy avons faict accointance,21,Evaded,B-flat,22,Yes,Authentic
+Amour et moy avons faict accointance,15,,B-flat,16,Yes,"Authentic, Displaced"
+Amour et moy avons faict accointance,15,Displaced,B-flat,16,Yes,Authentic
+Amour et moy avons faict accointance,11,None,G,12,Yes,Authentic
+Amour et moy avons faict accointance,11,None,G,12,Yes,Authentic
+Amour et moy avons faict accointance,3,"Displaced, Inverted, Incomplete, Evaded",G,4,Yes,CadInCad
+Amour et moy avons faict accointance,7,Displaced,D,7,Yes,Phrygian
+Amour et moy avons faict accointance,7,Displaced,D,7,Yes,Phrygian
+Amour du coeur vient et prend sa naissance,52,None,G,52,Yes,Authentic
+Amour du coeur vient et prend sa naissance,34,None,None,35,Yes,NoCadence
+Amour du coeur vient et prend sa naissance,30,None,D,30,Yes,Plagal
+Amour du coeur vient et prend sa naissance,21,"Displaced, Inverted, Evaded",D,22,Yes,Authentic
+Amour du coeur vient et prend sa naissance,9,None,G,10,Yes,Authentic
+Amour du coeur vient et prend sa naissance,6,"Displaced, Inverted, Evaded",D,6,Yes,Authentic
+"Mais dont vient que vous, damoyselles",30,None,G,31,Yes,Authentic
+"Mais dont vient que vous, damoyselles",26,None,B-flat,26,Yes,Plagal
+"Mais dont vient que vous, damoyselles",21,"Displaced, Inverted",D,22,Yes,Phrygian
+"Mais dont vient que vous, damoyselles",21,"Displaced, Inverted",D,22,Yes,Phrygian
+"Mais dont vient que vous, damoyselles",18,Displaced,B-flat,18,Yes,Authentic
+"Mais dont vient que vous, damoyselles",17,Displaced,B-flat,18,Yes,Authentic
+"Mais dont vient que vous, damoyselles",15,None,B-flat,15,Yes,Authentic
+"Mais dont vient que vous, damoyselles",14,None,B-flat,15,Yes,Authentic
+"Mais dont vient que vous, damoyselles",11,None,D,11,Yes,Authentic
+"Mais dont vient que vous, damoyselles",10,Evaded,D,11,Yes,Authentic
+"Mais dont vient que vous, damoyselles",7,None,G,8,Yes,Authentic
+"Mais dont vient que vous, damoyselles",6,None,G,8,Yes,Authentic
+"Mais dont vient que vous, damoyselles",4,None,D,4,Yes,Plagal
+"Mais dont vient que vous, damoyselles",4,,D,4,Yes,Plagal
+Si Salamandre en flamme vit c'est peu,44,None,D,45,Yes,Authentic
+Si Salamandre en flamme vit c'est peu,44,None,D,45,Yes,Authentic
+Si Salamandre en flamme vit c'est peu,44,None,D,45,Yes,Authentic
+Si Salamandre en flamme vit c'est peu,38,"Displaced, Inverted, Evaded",D,39,Yes,CadInCad
+Si Salamandre en flamme vit c'est peu,38,"Displaced, Inverted, Incomplete, Evaded",D,39,Yes,CadInCad
+Si Salamandre en flamme vit c'est peu,38,"Displaced, Inverted, Evaded",D,39,Yes,CadInCad
+Si Salamandre en flamme vit c'est peu,33,None,A,34,Yes,CadInCad
+Si Salamandre en flamme vit c'est peu,32,None,A,33,Yes,CadInCad
+Si Salamandre en flamme vit c'est peu,32,None,A,33,Yes,Authentic
+Si Salamandre en flamme vit c'est peu,30,"Displaced, Inverted",A,31,Yes,Authentic
+Si Salamandre en flamme vit c'est peu,27,None,A,27,Yes,Plagal
+Si Salamandre en flamme vit c'est peu,27,,A,27,Yes,Plagal
+Si Salamandre en flamme vit c'est peu,27,None,A,27,Yes,Plagal
+Si Salamandre en flamme vit c'est peu,11,None,D,12,Yes,Authentic
+Si Salamandre en flamme vit c'est peu,11,,D,12,Yes,Authentic
+Si Salamandre en flamme vit c'est peu,11,None,D,12,Yes,Authentic
+Si Salamandre en flamme vit c'est peu,5,"Displaced, Inverted",A,6,Yes,Authentic
+Si Salamandre en flamme vit c'est peu,4,"Displaced, Inverted",A,6,Yes,Authentic
+Si Salamandre en flamme vit c'est peu,5,"Displaced, Inverted",A,6,Yes,Authentic
+"Las, si amour nouveau conseil n'apporte",27,Displaced,B-flat,28,Yes,Authentic
+"Las, si amour nouveau conseil n'apporte",27,Displaced,B-flat,28,Yes,Authentic
+"Las, si amour nouveau conseil n'apporte",26,Displaced,B-flat,28,Yes,Authentic
+"Las, si amour nouveau conseil n'apporte",17,Incomplete,D,18,Yes,Authentic
+"Las, si amour nouveau conseil n'apporte",17,Incomplete,D,18,Yes,Authentic
+"Las, si amour nouveau conseil n'apporte",17,Incomplete,D,18,Yes,Authentic
+"Las, si amour nouveau conseil n'apporte",8,None,G,9,Yes,Authentic
+"Las, si amour nouveau conseil n'apporte",8,None,G,9,Yes,Authentic
+"Las, si amour nouveau conseil n'apporte",8,None,G,9,Yes,Authentic
+Je suis honteux et n'ose descouvrir,20,Displaced,D,21,Yes,Phrygian
+Je suis honteux et n'ose descouvrir,20,Displaced,D,21,Yes,Phrygian
+Je suis honteux et n'ose descouvrir,20,Displaced,D,21,Yes,Phrygian
+Je suis honteux et n'ose descouvrir,15,None,D,16,Yes,Authentic
+Je suis honteux et n'ose descouvrir,15,,D,16,Yes,Authentic
+Je suis honteux et n'ose descouvrir,16,None,D,16,Yes,Authentic
+Je suis honteux et n'ose descouvrir,15,None,D,16,Yes,Authentic
+Je suis honteux et n'ose descouvrir,9,None,G,10,Yes,Authentic
+Je suis honteux et n'ose descouvrir,10,None,G,10,Yes,Authentic
+Je suis honteux et n'ose descouvrir,9,None,G,10,Yes,Authentic
+Je suis honteux et n'ose descouvrir,5,None,None,5,Yes,NoCadence
+Je suis honteux et n'ose descouvrir,5,None,None,5,Yes,NoCadence
+Je suis honteux et n'ose descouvrir,4,None,None,10,Yes,NoCadence
+A ce matin d'un beau bouquet de rose,30,"Displaced, Inverted, Evaded",D,31,Yes,Authentic
+A ce matin d'un beau bouquet de rose,29,"Displaced, Inverted, Evaded",D,30,Yes,Authentic
+A ce matin d'un beau bouquet de rose,23,Evaded,D,24,Yes,Authentic
+A ce matin d'un beau bouquet de rose,24,None,D,25,Yes,Authentic
+A ce matin d'un beau bouquet de rose,19,,B-flat,20,Yes,Authentic
+A ce matin d'un beau bouquet de rose,20,None,B-flat,21,Yes,Authentic
+A ce matin d'un beau bouquet de rose,18,"Displaced, Inverted",G,19,Yes,Authentic
+A ce matin d'un beau bouquet de rose,16,,A,17,Yes,Plagal
+A ce matin d'un beau bouquet de rose,16,None,A,17,Yes,Plagal
+A ce matin d'un beau bouquet de rose,10,None,G,11,Yes,Authentic
+A ce matin d'un beau bouquet de rose,10,None,G,11,Yes,Authentic
+A ce matin d'un beau bouquet de rose,6,Displaced,D,6,Yes,Authentic
+A ce matin d'un beau bouquet de rose,4,"Displaced, Evaded, Doubtful",D,6,Yes,CadInCad
+Je ne suis pas si sot berger,25,None,G,26,Yes,Authentic
+Je ne suis pas si sot berger,26,None,G,26,Yes,Authentic
+Je ne suis pas si sot berger,25,None,G,26,Yes,Authentic
+Je ne suis pas si sot berger,24,None,None,24,Yes,NoCadence
+Je ne suis pas si sot berger,24,None,None,24,Yes,NoCadence
+Je ne suis pas si sot berger,24,None,None,26,Yes,NoCadence
+Je ne suis pas si sot berger,19,None,B-flat,20,Yes,CadInCad
+Je ne suis pas si sot berger,20,None,B-flat,20,Yes,Authentic
+Je ne suis pas si sot berger,19,None,B-flat,20,Yes,Authentic
+Je ne suis pas si sot berger,17,Evaded,G,18,Yes,NoCadence
+Je ne suis pas si sot berger,18,None,None,18,Yes,NoCadence
+Je ne suis pas si sot berger,18,None,None,20,Yes,NoCadence
+Je ne suis pas si sot berger,16,None,G,16,Yes,Authentic
+Je ne suis pas si sot berger,11,Incomplete,G,13,Yes,NoCadence
+Je ne suis pas si sot berger,8,None,G,8,Yes,Authentic
+Je ne suis pas si sot berger,4,"Displaced, Inverted, Incomplete",G,5,Yes,Authentic
+Je ne suis pas si sot berger,7,None,G,8,Yes,Authentic
+Je ne suis pas si sot berger,4,"Displaced, Inverted, Incomplete",G,5,Yes,Authentic
+Je ne suis pas si sot berger,8,None,G,8,Yes,Authentic
+Je ne suis pas si sot berger,5,"Displaced, Inverted, Incomplete",G,5,Yes,Authentic
+Si je cuidois (pour gemir et complaindre),27,None,G,29,Yes,Authentic
+Si je cuidois (pour gemir et complaindre),24,"Displaced, Inverted, Evaded",D,25,Yes,Authentic
+Si je cuidois (pour gemir et complaindre),28,None,G,29,Yes,Authentic
+Si je cuidois (pour gemir et complaindre),21,Displaced,D,22,Yes,Phrygian
+Si je cuidois (pour gemir et complaindre),21,Displaced,D,22,Yes,Phrygian
+Si je cuidois (pour gemir et complaindre),16,None,B-flat,17,Yes,Authentic
+Si je cuidois (pour gemir et complaindre),15,,B-flat,16,Yes,Authentic
+Si je cuidois (pour gemir et complaindre),12,None,D,13,Yes,Authentic
+Si je cuidois (pour gemir et complaindre),13,Evaded,D,13,Yes,Authentic
+Si je cuidois (pour gemir et complaindre),8,None,G,9,Yes,Authentic
+Si je cuidois (pour gemir et complaindre),8,None,G,9,Yes,Authentic
+Si je cuidois (pour gemir et complaindre),3,"Displaced, Inverted, Evaded",D,4,Yes,Authentic
+Si je cuidois (pour gemir et complaindre),4,"Displaced, Inverted, Incomplete, Evaded",D,4,Yes,Authentic
+Si je cuidois (pour gemir et complaindre),4,"Displaced, Inverted, Incomplete, Evaded",D,6,Yes,CadInCad
+Si l'amyitié n'est que conjonction,21,"Displaced, Inverted",A,21,Yes,Phrygian
+Si l'amyitié n'est que conjonction,21,"Displaced, Inverted",A,21,Yes,Phrygian
+Si l'amyitié n'est que conjonction,21,"Displaced, Inverted",A,21,Yes,Phrygian
+Si l'amyitié n'est que conjonction,15,"Displaced, Incomplete, Evaded",D,16,Yes,CadInCad
+Si l'amyitié n'est que conjonction,14,"Displaced, Evaded, Inverted",D,16,Yes,CadInCad
+Si l'amyitié n'est que conjonction,15,"Displaced, Inverted, Incomplete, Evaded",D,16,Yes,CadInCad
+Si l'amyitié n'est que conjonction,10,,D,10,Yes,Authentic
+Si l'amyitié n'est que conjonction,9,None,D,10,Yes,Authentic
+Si l'amyitié n'est que conjonction,10,None,D,10,Yes,Authentic
+Si l'amyitié n'est que conjonction,4,None,A,4,Yes,Authentic
+Si l'amyitié n'est que conjonction,3,None,A,4,Yes,Authentic
+Si l'amyitié n'est que conjonction,4,None,A,4,Yes,Authentic
+Faisons le dire mensonger,25,None,D,26,Yes,Authentic
+Faisons le dire mensonger,25,None,D,26,Yes,Authentic
+Faisons le dire mensonger,26,None,D,26,Yes,Authentic
+Faisons le dire mensonger,19,Evaded,F,20,Yes,Authentic
+Faisons le dire mensonger,19,Evaded,F,20,Yes,Authentic
+Faisons le dire mensonger,19,"Incomplete, Evaded",F,20,Yes,Authentic
+Faisons le dire mensonger,15,Displaced,A,16,Yes,Authentic
+Faisons le dire mensonger,15,Displaced,A,16,Yes,Authentic
+Faisons le dire mensonger,15,Displaced,A,16,Yes,Authentic
+Faisons le dire mensonger,9,"Displaced, Evaded, Inverted",A,10,Yes,Authentic
+Faisons le dire mensonger,4,Displaced,A,5,Yes,Authentic
+Faisons le dire mensonger,9,"Displaced, Inverted, Evaded",A,10,Yes,Authentic
+Faisons le dire mensonger,5,Displaced,A,5,Yes,Authentic
+Faisons le dire mensonger,9,"Displaced, Inverted, Incomplete, Evaded",A,10,Yes,Authentic
+Faisons le dire mensonger,5,"Displaced, Doubtful",A,5,Yes,Authentic
+Je ne cognois femme en ceste contrée,38,,E,39,Yes,Phrygian
+Je ne cognois femme en ceste contrée,34,Displaced,A,35,Yes,Phrygian
+Je ne cognois femme en ceste contrée,38,,E,39,Yes,Phrygian
+Je ne cognois femme en ceste contrée,33,"Evaded, Doubtful",F,34,Yes,Authentic
+Je ne cognois femme en ceste contrée,34,Incomplete,F,34,Yes,Authentic
+Je ne cognois femme en ceste contrée,29,Displaced,A,30,Yes,Phrygian
+Je ne cognois femme en ceste contrée,29,Displaced,A,30,Yes,Phrygian
+Je ne cognois femme en ceste contrée,24,None,A,25,Yes,Authentic
+Je ne cognois femme en ceste contrée,25,None,A,25,Yes,Authentic
+Je ne cognois femme en ceste contrée,10,None,D,11,Yes,Authentic
+Recepte pour un flux de bourse,33,Evaded,G,34,Yes,Authentic
+Recepte pour un flux de bourse,36,None,G,37,Yes,Plagal
+Recepte pour un flux de bourse,33,Evaded,G,34,Yes,Authentic
+Recepte pour un flux de bourse,29,"Inverted, Evaded",C,30,Yes,CadInCad
+Recepte pour un flux de bourse,29,"Inverted, Evaded",C,30,Yes,Authentic
+Recepte pour un flux de bourse,28,"Displaced, Incomplete",C,30,Yes,CadInCad
+Recepte pour un flux de bourse,25,None,None,27,Yes,NoCadence
+Recepte pour un flux de bourse,22,Displaced,C,23,Yes,Authentic
+Recepte pour un flux de bourse,23,Displaced,C,23,Yes,Authentic
+Recepte pour un flux de bourse,21,Displaced,C,22,Yes,Authentic
+Recepte pour un flux de bourse,18,None,C,19,Yes,Authentic
+Recepte pour un flux de bourse,18,None,C,19,Yes,Authentic
+Recepte pour un flux de bourse,10,,,13,Yes,NoCadence
+Recepte pour un flux de bourse,6,,G,7,Yes,Authentic
+Recepte pour un flux de bourse,6,None,G,8,Yes,Authentic
+Recepte pour un flux de bourse,4,Evaded,G,5,Yes,Authentic
+Recepte pour un flux de bourse,2,Evaded,G,4,Yes,Authentic
+Tels menus plaidz conferment les amours,36,None,G,37,Yes,Authentic
+Tels menus plaidz conferment les amours,36,None,G,37,Yes,Authentic
+Tels menus plaidz conferment les amours,36,None,G,37,Yes,Authentic
+Tels menus plaidz conferment les amours,32,None,C,33,Yes,Plagal
+Tels menus plaidz conferment les amours,32,None,C,33,Yes,Plagal
+Tels menus plaidz conferment les amours,32,None,C,33,Yes,Plagal
+Tels menus plaidz conferment les amours,28,Displaced,C,29,Yes,Authentic
+Tels menus plaidz conferment les amours,28,Displaced,C,29,Yes,Authentic
+Tels menus plaidz conferment les amours,25,None,C,26,Yes,Authentic
+Tels menus plaidz conferment les amours,28,Displaced,C,29,Yes,Authentic
+Tels menus plaidz conferment les amours,25,None,C,26,Yes,Authentic
+Tels menus plaidz conferment les amours,25,None,C,26,Yes,Authentic
+Tels menus plaidz conferment les amours,21,None,C,22,Yes,Authentic
+Tels menus plaidz conferment les amours,21,None,C,22,Yes,Authentic
+Tels menus plaidz conferment les amours,21,None,C,22,Yes,Authentic
+Tels menus plaidz conferment les amours,16,None,None,16,Yes,NoCadence
+Tels menus plaidz conferment les amours,17,Displaced,C,18,Yes,Authentic
+Tels menus plaidz conferment les amours,17,None,None,19,Yes,NoCadence
+Tels menus plaidz conferment les amours,11,None,G,12,Yes,Authentic
+Tels menus plaidz conferment les amours,4,None,G,5,Yes,Authentic
+Tels menus plaidz conferment les amours,11,None,G,12,Yes,Authentic
+Tels menus plaidz conferment les amours,4,None,G,5,Yes,Authentic
+Tels menus plaidz conferment les amours,4,None,G,5,Yes,Authentic
+Tels menus plaidz conferment les amours,1,"Displaced, Inverted, Evaded",C,2,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,35,None,G,36,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,35,None,G,36,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,30,Evaded,C,31,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,31,None,None,32,Yes,NoCadence
+Jamais amour sans guerre n'est parfaict,30,Evaded,C,31,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,27,Displaced,C,28,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,27,Displaced,C,28,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,22,Incomplete,C,23,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,22,Incomplete,C,23,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,19,Displaced,C,20,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,19,Displaced,C,20,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,15,None,G,16,Yes,Plagal
+Jamais amour sans guerre n'est parfaict,16,None,G,16,Yes,Plagal
+Jamais amour sans guerre n'est parfaict,11,None,G,12,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,11,None,G,12,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,5,"Displaced, Inverted",G,6,Yes,Authentic
+Jamais amour sans guerre n'est parfaict,6,"Displaced, Inverted, Incomplete",C,7,Yes,Authentic
+Qui diable nous a faict ces jours,36,None,G,37,Yes,Authentic
+Qui diable nous a faict ces jours,36,None,G,37,Yes,Authentic
+Qui diable nous a faict ces jours,33,,E,34,Yes,Plagal
+Qui diable nous a faict ces jours,33,None,E,34,Yes,Plagal
+Qui diable nous a faict ces jours,30,"Displaced, Inverted",C,31,Yes,None
+Qui diable nous a faict ces jours,31,"Displaced, Inverted, Evaded",C,31,Yes,Authentic
+Qui diable nous a faict ces jours,28,"Displaced, Inverted, Evaded",C,29,Yes,Authentic
+Qui diable nous a faict ces jours,28,"Displaced, Inverted, Evaded",C,29,Yes,Authentic
+Qui diable nous a faict ces jours,22,Displaced,C,23,Yes,Authentic
+Qui diable nous a faict ces jours,22,Displaced,C,23,Yes,Authentic
+Qui diable nous a faict ces jours,18,None,None,19,Yes,NoCadence
+Qui diable nous a faict ces jours,15,,E,15,Yes,Phrygian
+Qui diable nous a faict ces jours,15,Displaced,E,15,Yes,Phrygian
+Qui diable nous a faict ces jours,13,None,C,14,Yes,Plagal
+Qui diable nous a faict ces jours,13,None,C,14,Yes,Plagal
+Qui diable nous a faict ces jours,10,None,D,11,Yes,Plagal
+Qui diable nous a faict ces jours,6,None,C,7,Yes,Plagal
+Qui diable nous a faict ces jours,6,None,C,7,Yes,Plagal
+Jehan se jouant un jour avec Jehannette,43,None,C,44,Yes,Authentic
+Jehan se jouant un jour avec Jehannette,43,None,C,44,Yes,Authentic
+Jehan se jouant un jour avec Jehannette,38,,C,39,Yes,Plagal
+Jehan se jouant un jour avec Jehannette,38,None,C,39,Yes,Plagal
+Jehan se jouant un jour avec Jehannette,34,None,G,35,Yes,Authentic
+Jehan se jouant un jour avec Jehannette,34,None,G,35,Yes,Authentic
+Jehan se jouant un jour avec Jehannette,31,"Displaced, Inverted, Evaded",C,31,Yes,Authentic
+Jehan se jouant un jour avec Jehannette,23,"Displaced, Inverted",G,24,Yes,Authentic
+Jehan se jouant un jour avec Jehannette,25,None,None,26,Yes,NoCadence
+Jehan se jouant un jour avec Jehannette,23,"Displaced, Inverted",G,24,Yes,Authentic
+Jehan se jouant un jour avec Jehannette,20,Displaced,G,21,Yes,CAD NDLT
+Jehan se jouant un jour avec Jehannette,20,Displaced,G,21,Yes,CAD NDLT
+Jehan se jouant un jour avec Jehannette,14,,E,15,Yes,Phrygian
+Jehan se jouant un jour avec Jehannette,10,None,C,11,Yes,Plagal
+Jehan se jouant un jour avec Jehannette,6,,C,7,Yes,Authentic
+Jehan se jouant un jour avec Jehannette,6,None,C,7,Yes,Authentic
+Jehan se jouant un jour avec Jehannette,6,None,C,7,Yes,Authentic
+Jehan se jouant un jour avec Jehannette,3,None,E,3,Yes,Plagal
+Jehan se jouant un jour avec Jehannette,3,None,E,3,Yes,Plagal
+Quelque yvrongne de par le monde,43,"Displaced, Evaded",C,44,Yes,CadInCad
+Quelque yvrongne de par le monde,40,Displaced,C,41,Yes,Authentic
+Quelque yvrongne de par le monde,40,Displaced,C,41,Yes,Authentic
+Quelque yvrongne de par le monde,35,None,None,37,Yes,NoCadence
+Quelque yvrongne de par le monde,33,,G,35,Yes,Authentic
+Quelque yvrongne de par le monde,33,,G,35,Yes,Authentic
+Quelque yvrongne de par le monde,28,"Displaced, Inverted",G,29,Yes,Authentic
+Quelque yvrongne de par le monde,23,None,None,25,Yes,NoCadence
+Quelque yvrongne de par le monde,19,None,G,20,Yes,Authentic
+Quelque yvrongne de par le monde,16,None,None,17,Yes,NoCadence
+Quelque yvrongne de par le monde,13,None,C,14,Yes,Authentic
+Quelque yvrongne de par le monde,28,"Displaced, Inverted, Evaded",G,29,Yes,Authentic
+Quelque yvrongne de par le monde,13,None,C,14,Yes,Authentic
+Quelque yvrongne de par le monde,7,Displaced,C,8,Yes,Authentic
+Quelque yvrongne de par le monde,4,None,None,6,Yes,NoCadence
+"Si je te voy, qui est ce que desire",24,Displaced,C,25,Yes,Authentic
+"Si je te voy, qui est ce que desire",24,Displaced,C,25,Yes,Authentic
+"Si je te voy, qui est ce que desire",20,None,None,22,Yes,NoCadence
+"Si je te voy, qui est ce que desire",19,None,C,20,Yes,Plagal
+"Si je te voy, qui est ce que desire",20,None,None,21,Yes,NoCadence
+"Si je te voy, qui est ce que desire",12,None,C,13,Yes,Authentic
+"Si je te voy, qui est ce que desire",12,None,C,13,Yes,Authentic
+"Si je te voy, qui est ce que desire",7,"Displaced, Inverted",C,8,Yes,Authentic
+"Si je te voy, qui est ce que desire",12,None,C,13,Yes,Authentic
+"Si je te voy, qui est ce que desire",7,Displaced,C,8,Yes,Authentic
+"Si je te voy, qui est ce que desire",5,None,E,6,Yes,Plagal
+"Si je te voy, qui est ce que desire",1,Evaded,C,3,Yes,Authentic
+"Si je te voy, qui est ce que desire",5,None,E,6,Yes,Plagal
+Puisqu'à t'aimer ne reçoy que tourment,18,None,G,19,Yes,Authentic
+Puisqu'à t'aimer ne reçoy que tourment,18,None,G,19,Yes,Authentic
+Puisqu'à t'aimer ne reçoy que tourment,14,"Displaced, Inverted",G,15,Yes,Authentic
+Puisqu'à t'aimer ne reçoy que tourment,14,"Displaced, Inverted",G,15,Yes,Authentic
+Puisqu'à t'aimer ne reçoy que tourment,9,None,C,10,Yes,Authentic
+Puisqu'à t'aimer ne reçoy que tourment,9,None,C,10,Yes,Authentic
+Puisqu'à t'aimer ne reçoy que tourment,3,"Displaced, Inverted, Evaded",C,4,Yes,Authentic
+Puisqu'à t'aimer ne reçoy que tourment,3,"Displaced, Inverted, Evaded",C,4,Yes,Authentic
+Un jour dormoit Colin en my des prez,42,None,F,43,Yes,Authentic
+Un jour dormoit Colin en my des prez,42,None,F,43,Yes,Authentic
+Un jour dormoit Colin en my des prez,39,Displaced,F,40,Yes,Authentic
+Un jour dormoit Colin en my des prez,42,None,F,43,Yes,Authentic
+Un jour dormoit Colin en my des prez,36,None,C,37,Yes,Authentic
+Un jour dormoit Colin en my des prez,36,,C,37,Yes,Authentic
+Un jour dormoit Colin en my des prez,36,,C,37,Yes,Authentic
+Un jour dormoit Colin en my des prez,32,Displaced,F,33,Yes,CAD NDLT
+Un jour dormoit Colin en my des prez,32,Displaced,F,33,Yes,CAD NDLT
+Un jour dormoit Colin en my des prez,28,None,C,29,Yes,Authentic
+Un jour dormoit Colin en my des prez,28,None,C,29,Yes,Authentic
+Un jour dormoit Colin en my des prez,28,,C,29,Yes,Authentic
+Un jour dormoit Colin en my des prez,25,Evaded,C,26,Yes,Authentic
+Un jour dormoit Colin en my des prez,25,Evaded,C,26,Yes,Authentic
+Un jour dormoit Colin en my des prez,25,Evaded,C,26,Yes,Authentic
+Un jour dormoit Colin en my des prez,22,None,G,23,Yes,Plagal
+Un jour dormoit Colin en my des prez,22,None,G,23,Yes,Plagal
+Un jour dormoit Colin en my des prez,22,None,G,23,Yes,Plagal
+Un jour dormoit Colin en my des prez,17,None,F,18,Yes,Authentic
+Un jour dormoit Colin en my des prez,17,None,F,18,Yes,Authentic
+Un jour dormoit Colin en my des prez,17,None,F,18,Yes,Authentic
+Un jour dormoit Colin en my des prez,13,None,C,14,Yes,Authentic
+Un jour dormoit Colin en my des prez,13,None,None,13,Yes,NoCadence
+Un jour dormoit Colin en my des prez,13,None,C,14,Yes,Authentic
+Un jour dormoit Colin en my des prez,13,Doubtful,None,14,Yes,None
+Un jour dormoit Colin en my des prez,10,None,F,11,Yes,Authentic
+Un jour dormoit Colin en my des prez,10,None,F,11,Yes,Authentic
+Un jour dormoit Colin en my des prez,10,None,F,11,Yes,Authentic
+Un jour dormoit Colin en my des prez,5,Displaced,F,6,Yes,CAD NDLT
+Un jour dormoit Colin en my des prez,3,None,None,3,Yes,NoCadence
+Un jour dormoit Colin en my des prez,5,Displaced,F,6,Yes,CAD NDLT
+Un jour dormoit Colin en my des prez,4,None,None,5,Yes,NoCadence
+Il est permis trouver au lict s'amie,31,None,F,32,Yes,Authentic
+Il est permis trouver au lict s'amie,30,,F,32,Yes,Authentic
+Il est permis trouver au lict s'amie,26,None,None,27,Yes,NoCadence
+Il est permis trouver au lict s'amie,26,None,None,27,Yes,NoCadence
+Il est permis trouver au lict s'amie,26,None,None,27,Yes,NoCadence
+Il est permis trouver au lict s'amie,23,None,G,24,Yes,Authentic
+Il est permis trouver au lict s'amie,23,None,G,24,Yes,Authentic
+Il est permis trouver au lict s'amie,23,None,G,24,Yes,Authentic
+Il est permis trouver au lict s'amie,17,"Displaced, Inverted",C,18,Yes,Authentic
+Il est permis trouver au lict s'amie,17,"Displaced, Inverted",C,18,Yes,Authentic
+Il est permis trouver au lict s'amie,17,"Displaced, Inverted",C,18,Yes,Authentic
+Il est permis trouver au lict s'amie,7,"Displaced, Inverted, Evaded",C,8,Yes,Authentic
+Il est permis trouver au lict s'amie,7,"Displaced, Inverted, Evaded",C,8,Yes,Authentic
+Il est permis trouver au lict s'amie,7,"Displaced, Inverted, Evaded",C,8,Yes,Authentic
+Il est permis trouver au lict s'amie,3,None,None,4,Yes,NoCadence
+Il est permis trouver au lict s'amie,3,None,None,4,Yes,NoCadence
+Il est permis trouver au lict s'amie,3,None,None,4,Yes,NoCadence
+Où cerchez-vous du dieu d'amour l'empire,36,,F,38,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,36,,F,38,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,36,None,F,38,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,32,"Displaced, Inverted, Evaded",F,33,Yes,CadInCad
+Où cerchez-vous du dieu d'amour l'empire,30,None,F,31,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,30,None,F,31,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,32,,,34,Yes,NoCadence
+Où cerchez-vous du dieu d'amour l'empire,28,,A,29,Yes,Phrygian
+Où cerchez-vous du dieu d'amour l'empire,28,,A,29,Yes,Phrygian
+Où cerchez-vous du dieu d'amour l'empire,30,None,F,31,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,28,,A,29,Yes,Phrygian
+Où cerchez-vous du dieu d'amour l'empire,28,,A,29,Yes,Phrygian
+Où cerchez-vous du dieu d'amour l'empire,24,Displaced,C,25,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,19,Displaced,C,20,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,19,Displaced,C,20,Yes,CAD NDLT
+Où cerchez-vous du dieu d'amour l'empire,14,None,G,15,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,14,None,G,15,Yes,CadInCad
+Où cerchez-vous du dieu d'amour l'empire,14,None,G,15,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,9,None,F,10,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,9,None,F,10,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,9,None,F,10,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,1,None,F,2,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,5,Displaced,C,6,Yes,CAD NDLT
+Où cerchez-vous du dieu d'amour l'empire,5,Displaced,C,6,Yes,Authentic
+Où cerchez-vous du dieu d'amour l'empire,5,Displaced,C,6,Yes,CAD NDLT
+Puisque tu veulx mettre fin à ta plaincte,31,None,E,32,Yes,Plagal
+Puisque tu veulx mettre fin à ta plaincte,31,None,E,32,Yes,Plagal
+Puisque tu veulx mettre fin à ta plaincte,25,Displaced,G,26,Yes,Authentic
+Puisque tu veulx mettre fin à ta plaincte,25,Displaced,G,26,Yes,CAD NDLT
+Puisque tu veulx mettre fin à ta plaincte,20,None,A,21,Yes,Authentic
+Puisque tu veulx mettre fin à ta plaincte,20,None,A,21,Yes,Authentic
+Puisque tu veulx mettre fin à ta plaincte,15,Displaced,E,16,Yes,Phrygian
+Puisque tu veulx mettre fin à ta plaincte,10,None,A,11,Yes,Authentic
+Puisque tu veulx mettre fin à ta plaincte,10,None,A,11,Yes,Authentic
+Puisque tu veulx mettre fin à ta plaincte,6,None,C,7,Yes,Authentic
+Puisque tu veulx mettre fin à ta plaincte,6,None,C,7,Yes,Authentic
+Je ne veulx plus de mon malheur me plaindre,28,Displaced,E,29,Yes,Phrygian
+Je ne veulx plus de mon malheur me plaindre,28,Displaced,E,29,Yes,Phrygian
+Je ne veulx plus de mon malheur me plaindre,24,"Displaced, Inverted, Evaded",C,25,Yes,Authentic
+Je ne veulx plus de mon malheur me plaindre,25,"Displaced, Inverted, Evaded",C,26,Yes,Authentic
+Je ne veulx plus de mon malheur me plaindre,21,None,A,22,Yes,Authentic
+Je ne veulx plus de mon malheur me plaindre,21,None,A,22,Yes,Authentic
+Je ne veulx plus de mon malheur me plaindre,16,Displaced,G,17,Yes,Authentic
+Je ne veulx plus de mon malheur me plaindre,14,None,C,15,Yes,Authentic
+Je ne veulx plus de mon malheur me plaindre,14,None,C,15,Yes,Authentic
+Je ne veulx plus de mon malheur me plaindre,11,None,A,12,Yes,Authentic
+Je ne veulx plus de mon malheur me plaindre,11,None,A,12,Yes,Authentic
+Je ne veulx plus de mon malheur me plaindre,6,"Displaced, Inverted, Evaded",C,7,Yes,Authentic
+Je ne veulx plus de mon malheur me plaindre,6,"Displaced, Inverted, Evaded",C,7,Yes,Authentic
+Je ne veulx plus de mon malheur me plaindre,3,Displaced,E,4,Yes,Phrygian
+Quand je voy ma mignonne rire,18,None,G,20,Yes,Authentic
+Quand je voy ma mignonne rire,18,None,G,19,Yes,Authentic
+Quand je voy ma mignonne rire,15,Evaded,D,16,Yes,Authentic
+Quand je voy ma mignonne rire,15,Incomplete,D,16,Yes,None
+Quand je voy ma mignonne rire,12,"Displaced, Evaded",E,13,Yes,Authentic
+Quand je voy ma mignonne rire,11,"Displaced, Inverted",D,11,Yes,Authentic
+Quand je voy ma mignonne rire,9,"Displaced, Inverted",D,9,Yes,Authentic
+Quand je voy ma mignonne rire,9,"Displaced, Inverted",D,9,Yes,Authentic
+Quand je voy ma mignonne rire,6,None,G,7,Yes,Plagal
+Quand je voy ma mignonne rire,6,None,None,7,Yes,NoCadence
+Quand je voy ma mignonne rire,4,Evaded,D,5,Yes,Authentic
+Quand je voy ma mignonne rire,2,"Displaced, Inverted",A,2,Yes,Phrygian
+Quand je voy ma mignonne rire,2,None,None,3,Yes,NoCadence
+Ce disoit une jeune dame,40,None,G,42,Yes,Authentic
+Ce disoit une jeune dame,40,None,G,41,Yes,Authentic
+Ce disoit une jeune dame,35,Displaced,A,36,Yes,Phrygian
+Ce disoit une jeune dame,35,None,None,36,Yes,NoCadence
+Ce disoit une jeune dame,30,None,D,31,Yes,Authentic
+Ce disoit une jeune dame,30,None,D,31,Yes,Authentic
+Ce disoit une jeune dame,25,"Displaced, Inverted, Evaded",G,26,Yes,Authentic
+Ce disoit une jeune dame,25,"Displaced, Inverted, Evaded",G,27,Yes,Authentic
+Ce disoit une jeune dame,21,None,B-flat,22,Yes,Authentic
+Ce disoit une jeune dame,21,None,B-flat,22,Yes,Authentic
+Ce disoit une jeune dame,18,"Displaced, Inverted, Incomplete",G,19,Yes,Authentic
+Ce disoit une jeune dame,18,None,None,19,Yes,NoCadence
+Ce disoit une jeune dame,15,"Displaced, Inverted",D,15,Yes,Phrygian
+Ce disoit une jeune dame,9,"Displaced, Inverted",D,10,Yes,Authentic
+Ce disoit une jeune dame,6,Displaced,A,7,Yes,Phrygian
+Ce disoit une jeune dame,7,None,None,7,Yes,NoCadence
+Ce disoit une jeune dame,3,None,None,4,Yes,NoCadence
+"J'endure tout, c'est bien raison",35,Evaded,G,36,Yes,Authentic
+"J'endure tout, c'est bien raison",30,,D,30,Yes,Plagal
+"J'endure tout, c'est bien raison",26,None,D,27,Yes,Authentic
+"J'endure tout, c'est bien raison",26,None,D,27,Yes,Authentic
+"J'endure tout, c'est bien raison",23,,D,24,Yes,Plagal
+"J'endure tout, c'est bien raison",24,None,D,24,Yes,Plagal
+"J'endure tout, c'est bien raison",20,,D,21,Yes,Plagal
+"J'endure tout, c'est bien raison",9,"Displaced, Inverted, Evaded",D,10,Yes,Authentic
+"J'endure tout, c'est bien raison",9,"Displaced, Inverted, Evaded",D,10,Yes,Authentic
+"J'endure tout, c'est bien raison",3,None,D,4,Yes,Authentic
+"J'endure tout, c'est bien raison",3,None,D,4,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",32,None,G,33,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",32,None,G,33,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",29,Displaced,A,30,Yes,Phrygian
+"Ça ces beaux yeux, ça ceste bouche",32,None,G,33,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",29,Displaced,B-flat,30,Yes,Phrygian
+"Ça ces beaux yeux, ça ceste bouche",29,Displaced,A,30,Yes,Phrygian
+"Ça ces beaux yeux, ça ceste bouche",28,"Displaced, Inverted, Evaded",F,28,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",27,None,None,28,Yes,NoCadence
+"Ça ces beaux yeux, ça ceste bouche",25,None,B-flat,26,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",25,None,B-flat,26,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",25,None,B-flat,26,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",22,None,D,23,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",22,None,D,23,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",19,"Displaced, Inverted",G,20,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",17,None,G,18,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",17,None,G,18,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",17,None,G,18,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",15,None,None,15,Yes,NoCadence
+"Ça ces beaux yeux, ça ceste bouche",13,,D,14,Yes,Plagal
+"Ça ces beaux yeux, ça ceste bouche",14,None,None,15,Yes,NoCadence
+"Ça ces beaux yeux, ça ceste bouche",11,None,G,12,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",11,None,G,12,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",11,None,G,12,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",5,None,D,6,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",4,None,D,5,Yes,Authentic
+"Ça ces beaux yeux, ça ceste bouche",4,None,D,6,Yes,Authentic
+Musiciens qui chantez à plaisir,64,None,G,65,Yes,CadInCad
+Musiciens qui chantez à plaisir,64,None,G,65,Yes,Authentic
+Musiciens qui chantez à plaisir,60,,G,61,Yes,Authentic
+Musiciens qui chantez à plaisir,54,None,D,55,Yes,Authentic
+Musiciens qui chantez à plaisir,55,CAD NDLT,D,56,Yes,Phrygian
+Musiciens qui chantez à plaisir,54,None,D,55,Yes,Authentic
+Musiciens qui chantez à plaisir,38,,G,39,Yes,Authentic
+Musiciens qui chantez à plaisir,37,,G,39,Yes,CadInCad
+Musiciens qui chantez à plaisir,31,None,D,32,Yes,Authentic
+Musiciens qui chantez à plaisir,12,None,G,13,Yes,Authentic
+Musiciens qui chantez à plaisir,12,None,G,13,Yes,Authentic
+Musiciens qui chantez à plaisir,5,,D,6,Yes,Plagal
+Musiciens qui chantez à plaisir,5,,D,6,Yes,Plagal
+"Long temps y a, innocente pucelle",37,,G,38,Yes,Authentic
+"Long temps y a, innocente pucelle",23,None,D,24,Yes,Plagal
+"Long temps y a, innocente pucelle",23,None,D,24,Yes,Plagal
+"Long temps y a, innocente pucelle",18,None,B-flat,19,Yes,Authentic
+"Long temps y a, innocente pucelle",18,None,B-flat,19,Yes,Authentic
+"Long temps y a, innocente pucelle",15,None,F,16,Yes,Plagal
+"Long temps y a, innocente pucelle",17,None,B-flat,19,Yes,Authentic
+"Long temps y a, innocente pucelle",15,None,F,16,Yes,Plagal
+"Long temps y a, innocente pucelle",10,None,G,12,Yes,Authentic
+"Long temps y a, innocente pucelle",10,None,G,12,Yes,Authentic
+"Long temps y a, innocente pucelle",5,None,D,6,Yes,Authentic
+"Long temps y a, innocente pucelle",5,,D,6,Yes,Authentic
+"Long temps y a, innocente pucelle",5,None,D,6,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,43,None,G,43,Yes,Plagal
+Madame je vous remercie/ De m'avoir esté si rebourse,40,None,G,42,Yes,CadInCad
+Madame je vous remercie/ De m'avoir esté si rebourse,43,,G,43,Yes,Plagal
+Madame je vous remercie/ De m'avoir esté si rebourse,41,Evaded,G,42,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,42,,G,43,Yes,Plagal
+Madame je vous remercie/ De m'avoir esté si rebourse,37,None,None,37,Yes,NoCadence
+Madame je vous remercie/ De m'avoir esté si rebourse,36,None,None,37,Yes,NoCadence
+Madame je vous remercie/ De m'avoir esté si rebourse,33,None,D,34,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,30,"Displaced, Inverted",G,31,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,33,None,D,34,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,33,None,D,34,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,30,"Displaced, Inverted",G,31,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,27,None,D,28,Yes,Plagal
+Madame je vous remercie/ De m'avoir esté si rebourse,27,None,D,28,Yes,Plagal
+Madame je vous remercie/ De m'avoir esté si rebourse,24,None,B-flat,25,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,24,Displaced,B-flat,25,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,24,Displaced,B-flat,25,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,19,Displaced,D,20,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,17,"Displaced, Inverted",D,18,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,19,Displaced,D,20,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,17,Displaced,D,18,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,19,Displaced,D,20,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,17,Displaced,D,18,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,13,None,G,14,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,11,None,D,12,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,13,None,G,15,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,4,Displaced,D,5,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,2,"Displaced, Inverted",D,3,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,4,Displaced,D,5,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,2,Displaced,D,3,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,2,Displaced,D,3,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,11,None,D,12,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,4,Displaced,D,5,Yes,Authentic
+Madame je vous remercie/ De m'avoir esté si rebourse,2,Displaced,D,3,Yes,Authentic
+Si vous aviez comme moy faim,25,None,G,27,Yes,Authentic
+Si vous aviez comme moy faim,24,None,G,26,Yes,Authentic
+Si vous aviez comme moy faim,25,None,G,26,Yes,Authentic
+Si vous aviez comme moy faim,20,Displaced,D,21,Yes,Phrygian
+Si vous aviez comme moy faim,20,Displaced,D,21,Yes,Phrygian
+Si vous aviez comme moy faim,20,Displaced,D,21,Yes,Phrygian
+Si vous aviez comme moy faim,16,None,D,17,Yes,Authentic
+Si vous aviez comme moy faim,16,None,D,17,Yes,Authentic
+Si vous aviez comme moy faim,16,None,D,17,Yes,Authentic
+Si vous aviez comme moy faim,11,None,B-flat,12,Yes,Authentic
+Si vous aviez comme moy faim,11,None,B-flat,12,Yes,Authentic
+Si vous aviez comme moy faim,11,None,B-flat,13,Yes,Authentic
+Si vous aviez comme moy faim,6,None,G,8,Yes,Authentic
+Si vous aviez comme moy faim,6,None,G,7,Yes,Authentic
+Si vous aviez comme moy faim,6,None,G,7,Yes,Authentic
+Si vous aviez comme moy faim,6,None,G,7,Yes,Authentic
+Si vous aviez comme moy faim,6,,G,7,Yes,Authentic
+Si vous aviez comme moy faim,6,,G,7,Yes,Authentic
+Si vous aviez comme moy faim,3,None,None,4,Yes,NoCadence
+Quand j'ay esté quinze heures avec vous,18,None,G,18,Yes,Plagal
+Quand j'ay esté quinze heures avec vous,17,Incomplete,G,17,Yes,Authentic
+Quand j'ay esté quinze heures avec vous,17,None,G,18,Yes,Plagal
+Quand j'ay esté quinze heures avec vous,10,"Displaced, Inverted",D,10,Yes,Authentic
+Quand j'ay esté quinze heures avec vous,10,"Displaced, Inverted",D,10,Yes,Authentic
+Quand j'ay esté quinze heures avec vous,10,"Displaced, Inverted",D,10,Yes,Authentic
+Quand j'ay esté quinze heures avec vous,7,None,None,7,Yes,NoCadence
+Quand j'ay esté quinze heures avec vous,7,Doubtful,None,8,Yes,NoCadence
+Quand j'ay esté quinze heures avec vous,7,None,None,8,Yes,NoCadence
+Quand j'ay esté quinze heures avec vous,4,None,B-flat,5,Yes,Authentic
+Quand j'ay esté quinze heures avec vous,4,None,B-flat,5,Yes,Authentic
+Quand j'ay esté quinze heures avec vous,4,None,B-flat,5,Yes,Authentic
+Quand j'ay esté quinze heures avec vous,2,"Displaced, Incomplete, Evaded",G,3,Yes,Authentic
+Quand j'ay esté quinze heures avec vous,2,Evaded,B-flat,3,Yes,Authentic
+Vous estes un fascheux homme,39,"Displaced, Inverted, Evaded",G,40,Yes,Authentic
+Vous estes un fascheux homme,34,None,None,35,Yes,NoCadence
+Vous estes un fascheux homme,32,None,None,33,Yes,NoCadence
+Vous estes un fascheux homme,32,None,None,33,Yes,NoCadence
+Vous estes un fascheux homme,29,,D,30,Yes,Authentic
+Vous estes un fascheux homme,29,,,30,Yes,No cadence
+Vous estes un fascheux homme,27,None,None,28,Yes,NoCadence
+Vous estes un fascheux homme,26,"Displaced, Inverted",D,27,Yes,Phrygian
+Vous estes un fascheux homme,27,None,None,28,Yes,NoCadence
+Vous estes un fascheux homme,24,None,G,25,Yes,Authentic
+Vous estes un fascheux homme,24,None,G,25,Yes,Authentic
+Vous estes un fascheux homme,22,None,None,23,Yes,NoCadence
+Vous estes un fascheux homme,19,Displaced,B-flat,19,Yes,Authentic
+Vous estes un fascheux homme,16,,,17,Yes,NoCadence
+Vous estes un fascheux homme,15,"Displaced, Inverted",A,15,Yes,Phrygian
+Vous estes un fascheux homme,15,"Displaced, Inverted",A,15,Yes,Phrygian
+Vous estes un fascheux homme,15,"Displaced, Inverted",A,15,Yes,Phrygian
+Vous estes un fascheux homme,14,None,F,14,Yes,Plagal
+Vous estes un fascheux homme,13,None,F,14,Yes,Plagal
+Vous estes un fascheux homme,12,"Displaced, Evaded",D,12,Yes,Authentic
+Vous estes un fascheux homme,12,"Displaced, Inverted, Evaded",D,12,Yes,Authentic
+Vous estes un fascheux homme,12,"Displaced, Inverted, Evaded",D,12,Yes,Authentic
+Vous estes un fascheux homme,7,None,G,8,Yes,Authentic
+Vous estes un fascheux homme,8,,G,9,Yes,Authentic
+Vous estes un fascheux homme,5,,,6,Yes,No cadence
+Vous estes un fascheux homme,8,None,G,9,Yes,Authentic
+Vous estes un fascheux homme,6,None,None,6,Yes,NoCadence
+Vous estes un fascheux homme,5,,,6,Yes,No cadence
+Vous estes un fascheux homme,6,None,None,6,Yes,NoCadence
+J'ay le fruit tant désiré,27,,G,29,Yes,Authentic
+J'ay le fruit tant désiré,27,,G,29,Yes,Authentic
+J'ay le fruit tant désiré,27,,G,29,Yes,Authentic
+J'ay le fruit tant désiré,23,None,D,24,Yes,Authentic
+J'ay le fruit tant désiré,23,None,D,24,Yes,Authentic
+J'ay le fruit tant désiré,23,None,D,24,Yes,Authentic
+J'ay le fruit tant désiré,20,None,D,21,Yes,Plagal
+J'ay le fruit tant désiré,20,None,D,21,Yes,Plagal
+J'ay le fruit tant désiré,20,None,D,21,Yes,Plagal
+J'ay le fruit tant désiré,17,"Displaced, Inverted",B-flat,18,Yes,Authentic
+J'ay le fruit tant désiré,17,"Displaced, Inverted",B-flat,18,Yes,Authentic
+J'ay le fruit tant désiré,13,,G,15,Yes,Authentic
+J'ay le fruit tant désiré,11,None,G,15,Yes,Authentic
+J'ay le fruit tant désiré,13,,G,15,Yes,Authentic
+J'ay le fruit tant désiré,7,Incomplete,G,8,Yes,Authentic
+J'ay le fruit tant désiré,7,Incomplete,G,8,Yes,Authentic
+J'ay le fruit tant désiré,7,Incomplete,G,8,Yes,Authentic
+J'ay le fruit tant désiré,3,None,B-flat,4,Yes,Authentic
+J'ay le fruit tant désiré,3,,B-flat,4,Yes,Authentic
+C'est a moy qu'en veult ce coqu,23,,D,24,Yes,Authentic
+C'est a moy qu'en veult ce coqu,19,,A,20,Yes,Plagal
+C'est a moy qu'en veult ce coqu,23,,D,24,Yes,Authentic
+C'est a moy qu'en veult ce coqu,23,,D,24,Yes,Authentic
+C'est a moy qu'en veult ce coqu,23,None,D,24,Yes,Authentic
+C'est a moy qu'en veult ce coqu,13,,G,14,Yes,Plagal
+C'est a moy qu'en veult ce coqu,14,None,A,15,Yes,Plagal
+C'est a moy qu'en veult ce coqu,14,,A,15,Yes,Plagal
+C'est a moy qu'en veult ce coqu,12,None,G,13,Yes,Plagal
+C'est a moy qu'en veult ce coqu,13,,G,14,Yes,Plagal
+C'est a moy qu'en veult ce coqu,13,,G,14,Yes,Plagal
+C'est a moy qu'en veult ce coqu,10,"Inverted, Displaced",G,11,Yes,Authentic
+C'est a moy qu'en veult ce coqu,8,Displaced,G,11,Yes,CAD NDLT
+C'est a moy qu'en veult ce coqu,10,Displaced,G,11,Yes,CAD NDLT
+C'est a moy qu'en veult ce coqu,5,"Displaced, Inverted, Evaded",D,6,Yes,Authentic
+C'est a moy qu'en veult ce coqu,5,"Displaced, Inverted, Evaded",None,6,Yes,Authentic
+C'est a moy qu'en veult ce coqu,5,"Displaced, Evaded",D,6,Yes,Authentic
+C'est a moy qu'en veult ce coqu,5,"Displaced, Inverted, Evaded",D,6,Yes,Authentic
+C'est a moy qu'en veult ce coqu,3,None,None,3,Yes,NoCadence
+C'est a moy qu'en veult ce coqu,3,,D,3,True,Plagal
+C'est a moy qu'en veult ce coqu,2,,,3,Yes,NoCadence
+C'est a moy qu'en veult ce coqu,3,,D,4,Yes,NoCadence
+C'est a moy qu'en veult ce coqu,2,None,None,3,Yes,NoCadence
+Or sus or sus qu'on se resveille,23,None,G,24,Yes,Authentic
+Or sus or sus qu'on se resveille,23,None,G,24,Yes,Authentic
+Or sus or sus qu'on se resveille,23,None,G,24,Yes,None
+Or sus or sus qu'on se resveille,21,None,C,21,Yes,Plagal
+Or sus or sus qu'on se resveille,18,None,A,19,Yes,Authentic
+Or sus or sus qu'on se resveille,18,None,A,19,Yes,Authentic
+Or sus or sus qu'on se resveille,18,None,A,19,Yes,CadInCad
+Or sus or sus qu'on se resveille,16,Displaced,E,17,Yes,Phrygian
+Or sus or sus qu'on se resveille,13,None,C,14,Yes,Authentic
+Or sus or sus qu'on se resveille,13,None,C,14,Yes,Authentic
+Or sus or sus qu'on se resveille,13,None,C,14,Yes,Authentic
+Or sus or sus qu'on se resveille,5,None,G,6,Yes,Authentic
+Or sus or sus qu'on se resveille,5,None,G,6,Yes,Authentic
+Or sus or sus qu'on se resveille,5,None,G,6,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,47,None,G,48,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,44,"Displaced, Inverted, Evaded",C,45,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,48,None,G,48,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,47,,G,48,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,42,Displaced,G,43,Yes,CAD NDLT
+S'amour vous a donné mon coeur en gaige,42,Displaced,G,43,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,40,None,None,40,Yes,NoCadence
+S'amour vous a donné mon coeur en gaige,42,Displaced,G,43,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,37,"Displaced, Inverted",E,38,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,37,"Displaced, Incomplete",C,38,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,37,"Displaced, Inverted",E,38,Yes,Phrygian
+S'amour vous a donné mon coeur en gaige,31,None,G,32,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,31,,G,32,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,27,"Displaced, Inverted, Evaded",D,28,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,27,None,D,28,Yes,Plagal
+S'amour vous a donné mon coeur en gaige,27,"Displaced, Inverted, Evaded",D,28,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,23,None,E,24,Yes,Plagal
+S'amour vous a donné mon coeur en gaige,20,Displaced,C,21,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,23,None,E,24,Yes,Plagal
+S'amour vous a donné mon coeur en gaige,18,"Inverted, Evaded",C,19,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,18,"Displaced, Incomplete",C,19,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,18,"Inverted, Evaded",C,19,Yes,NoCadence
+S'amour vous a donné mon coeur en gaige,14,None,C,15,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,14,None,C,15,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,14,None,C,15,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,10,None,G,11,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,10,,G,11,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,10,None,G,11,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,5,None,A,6,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,6,None,A,6,Yes,Authentic
+S'amour vous a donné mon coeur en gaige,6,None,A,6,Yes,Authentic
+Un mesnagier qui sa femme accusoit,58,,C,59,Yes,Plagal
+Un mesnagier qui sa femme accusoit,57,,C,57,Yes,Authentic
+Un mesnagier qui sa femme accusoit,52,None,C,53,Yes,Authentic
+Un mesnagier qui sa femme accusoit,57,None,C,59,Yes,CadInCad
+Un mesnagier qui sa femme accusoit,58,,C,59,Yes,Plagal
+Un mesnagier qui sa femme accusoit,52,None,C,53,Yes,Authentic
+Un mesnagier qui sa femme accusoit,48,None,None,49,Yes,NoCadence
+Un mesnagier qui sa femme accusoit,48,None,None,48,Yes,NoCadence
+Un mesnagier qui sa femme accusoit,40,None,E,41,Yes,Plagal
+Un mesnagier qui sa femme accusoit,40,None,E,41,Yes,Plagal
+Un mesnagier qui sa femme accusoit,37,"Displaced, Incomplete",F,38,Yes,Authentic
+Un mesnagier qui sa femme accusoit,40,None,E,41,Yes,Plagal
+Un mesnagier qui sa femme accusoit,33,"Displaced, Evaded",G,34,Yes,Authentic
+Un mesnagier qui sa femme accusoit,34,None,None,34,Yes,NoCadence
+Un mesnagier qui sa femme accusoit,34,Displaced,G,34,Yes,Authentic
+Un mesnagier qui sa femme accusoit,25,Displaced,C,25,Yes,Authentic
+Un mesnagier qui sa femme accusoit,17,None,G,18,Yes,Authentic
+Un mesnagier qui sa femme accusoit,17,,G,18,Yes,Authentic
+Un mesnagier qui sa femme accusoit,17,,G,18,Yes,Authentic
+Un mesnagier qui sa femme accusoit,8,"Displaced, Inverted",G,9,Yes,Authentic
+Un mesnagier qui sa femme accusoit,11,,C,12,Yes,Authentic
+Un mesnagier qui sa femme accusoit,8,"Displaced, Inverted",G,9,Yes,Authentic
+Un mesnagier qui sa femme accusoit,12,None,C,12,Yes,Authentic
+Un mesnagier qui sa femme accusoit,9,"Displaced, Inverted",G,9,Yes,Authentic
+Un mesnagier qui sa femme accusoit,12,None,C,12,Yes,Authentic
+Un mesnagier qui sa femme accusoit,4,None,None,5,Yes,NoCadence
+Un mesnagier qui sa femme accusoit,4,None,None,5,Yes,NoCadence
+Un mesnagier qui sa femme accusoit,4,None,None,5,Yes,NoCadence
+Un mesnagier qui sa femme accusoit,4,None,None,5,Yes,NoCadence
+"Triste et marry, pensif, melancolique",44,None,F,45,Yes,Plagal
+"Triste et marry, pensif, melancolique",37,None,F,38,Yes,Authentic
+"Triste et marry, pensif, melancolique",37,None,F,38,Yes,Authentic
+"Triste et marry, pensif, melancolique",37,None,F,38,Yes,Authentic
+"Triste et marry, pensif, melancolique",34,None,None,34,Yes,NoCadence
+"Triste et marry, pensif, melancolique",31,"Displaced, Inverted",C,31,Yes,Authentic
+"Triste et marry, pensif, melancolique",29,"Displaced, Inverted",C,30,Yes,Authentic
+"Triste et marry, pensif, melancolique",29,"Displaced, Inverted",C,30,Yes,Authentic
+"Triste et marry, pensif, melancolique",28,None,None,28,Yes,NoCadence
+"Triste et marry, pensif, melancolique",25,"Displaced, Incomplete",None,26,Yes,Authentic
+"Triste et marry, pensif, melancolique",23,None,A,24,Yes,Plagal
+"Triste et marry, pensif, melancolique",23,None,A,24,Yes,Plagal
+"Triste et marry, pensif, melancolique",23,None,A,24,Yes,Plagal
+"Triste et marry, pensif, melancolique",20,None,None,21,Yes,NoCadence
+"Triste et marry, pensif, melancolique",20,None,None,20,Yes,NoCadence
+"Triste et marry, pensif, melancolique",19,,,19,Yes,NoCadence
+"Triste et marry, pensif, melancolique",17,"Displaced, Inverted",C,18,Yes,Authentic
+"Triste et marry, pensif, melancolique",17,"Displaced, Inverted",C,18,Yes,Authentic
+"Triste et marry, pensif, melancolique",13,"Displaced, Inverted, Evaded",C,13,Yes,Authentic
+"Triste et marry, pensif, melancolique",13,None,None,13,Yes,NoCadence
+"Triste et marry, pensif, melancolique",13,"Displaced, Inverted, Evaded",C,13,Yes,NoCadence
+"Triste et marry, pensif, melancolique",11,"Displaced, Inverted",C,11,Yes,Authentic
+"Triste et marry, pensif, melancolique",11,None,None,11,Yes,NoCadence
+"Triste et marry, pensif, melancolique",11,"Displaced, Inverted",C,11,Yes,Authentic
+"Triste et marry, pensif, melancolique",4,"Displaced, Inverted",A,4,Yes,Phrygian
+"Triste et marry, pensif, melancolique",4,"Displaced, Inverted",A,4,Yes,Phrygian
+"Triste et marry, pensif, melancolique",4,"Displaced, Inverted",A,4,Yes,Phrygian
+Ung doulx baiser m'est bien permis de prendre,21,None,F,22,Yes,CadInCad
+Ung doulx baiser m'est bien permis de prendre,17,Evaded,F,18,Yes,Authentic
+Ung doulx baiser m'est bien permis de prendre,21,None,F,22,Yes,Authentic
+Ung doulx baiser m'est bien permis de prendre,21,Evaded,F,22,Yes,Authentic
+Ung doulx baiser m'est bien permis de prendre,17,Evaded,F,18,Yes,Authentic
+Ung doulx baiser m'est bien permis de prendre,21,None,F,23,Yes,Authentic
+Ung doulx baiser m'est bien permis de prendre,21,Evaded,F,22,Yes,Authentic
+Ung doulx baiser m'est bien permis de prendre,15,Displaced,C,15,Yes,Authentic
+Ung doulx baiser m'est bien permis de prendre,14,Displaced,C,15,Yes,Authentic
+Ung doulx baiser m'est bien permis de prendre,14,Displaced,C,15,Yes,Authentic
+Ung doulx baiser m'est bien permis de prendre,10,None,None,11,Yes,NoCadence
+Ung doulx baiser m'est bien permis de prendre,10,None,None,11,Yes,NoCadence
+Ung doulx baiser m'est bien permis de prendre,6,None,None,7,Yes,NoCadence
+Ung doulx baiser m'est bien permis de prendre,7,Evaded,F,7,Yes,Authentic
+Ung doulx baiser m'est bien permis de prendre,7,Evaded,F,7,Yes,NoCadence
+"En l'eau, en l'eau jette toy vistement",28,"Displaced, Inverted, Evaded",F,29,Yes,Authentic
+"En l'eau, en l'eau jette toy vistement",28,"Displaced, Inverted, Evaded",F,29,Yes,Authentic
+"En l'eau, en l'eau jette toy vistement",28,"Inverted, Incomplete",D,29,Yes,NoCadence
+"En l'eau, en l'eau jette toy vistement",26,Incomplete,C,26,Yes,NoCadence
+"En l'eau, en l'eau jette toy vistement",23,Displaced,C,24,Yes,Authentic
+"En l'eau, en l'eau jette toy vistement",23,Displaced,C,24,Yes,Authentic
+"En l'eau, en l'eau jette toy vistement",23,Displaced,C,24,Yes,Authentic
+"En l'eau, en l'eau jette toy vistement",20,None,G,21,Yes,Authentic
+"En l'eau, en l'eau jette toy vistement",20,None,G,21,Yes,Authentic
+"En l'eau, en l'eau jette toy vistement",20,None,G,21,Yes,Authentic
+"En l'eau, en l'eau jette toy vistement",8,None,F,9,Yes,Authentic
+"En l'eau, en l'eau jette toy vistement",8,None,F,9,Yes,Authentic
+"En l'eau, en l'eau jette toy vistement",8,,F,9,Yes,Authentic
+"En l'eau, en l'eau jette toy vistement",3,None,D,4,Yes,Plagal
+"En l'eau, en l'eau jette toy vistement",3,None,D,4,Yes,Plagal
+"En l'eau, en l'eau jette toy vistement",3,None,D,4,Yes,Plagal
+Comme le feu sans chaleur ne peut estre,55,None,F,55,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,46,None,F,47,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,47,None,F,47,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,40,None,F,41,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,33,Displaced,F,34,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,40,None,F,41,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,37,Displaced,G,38,Yes,CAD NDLT
+Comme le feu sans chaleur ne peut estre,40,None,F,41,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,37,Displaced,G,38,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,33,Displaced,F,34,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,28,"Displaced, Inverted, Evaded",F,29,Yes,CadInCad
+Comme le feu sans chaleur ne peut estre,28,"Displaced, Inverted, Evaded",F,29,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,28,"Displaced, Inverted, Evaded",F,29,Yes,CadInCad
+Comme le feu sans chaleur ne peut estre,24,"Displaced, Incomplete",F,25,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,24,"Displaced, Evaded",C,25,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,24,Displaced,F,25,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,20,"Displaced, Incomplete, Evaded",F,21,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,20,"Displaced, Evaded",F,21,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,20,"Displaced, Incomplete",C,20,Yes,NoCadence
+Comme le feu sans chaleur ne peut estre,14,None,F,15,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,9,"Displaced, Incomplete",F,10,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,14,None,F,15,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,14,,F,15,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,6,,F,8,Yes,CadInCad
+Comme le feu sans chaleur ne peut estre,6,None,F,8,Yes,Authentic
+Comme le feu sans chaleur ne peut estre,7,None,F,7,Yes,Authentic
+Plus je la voy de beaucoup estimée,17,,A,18,Yes,Phrygian
+Plus je la voy de beaucoup estimée,17,,A,18,Yes,Phrygian
+Plus je la voy de beaucoup estimée,17,,A,18,Yes,Phrygian
+Plus je la voy de beaucoup estimée,17,,D,18,Yes,Plagal
+Plus je la voy de beaucoup estimée,12,None,B-flat,13,Yes,Authentic
+Plus je la voy de beaucoup estimée,12,None,B-flat,13,Yes,Authentic
+Plus je la voy de beaucoup estimée,12,None,B-flat,13,Yes,Authentic
+Plus je la voy de beaucoup estimée,12,None,B-flat,13,Yes,Authentic
+Plus je la voy de beaucoup estimée,7,None,G,8,Yes,Authentic
+Plus je la voy de beaucoup estimée,7,None,G,8,Yes,Authentic
+Plus je la voy de beaucoup estimée,7,None,G,8,Yes,Authentic
+Plus je la voy de beaucoup estimée,7,None,G,8,Yes,Authentic
+Ma bouche n'ose dire/ Mon apparent desir,24,None,G,26,Yes,Authentic
+Ma bouche n'ose dire/ Mon apparent desir,23,None,G,25,Yes,Authentic
+Ma bouche n'ose dire/ Mon apparent desir,24,None,G,25,Yes,Authentic
+Ma bouche n'ose dire/ Mon apparent desir,20,Displaced,B-flat,21,Yes,Authentic
+Ma bouche n'ose dire/ Mon apparent desir,20,Displaced,B-flat,21,Yes,Authentic
+Ma bouche n'ose dire/ Mon apparent desir,20,Displaced,B-flat,21,Yes,Authentic
+Ma bouche n'ose dire/ Mon apparent desir,17,None,D,18,Yes,Plagal
+Ma bouche n'ose dire/ Mon apparent desir,17,None,D,18,Yes,Plagal
+Ma bouche n'ose dire/ Mon apparent desir,15,None,F,15,Yes,Authentic
+Ma bouche n'ose dire/ Mon apparent desir,14,None,F,16,Yes,Authentic
+Ma bouche n'ose dire/ Mon apparent desir,14,None,F,15,Yes,CadInCad
+Ma bouche n'ose dire/ Mon apparent desir,6,None,G,7,Yes,Authentic
+Ma bouche n'ose dire/ Mon apparent desir,6,None,G,7,Yes,Authentic
+Ma bouche n'ose dire/ Mon apparent desir,6,None,G,7,Yes,Authentic
+Ma bouche n'ose dire/ Mon apparent desir,4,None,D,4,Yes,Plagal
+Ma bouche n'ose dire/ Mon apparent desir,4,None,D,4,Yes,Plagal
+Ma bouche n'ose dire/ Mon apparent desir,4,None,D,4,Yes,Plagal
+Un jeune moine bien adroit,60,,G,63,Yes,Authentic
+Un jeune moine bien adroit,60,,G,63,Yes,Authentic
+Un jeune moine bien adroit,60,,G,63,Yes,Authentic
+Un jeune moine bien adroit,54,None,D,55,Yes,Authentic
+Un jeune moine bien adroit,54,None,D,55,Yes,Authentic
+Un jeune moine bien adroit,54,None,D,55,Yes,Authentic
+Un jeune moine bien adroit,47,"Displaced, Inverted",G,48,Yes,Authentic
+Un jeune moine bien adroit,47,"Displaced, Inverted",G,48,Yes,Authentic
+Un jeune moine bien adroit,47,"Displaced, Inverted",G,48,Yes,Authentic
+Un jeune moine bien adroit,44,Displaced,D,45,Yes,Authentic
+Un jeune moine bien adroit,44,"Displaced, Evaded",D,45,Yes,Authentic
+Un jeune moine bien adroit,44,Displaced,D,45,Yes,Authentic
+Un jeune moine bien adroit,39,Displaced,D,40,Yes,Authentic
+Un jeune moine bien adroit,39,Displaced,D,40,Yes,Authentic
+Un jeune moine bien adroit,39,Displaced,D,40,Yes,Authentic
+Un jeune moine bien adroit,36,None,None,37,Yes,NoCadence
+Un jeune moine bien adroit,36,None,None,37,Yes,NoCadence
+Un jeune moine bien adroit,30,None,D,31,Yes,Authentic
+Un jeune moine bien adroit,27,None,B-flat,28,Yes,Authentic
+Un jeune moine bien adroit,27,None,B-flat,28,Yes,Authentic
+Un jeune moine bien adroit,27,None,B-flat,28,Yes,Authentic
+Un jeune moine bien adroit,24,None,D,25,Yes,Authentic
+Un jeune moine bien adroit,24,None,D,25,Yes,Authentic
+Un jeune moine bien adroit,24,None,D,25,Yes,Authentic
+Un jeune moine bien adroit,10,,G,11,Yes,Authentic
+Un jeune moine bien adroit,10,None,G,11,Yes,Authentic
+Un jeune moine bien adroit,10,,G,11,Yes,Authentic
+Un jeune moine bien adroit,7,None,D,7,Yes,Authentic
+Un jeune moine bien adroit,3,Displaced,D,3,Yes,Authentic
+Un jeune moine bien adroit,6,,D,8,Yes,Authentic
+Un jeune moine bien adroit,2,Displaced,D,4,Yes,Authentic
+Un jeune moine bien adroit,3,Displaced,D,3,Yes,Authentic
+Un jeune moine bien adroit,7,None,D,7,Yes,None
+Faictes si vous plaist vostre aumosne,6,None,D,7,Yes,Plagal
+Faictes si vous plaist vostre aumosne,6,None,D,7,Yes,Plagal
+Faictes si vous plaist vostre aumosne,6,None,D,7,Yes,Plagal
+Faictes si vous plaist vostre aumosne,3,None,G,4,Yes,Authentic
+Faictes si vous plaist vostre aumosne,3,None,G,4,Yes,Authentic
+Faictes si vous plaist vostre aumosne,3,None,G,4,Yes,Authentic
+Un vieil souldard prioit une fillette,33,None,G,35,Yes,Authentic
+Un vieil souldard prioit une fillette,33,None,G,34,Yes,Authentic
+Un vieil souldard prioit une fillette,31,Displaced,D,32,Yes,Phrygian
+Un vieil souldard prioit une fillette,33,,G,34,Yes,Authentic
+Un vieil souldard prioit une fillette,29,"Displaced, Incomplete, Evaded",D,30,Yes,Authentic
+Un vieil souldard prioit une fillette,29,"Displaced, Evaded",D,30,Yes,Authentic
+Un vieil souldard prioit une fillette,26,"Displaced, Inverted, Evaded",G,27,Yes,Authentic
+Un vieil souldard prioit une fillette,25,,B-flat,26,Yes,CadInCad
+Un vieil souldard prioit une fillette,24,None,B-flat,26,Yes,CadInCad
+Un vieil souldard prioit une fillette,25,,B-flat,26,Yes,CadInCad
+Un vieil souldard prioit une fillette,22,None,D,22,Yes,Authentic
+Un vieil souldard prioit une fillette,21,,D,22,Yes,Authentic
+Un vieil souldard prioit une fillette,22,None,D,22,Yes,Authentic
+Un vieil souldard prioit une fillette,9,None,G,9,Yes,Authentic
+Un vieil souldard prioit une fillette,8,,G,9,Yes,Authentic
+Un vieil souldard prioit une fillette,9,None,G,9,Yes,Authentic
+Un vieil souldard prioit une fillette,5,None,D,6,Yes,Plagal
+Un vieil souldard prioit une fillette,5,None,D,6,Yes,Plagal
+Un vieil souldard prioit une fillette,5,None,D,6,Yes,Plagal
+Celer ne puis ny dire le tourment,29,None,G,30,Yes,Authentic
+Celer ne puis ny dire le tourment,29,None,G,30,Yes,Authentic
+Celer ne puis ny dire le tourment,29,None,G,30,Yes,Authentic
+Celer ne puis ny dire le tourment,24,None,None,24,Yes,NoCadence
+Celer ne puis ny dire le tourment,23,"Displaced, Inverted, Evaded",D,25,Yes,CadInCad
+Celer ne puis ny dire le tourment,18,None,D,19,Yes,Authentic
+Celer ne puis ny dire le tourment,18,None,D,19,Yes,Authentic
+Celer ne puis ny dire le tourment,18,None,D,19,Yes,Authentic
+Celer ne puis ny dire le tourment,14,None,B-flat,15,Yes,Authentic
+Celer ne puis ny dire le tourment,14,None,B-flat,15,Yes,Authentic
+Celer ne puis ny dire le tourment,9,,G,11,Yes,Authentic
+Celer ne puis ny dire le tourment,9,None,G,11,Yes,Authentic
+Celer ne puis ny dire le tourment,9,,G,11,Yes,Authentic
+Celer ne puis ny dire le tourment,5,Displaced,D,6,Yes,Phrygian
+Celer ne puis ny dire le tourment,5,Displaced,D,6,Yes,Phrygian
+Belle comere Dieu vous gard,19,None,G,20,Yes,Authentic
+Belle comere Dieu vous gard,18,None,G,20,Yes,Authentic
+Belle comere Dieu vous gard,19,None,G,20,Yes,Authentic
+Belle comere Dieu vous gard,16,None,None,17,Yes,NoCadence
+Belle comere Dieu vous gard,16,None,None,17,Yes,NoCadence
+Belle comere Dieu vous gard,14,Displaced,D,14,Yes,Phrygian
+Belle comere Dieu vous gard,14,Displaced,D,14,Yes,Phrygian
+Belle comere Dieu vous gard,14,Displaced,D,14,Yes,Phrygian
+Belle comere Dieu vous gard,12,None,None,12,Yes,NoCadence
+Belle comere Dieu vous gard,9,None,G,9,Yes,Authentic
+Belle comere Dieu vous gard,6,None,None,7,Yes,NoCadence
+Belle comere Dieu vous gard,4,None,G,5,Yes,Authentic
+Belle comere Dieu vous gard,4,None,G,5,Yes,Authentic
+Belle comere Dieu vous gard,4,None,G,5,Yes,Authentic
+Belle comere Dieu vous gard,2,Displaced,D,2,Yes,Phrygian
+Belle comere Dieu vous gard,2,Displaced,D,2,Yes,Phrygian
+Faire ne puis sans dueil & desplaisir,46,None,G,47,Yes,Authentic
+Faire ne puis sans dueil & desplaisir,39,Displaced,D,40,Yes,Phrygian
+Faire ne puis sans dueil & desplaisir,32,Displaced,D,33,Yes,Phrygian
+Faire ne puis sans dueil & desplaisir,32,Displaced,D,33,Yes,Phrygian
+Faire ne puis sans dueil & desplaisir,32,Displaced,D,33,Yes,Phrygian
+Faire ne puis sans dueil & desplaisir,27,None,G,28,Yes,CadInCad
+Faire ne puis sans dueil & desplaisir,28,,G,29,Yes,Authentic
+Faire ne puis sans dueil & desplaisir,28,,G,29,Yes,CadInCad
+Faire ne puis sans dueil & desplaisir,22,,A,23,Yes,Phrygian
+Faire ne puis sans dueil & desplaisir,22,,A,23,Yes,Phrygian
+Faire ne puis sans dueil & desplaisir,22,,D,23,Yes,Phrygian
+Faire ne puis sans dueil & desplaisir,17,None,B-flat,18,Yes,Authentic
+Faire ne puis sans dueil & desplaisir,17,None,B-flat,18,Yes,Authentic
+Faire ne puis sans dueil & desplaisir,17,None,B-flat,18,Yes,Authentic
+Faire ne puis sans dueil & desplaisir,13,None,G,14,Yes,Authentic
+Faire ne puis sans dueil & desplaisir,13,None,G,14,Yes,Authentic
+Faire ne puis sans dueil & desplaisir,13,None,G,14,Yes,Authentic
+Faire ne puis sans dueil & desplaisir,6,Displaced,D,7,Yes,Phrygian
+Faire ne puis sans dueil & desplaisir,6,Displaced,D,7,Yes,Phrygian
+Faire ne puis sans dueil & desplaisir,6,Displaced,D,7,Yes,Phrygian
+Du jeu d'aymer Martin fort curieux,39,None,G,40,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,35,None,G,36,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,33,,D,34,Yes,Plagal
+Du jeu d'aymer Martin fort curieux,39,None,G,40,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,35,None,G,36,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,39,None,G,40,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,35,,G,36,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,27,None,None,28,Yes,NoCadence
+Du jeu d'aymer Martin fort curieux,28,"Inverted, Evaded",G,28,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,25,Displaced,B-flat,26,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,23,"Displaced, Inverted",D,24,Yes,Phrygian
+Du jeu d'aymer Martin fort curieux,26,Displaced,B-flat,26,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,23,"Displaced, Inverted",D,24,Yes,Phrygian
+Du jeu d'aymer Martin fort curieux,26,Displaced,B-flat,26,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,23,"Displaced, Inverted",D,24,Yes,Phrygian
+Du jeu d'aymer Martin fort curieux,22,Displaced,D,22,Yes,Phrygian
+Du jeu d'aymer Martin fort curieux,22,Displaced,D,22,Yes,Phrygian
+Du jeu d'aymer Martin fort curieux,19,None,D,20,Yes,Plagal
+Du jeu d'aymer Martin fort curieux,19,None,D,20,Yes,Plagal
+Du jeu d'aymer Martin fort curieux,15,None,None,15,Yes,NoCadence
+Du jeu d'aymer Martin fort curieux,15,Incomplete,G,15,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,10,None,D,11,Yes,Plagal
+Du jeu d'aymer Martin fort curieux,11,None,D,11,Yes,Plagal
+Du jeu d'aymer Martin fort curieux,11,None,D,11,Yes,Plagal
+Du jeu d'aymer Martin fort curieux,5,"Displaced, Evaded",B-flat,6,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,3,,D,3,Yes,Plagal
+Du jeu d'aymer Martin fort curieux,4,"Displaced, Inverted",D,5,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,4,"Displaced, Inverted",D,5,Yes,Authentic
+Du jeu d'aymer Martin fort curieux,3,,D,3,Yes,Plagal
+Elle disoit : faictes tout bellement,28,None,G,29,Yes,CadInCad
+Elle disoit : faictes tout bellement,28,None,G,29,Yes,Authentic
+Elle disoit : faictes tout bellement,28,,G,29,Yes,Authentic
+Elle disoit : faictes tout bellement,21,None,D,22,Yes,Plagal
+Elle disoit : faictes tout bellement,19,"Displaced, Inverted",D,20,Yes,Authentic
+Elle disoit : faictes tout bellement,21,"Displaced, Inverted, Evaded",G,22,Yes,Authentic
+Elle disoit : faictes tout bellement,19,"Displaced, Inverted",D,20,Yes,Authentic
+Elle disoit : faictes tout bellement,19,"Displaced, Inverted",D,20,Yes,Authentic
+Elle disoit : faictes tout bellement,15,None,D,16,Yes,Authentic
+Elle disoit : faictes tout bellement,15,None,D,16,Yes,Authentic
+Elle disoit : faictes tout bellement,15,None,D,16,Yes,Authentic
+Elle disoit : faictes tout bellement,11,"Displaced, Incomplete",B-flat,12,Yes,Authentic
+Elle disoit : faictes tout bellement,11,"Displaced, Inverted, Evaded",B-flat,12,Yes,Authentic
+Elle disoit : faictes tout bellement,11,"Displaced, Inverted, Incomplete",B-flat,12,Yes,Authentic
+Elle disoit : faictes tout bellement,7,None,G,8,Yes,Authentic
+Elle disoit : faictes tout bellement,7,,G,8,Yes,Authentic
+Elle disoit : faictes tout bellement,7,None,G,8,Yes,Authentic
+Elle disoit : faictes tout bellement,7,None,G,8,Yes,Authentic
+Elle disoit : faictes tout bellement,3,"Displaced, Inverted",D,3,Yes,Authentic
+Elle disoit : faictes tout bellement,3,"Displaced, Inverted",D,3,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",41,None,D,42,Yes,CadInCad
+"Sus, sus, ma seur, prendz bon couraige",37,"Displaced, Incomplete",D,38,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",35,Displaced,D,36,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",37,"Displaced, Inverted, Incomplete",D,38,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",35,Displaced,D,36,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",41,None,D,42,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",37,Incomplete,D,38,Yes,NoCadence
+"Sus, sus, ma seur, prendz bon couraige",35,Displaced,D,36,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",32,Displaced,A,33,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",32,Displaced,A,33,Yes,Phrygian
+"Sus, sus, ma seur, prendz bon couraige",32,Displaced,A,33,Yes,Phrygian
+"Sus, sus, ma seur, prendz bon couraige",27,None,F,28,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",27,None,F,28,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",27,None,F,28,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",21,None,A,22,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",21,Evaded,A,22,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",21,,A,22,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",16,,D,18,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",16,None,D,18,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",16,,D,18,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",13,Displaced,A,13,Yes,Phrygian
+"Sus, sus, ma seur, prendz bon couraige",13,Displaced,A,13,Yes,Phrygian
+"Sus, sus, ma seur, prendz bon couraige",13,Displaced,A,13,Yes,Phrygian
+"Sus, sus, ma seur, prendz bon couraige",8,None,D,8,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",7,None,D,8,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",8,None,D,8,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",4,None,A,5,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",4,None,A,5,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",2,"Displaced, Inverted",A,3,Yes,Authentic
+"Sus, sus, ma seur, prendz bon couraige",4,None,A,5,Yes,Authentic
+Poste esgaré par trop adventureux,47,,D,48,Yes,Authentic
+Poste esgaré par trop adventureux,44,"Incomplete, Evaded",A,45,Yes,Authentic
+Poste esgaré par trop adventureux,42,"Displaced, Doubtful",E,43,Yes,CadInCad
+Poste esgaré par trop adventureux,47,None,D,48,Yes,Authentic
+Poste esgaré par trop adventureux,44,Incomplete,A,45,Yes,Authentic
+Poste esgaré par trop adventureux,47,,D,48,Yes,Authentic
+Poste esgaré par trop adventureux,35,"Displaced, Incomplete",A,36,Yes,Authentic
+Poste esgaré par trop adventureux,35,"Displaced, Inverted, Evaded",A,36,Yes,Authentic
+Poste esgaré par trop adventureux,35,"Displaced, Incomplete",E,35,Yes,Phrygian
+Poste esgaré par trop adventureux,30,"Displaced, Inverted",A,30,Yes,Authentic
+Poste esgaré par trop adventureux,30,"Displaced, Inverted",A,30,Yes,Authentic
+Poste esgaré par trop adventureux,27,None,None,27,Yes,NoCadence
+Poste esgaré par trop adventureux,27,None,None,27,Yes,NoCadence
+Poste esgaré par trop adventureux,24,Displaced,C,24,Yes,Authentic
+Poste esgaré par trop adventureux,21,Evaded,A,22,Yes,Authentic
+Poste esgaré par trop adventureux,23,Displaced,C,24,Yes,CAD NDLT
+Poste esgaré par trop adventureux,21,None,A,22,Yes,Authentic
+Poste esgaré par trop adventureux,24,Displaced,C,24,Yes,Authentic
+Poste esgaré par trop adventureux,20,Displaced,A,20,Yes,Authentic
+Poste esgaré par trop adventureux,20,Displaced,A,20,Yes,Authentic
+Poste esgaré par trop adventureux,17,"Displaced, Incomplete",A,18,Yes,Authentic
+Poste esgaré par trop adventureux,17,"Displaced, Inverted, Evaded",A,18,Yes,Authentic
+Poste esgaré par trop adventureux,17,"Displaced, Inverted, Incomplete",A,18,Yes,Authentic
+Poste esgaré par trop adventureux,13,None,D,13,Yes,Authentic
+Poste esgaré par trop adventureux,9,Displaced,A,10,Yes,Phrygian
+Poste esgaré par trop adventureux,12,None,D,13,Yes,Authentic
+Poste esgaré par trop adventureux,9,Displaced,A,10,Yes,Phrygian
+Poste esgaré par trop adventureux,13,None,D,13,Yes,Authentic
+Poste esgaré par trop adventureux,7,None,A,8,Yes,CadInCad
+Poste esgaré par trop adventureux,7,,A,8,Yes,CadInCad
+Poste esgaré par trop adventureux,7,None,A,8,Yes,CadInCad
+Si mon grand mal ne peult finir,28,None,D,28,Yes,Authentic
+Si mon grand mal ne peult finir,25,"Incomplete, Evaded",D,25,Yes,Authentic
+Si mon grand mal ne peult finir,24,None,D,25,Yes,Authentic
+Si mon grand mal ne peult finir,24,Evaded,D,25,Yes,Authentic
+Si mon grand mal ne peult finir,24,Evaded,D,25,Yes,NoCadence
+Si mon grand mal ne peult finir,28,,D,28,Yes,Authentic
+Si mon grand mal ne peult finir,19,Inverted,D,20,Yes,Authentic
+Si mon grand mal ne peult finir,16,Displaced,E,16,Yes,Phrygian
+Si mon grand mal ne peult finir,19,Inverted,D,20,Yes,Authentic
+Si mon grand mal ne peult finir,19,Inverted,D,20,Yes,Authentic
+Si mon grand mal ne peult finir,16,Displaced,E,16,Yes,Phrygian
+Si mon grand mal ne peult finir,14,None,F,15,Yes,Authentic
+Si mon grand mal ne peult finir,14,None,F,15,Yes,Authentic
+Si mon grand mal ne peult finir,14,None,F,15,Yes,Authentic
+Si mon grand mal ne peult finir,12,None,A,12,Yes,Authentic
+Si mon grand mal ne peult finir,12,,A,13,Yes,Authentic
+Si mon grand mal ne peult finir,12,None,A,12,Yes,Authentic
+Si mon grand mal ne peult finir,7,None,D,8,Yes,Authentic
+Si mon grand mal ne peult finir,7,None,D,8,Yes,Authentic
+Si mon grand mal ne peult finir,7,None,D,8,Yes,Authentic
+Si mon grand mal ne peult finir,3,None,F,4,Yes,Authentic
+Si mon grand mal ne peult finir,3,None,F,4,Yes,Authentic
+Sans avoir faict nul desplaisir,59,None,D,59,Yes,Authentic
+Sans avoir faict nul desplaisir,63,None,D,64,Yes,Authentic
+Sans avoir faict nul desplaisir,58,,D,60,Yes,Authentic
+Sans avoir faict nul desplaisir,63,None,D,64,Yes,Authentic
+Sans avoir faict nul desplaisir,58,,D,60,Yes,Authentic
+Sans avoir faict nul desplaisir,53,None,None,54,Yes,NoCadence
+Sans avoir faict nul desplaisir,53,None,A,55,Yes,Authentic
+Sans avoir faict nul desplaisir,47,,E,48,Yes,Phrygian
+Sans avoir faict nul desplaisir,47,Evaded,E,48,Yes,Phrygian
+Sans avoir faict nul desplaisir,47,Evaded,E,48,Yes,Phrygian
+Sans avoir faict nul desplaisir,43,None,F,44,Yes,Authentic
+Sans avoir faict nul desplaisir,43,None,F,44,Yes,Authentic
+Sans avoir faict nul desplaisir,43,None,F,44,Yes,Authentic
+Sans avoir faict nul desplaisir,29,"Displaced, Inverted",D,32,Yes,Authentic
+Sans avoir faict nul desplaisir,29,"Displaced, Inverted",D,32,Yes,Authentic
+Sans avoir faict nul desplaisir,23,Displaced,A,24,Yes,Authentic
+Sans avoir faict nul desplaisir,19,Displaced,D,20,Yes,Authentic
+Sans avoir faict nul desplaisir,23,Displaced,A,24,Yes,Authentic
+Sans avoir faict nul desplaisir,23,Displaced,A,24,Yes,Authentic
+Sans avoir faict nul desplaisir,19,Displaced,D,20,Yes,Authentic
+Sans avoir faict nul desplaisir,14,None,A,15,Yes,Authentic
+Sans avoir faict nul desplaisir,10,None,None,11,Yes,NoCadence
+Sans avoir faict nul desplaisir,14,None,A,15,Yes,Authentic
+Sans avoir faict nul desplaisir,10,Incomplete,A,11,Yes,NoCadence
+Sans avoir faict nul desplaisir,7,None,None,8,Yes,NoCadence
+Sans avoir faict nul desplaisir,6,None,None,8,Yes,NoCadence
+Maistre Lubin de sang rassis,50,None,D,51,Yes,Authentic
+Maistre Lubin de sang rassis,49,None,D,50,Yes,Authentic
+Maistre Lubin de sang rassis,49,None,D,50,Yes,Authentic
+Maistre Lubin de sang rassis,48,None,None,48,Yes,NoCadence
+Maistre Lubin de sang rassis,46,Displaced,C,47,Yes,Authentic
+Maistre Lubin de sang rassis,41,"Displaced, Inverted",A,42,Yes,Phrygian
+Maistre Lubin de sang rassis,41,"Displaced, Inverted",A,42,Yes,Phrygian
+Maistre Lubin de sang rassis,33,None,None,36,Yes,NoCadence
+Maistre Lubin de sang rassis,32,None,D,33,Yes,Authentic
+Maistre Lubin de sang rassis,30,Displaced,D,31,Yes,Authentic
+Maistre Lubin de sang rassis,32,None,D,33,Yes,Authentic
+Maistre Lubin de sang rassis,32,None,D,33,Yes,Authentic
+Maistre Lubin de sang rassis,29,None,None,30,Yes,NoCadence
+Maistre Lubin de sang rassis,27,None,None,30,Yes,NoCadence
+Maistre Lubin de sang rassis,25,None,A,26,Yes,Authentic
+Maistre Lubin de sang rassis,25,None,A,26,Yes,Authentic
+Maistre Lubin de sang rassis,26,None,A,26,Yes,Authentic
+Maistre Lubin de sang rassis,23,Incomplete,A,24,Yes,NoCadence
+Maistre Lubin de sang rassis,19,None,None,21,Yes,NoCadence
+Maistre Lubin de sang rassis,15,None,None,21,Yes,NoCadence
+Maistre Lubin de sang rassis,14,None,D,15,Yes,Authentic
+Maistre Lubin de sang rassis,14,None,D,15,Yes,Authentic
+Maistre Lubin de sang rassis,12,Displaced,D,13,Yes,Authentic
+Maistre Lubin de sang rassis,12,Displaced,D,13,Yes,Authentic
+Maistre Lubin de sang rassis,15,None,D,15,Yes,Authentic
+Maistre Lubin de sang rassis,10,None,None,11,Yes,NoCadence
+Maistre Lubin de sang rassis,6,None,None,11,Yes,NoCadence
+Maistre Lubin de sang rassis,7,"Displaced, Evaded",D,8,Yes,Authentic
+Maistre Lubin de sang rassis,5,Displaced,D,6,Yes,Authentic
+Maistre Lubin de sang rassis,5,Displaced,D,6,Yes,Authentic
+Maistre Lubin de sang rassis,5,Displaced,D,6,Yes,Authentic
+Maistre Lubin de sang rassis,3,None,None,4,Yes,NoCadence
+Maistre Lubin de sang rassis,1,None,None,4,Yes,NoCadence
+Amour remply de pitié et de zelle,36,None,G,37,Yes,Authentic
+Amour remply de pitié et de zelle,36,None,G,39,Yes,Authentic
+Amour remply de pitié et de zelle,30,None,None,31,Yes,NoCadence
+Amour remply de pitié et de zelle,32,None,None,33,Yes,NoCadence
+Amour remply de pitié et de zelle,24,None,None,26,Yes,NoCadence
+Amour remply de pitié et de zelle,25,None,None,26,Yes,NoCadence
+Amour remply de pitié et de zelle,20,None,None,21,Yes,NoCadence
+Amour remply de pitié et de zelle,20,"Displaced, Inverted, Evaded",D,21,Yes,Authentic
+Amour remply de pitié et de zelle,17,"Incomplete, Evaded",G,17,Yes,Authentic
+Amour remply de pitié et de zelle,16,None,G,16,Yes,Authentic
+Amour remply de pitié et de zelle,15,,G,16,Yes,Authentic
+Amour remply de pitié et de zelle,9,None,D,10,Yes,Plagal
+Amour remply de pitié et de zelle,9,None,D,10,Yes,Plagal
+Amour remply de pitié et de zelle,5,"Displaced, Incomplete",C,6,Yes,Authentic
+Amour remply de pitié et de zelle,5,"Displaced, Incomplete",C,6,Yes,Authentic
+Un forgeron aussi vieulx que le temps,34,None,G,35,Yes,Authentic
+Un forgeron aussi vieulx que le temps,34,None,G,35,Yes,Authentic
+Un forgeron aussi vieulx que le temps,30,"Displaced, Incomplete",C,31,Yes,Authentic
+Un forgeron aussi vieulx que le temps,30,"Displaced, Incomplete",C,31,Yes,Authentic
+Un forgeron aussi vieulx que le temps,25,"Displaced, Incomplete",G,26,Yes,Authentic
+Un forgeron aussi vieulx que le temps,25,"Displaced, Incomplete",None,26,Yes,Authentic
+Un forgeron aussi vieulx que le temps,20,"Displaced, Evaded",G,21,Yes,Authentic
+Un forgeron aussi vieulx que le temps,20,"Displaced, Evaded",G,21,Yes,Authentic
+Un forgeron aussi vieulx que le temps,17,None,C,17,Yes,Authentic
+Un forgeron aussi vieulx que le temps,16,None,C,17,Yes,Authentic
+Un forgeron aussi vieulx que le temps,11,Displaced,G,12,Yes,Authentic
+Un forgeron aussi vieulx que le temps,7,None,G,8,Yes,Authentic
+Un forgeron aussi vieulx que le temps,7,None,G,8,Yes,Authentic
+Un forgeron aussi vieulx que le temps,3,None,C,3,Yes,Authentic
+Un forgeron aussi vieulx que le temps,3,None,C,3,Yes,Authentic
+"Sur la verdure du pré florissant, m'amye ouy",24,None,F,25,Yes,Plagal
+"Sur la verdure du pré florissant, m'amye ouy",24,None,F,25,Yes,Plagal
+"Sur la verdure du pré florissant, m'amye ouy",23,None,C,23,Yes,Authentic
+"Sur la verdure du pré florissant, m'amye ouy",22,None,C,23,Yes,Authentic
+"Sur la verdure du pré florissant, m'amye ouy",17,None,F,18,Yes,Plagal
+"Sur la verdure du pré florissant, m'amye ouy",17,None,F,18,Yes,Plagal
+"Sur la verdure du pré florissant, m'amye ouy",13,None,C,14,Yes,Authentic
+"Sur la verdure du pré florissant, m'amye ouy",13,None,C,14,Yes,Authentic
+"Sur la verdure du pré florissant, m'amye ouy",5,None,None,6,Yes,NoCadence
+"La terre, l'eau, l'air, le feu et les cieulx",58,None,F,59,Yes,Plagal
+"La terre, l'eau, l'air, le feu et les cieulx",59,None,F,59,Yes,Plagal
+"La terre, l'eau, l'air, le feu et les cieulx",55,Displaced,A,55,Yes,Authentic
+"La terre, l'eau, l'air, le feu et les cieulx",49,Displaced,F,50,Yes,Authentic
+"La terre, l'eau, l'air, le feu et les cieulx",49,Displaced,F,50,Yes,Authentic
+"La terre, l'eau, l'air, le feu et les cieulx",45,Displaced,F,45,Yes,Authentic
+"La terre, l'eau, l'air, le feu et les cieulx",45,Displaced,F,45,Yes,Authentic
+"La terre, l'eau, l'air, le feu et les cieulx",40,None,A,41,Yes,Plagal
+"La terre, l'eau, l'air, le feu et les cieulx",40,None,A,41,Yes,Plagal
+"La terre, l'eau, l'air, le feu et les cieulx",37,None,None,38,Yes,NoCadence
+"La terre, l'eau, l'air, le feu et les cieulx",35,None,None,36,Yes,NoCadence
+"La terre, l'eau, l'air, le feu et les cieulx",30,None,None,31,Yes,NoCadence
+"La terre, l'eau, l'air, le feu et les cieulx",30,None,F,30,Yes,Authentic
+"La terre, l'eau, l'air, le feu et les cieulx",24,None,None,25,Yes,NoCadence
+"La terre, l'eau, l'air, le feu et les cieulx",17,Incomplete,F,18,Yes,Authentic
+"La terre, l'eau, l'air, le feu et les cieulx",17,Incomplete,F,18,Yes,Authentic
+"La terre, l'eau, l'air, le feu et les cieulx",9,None,None,10,Yes,NoCadence
+Margot s'endormit sur un lict,42,None,F,43,Yes,Authentic
+Margot s'endormit sur un lict,42,None,F,45,Yes,Authentic
+Margot s'endormit sur un lict,40,None,None,40,Yes,NoCadence
+Margot s'endormit sur un lict,37,None,F,37,Yes,None
+Margot s'endormit sur un lict,37,None,F,38,Yes,Authentic
+Margot s'endormit sur un lict,34,None,None,35,Yes,NoCadence
+Margot s'endormit sur un lict,34,None,F,34,Yes,Plagal
+Margot s'endormit sur un lict,30,Displaced,D,31,Yes,Authentic
+Margot s'endormit sur un lict,30,Displaced,D,31,Yes,Authentic
+Margot s'endormit sur un lict,29,Inverted,A,29,Yes,Phrygian
+Margot s'endormit sur un lict,25,None,F,26,Yes,Authentic
+Margot s'endormit sur un lict,27,None,F,27,Yes,Authentic
+Margot s'endormit sur un lict,22,None,C,22,Yes,Authentic
+Margot s'endormit sur un lict,21,None,C,22,Yes,Authentic
+Margot s'endormit sur un lict,19,None,D,19,Yes,Plagal
+Margot s'endormit sur un lict,18,None,D,19,Yes,Plagal
+Margot s'endormit sur un lict,16,None,F,16,Yes,Authentic
+Margot s'endormit sur un lict,16,None,F,16,Yes,Authentic
+Margot s'endormit sur un lict,15,None,F,16,Yes,CadInCad
+Margot s'endormit sur un lict,10,"Displaced, Inverted, Evaded",F,11,Yes,Authentic
+Margot s'endormit sur un lict,7,Displaced,F,8,Yes,Authentic
+Margot s'endormit sur un lict,7,Displaced,F,8,Yes,Authentic
+Margot s'endormit sur un lict,5,None,None,5,Yes,NoCadence
+Margot s'endormit sur un lict,4,Incomplete,F,5,Yes,Authentic
+Qu'est-il besoing cercher toutes les nuictz,35,"Displaced, Inverted, Evaded",F,35,Yes,Authentic
+Qu'est-il besoing cercher toutes les nuictz,34,Incomplete,F,36,Yes,CadInCad
+Qu'est-il besoing cercher toutes les nuictz,30,None,C,30,Yes,Authentic
+Qu'est-il besoing cercher toutes les nuictz,29,None,C,30,Yes,Authentic
+Qu'est-il besoing cercher toutes les nuictz,25,"Displaced, Incomplete",C,26,Yes,Authentic
+Qu'est-il besoing cercher toutes les nuictz,25,Displaced,C,26,Yes,Authentic
+Qu'est-il besoing cercher toutes les nuictz,19,"Incomplete, Evaded",G,20,Yes,Authentic
+Qu'est-il besoing cercher toutes les nuictz,20,"Incomplete, Evaded",G,21,Yes,Authentic
+Qu'est-il besoing cercher toutes les nuictz,13,None,F,14,Yes,Authentic
+Qu'est-il besoing cercher toutes les nuictz,13,None,F,15,Yes,Authentic
+Qu'est-il besoing cercher toutes les nuictz,8,None,None,9,Yes,NoCadence
+Qu'est-il besoing cercher toutes les nuictz,8,None,None,9,Yes,NoCadence
+Qu'est-il besoing cercher toutes les nuictz,4,Displaced,F,5,Yes,Authentic
+Qui souhaittez d'avoir tout le plaisir,43,None,F,44,Yes,Authentic
+Qui souhaittez d'avoir tout le plaisir,43,None,F,46,Yes,Authentic
+Qui souhaittez d'avoir tout le plaisir,33,None,A,34,Yes,Plagal
+Qui souhaittez d'avoir tout le plaisir,33,None,A,34,Yes,Plagal
+Qui souhaittez d'avoir tout le plaisir,31,None,G,32,Yes,Plagal
+Qui souhaittez d'avoir tout le plaisir,27,Incomplete,F,28,Yes,Authentic
+Qui souhaittez d'avoir tout le plaisir,28,Evaded,C,29,Yes,Plagal
+Qui souhaittez d'avoir tout le plaisir,23,None,None,23,Yes,NoCadence
+Qui souhaittez d'avoir tout le plaisir,22,None,None,23,Yes,NoCadence
+Qui souhaittez d'avoir tout le plaisir,19,None,G,20,Yes,Authentic
+Qui souhaittez d'avoir tout le plaisir,15,"Displaced, Inverted",C,16,Yes,Authentic
+Qui souhaittez d'avoir tout le plaisir,9,None,G,10,Yes,None
+Qui souhaittez d'avoir tout le plaisir,9,None,G,10,Yes,Authentic
+Qui souhaittez d'avoir tout le plaisir,5,"Displaced, Inverted",C,6,Yes,Authentic
+Qui souhaittez d'avoir tout le plaisir,5,"Displaced, Inverted",C,6,Yes,Authentic
+Si pour t'avoir tant loyaument aymée,21,None,F,22,Yes,Authentic
+Si pour t'avoir tant loyaument aymée,21,None,F,22,Yes,Authentic
+Si pour t'avoir tant loyaument aymée,21,None,F,22,Yes,Authentic
+Si pour t'avoir tant loyaument aymée,14,"Displaced, Inverted, Doubtful",D,15,Yes,Phrygian
+Si pour t'avoir tant loyaument aymée,14,"Displaced, Inverted",D,15,Yes,Phrygian
+Si pour t'avoir tant loyaument aymée,10,None,None,11,Yes,NoCadence
+Si pour t'avoir tant loyaument aymée,10,None,F,11,Yes,Plagal
+Si pour t'avoir tant loyaument aymée,7,None,F,7,Yes,Authentic
+Si pour t'avoir tant loyaument aymée,6,None,F,7,Yes,Authentic
+Si pour t'avoir tant loyaument aymée,3,None,None,4,Yes,NoCadence
+Si pour t'avoir tant loyaument aymée,3,Incomplete,C,4,Yes,Authentic
+Je souffre passion/ D'une amour forte,37,None,F,38,Yes,Authentic
+Je souffre passion/ D'une amour forte,38,None,F,38,Yes,Authentic
+Je souffre passion/ D'une amour forte,33,None,C,34,Yes,Plagal
+Je souffre passion/ D'une amour forte,33,None,C,34,Yes,Plagal
+Je souffre passion/ D'une amour forte,30,"Displaced, Inverted, Evaded",F,31,Yes,Authentic
+Je souffre passion/ D'une amour forte,30,Incomplete,F,31,Yes,Authentic
+Je souffre passion/ D'une amour forte,25,None,D,26,Yes,Plagal
+Je souffre passion/ D'une amour forte,25,None,D,26,Yes,Plagal
+Je souffre passion/ D'une amour forte,21,None,B-flat,21,Yes,Authentic
+Je souffre passion/ D'une amour forte,20,None,B-flat,21,Yes,Authentic
+Je souffre passion/ D'une amour forte,18,Incomplete,C,19,Yes,Authentic
+Je souffre passion/ D'une amour forte,16,None,None,16,Yes,NoCadence
+Je souffre passion/ D'une amour forte,15,Displaced,B-flat,16,Yes,Authentic
+Je souffre passion/ D'une amour forte,10,None,F,11,Yes,Authentic
+Je souffre passion/ D'une amour forte,10,None,F,11,Yes,Authentic
+Je souffre passion/ D'une amour forte,5,"Displaced, Inverted, Evaded",F,5,Yes,Authentic
+Je souffre passion/ D'une amour forte,4,Incomplete,F,5,Yes,CadInCad
+Ce friant oeil qui toujours estincelle,52,None,F,53,Yes,Authentic
+Ce friant oeil qui toujours estincelle,52,None,F,53,Yes,Authentic
+Ce friant oeil qui toujours estincelle,49,None,D,50,Yes,Plagal
+Ce friant oeil qui toujours estincelle,46,None,F,47,Yes,Authentic
+Ce friant oeil qui toujours estincelle,43,Evaded,A,43,Yes,Phrygian
+Ce friant oeil qui toujours estincelle,42,None,D,43,Yes,Plagal
+Ce friant oeil qui toujours estincelle,38,Incomplete,C,39,Yes,Authentic
+Ce friant oeil qui toujours estincelle,38,Incomplete,C,39,Yes,Authentic
+Ce friant oeil qui toujours estincelle,32,None,C,32,Yes,Authentic
+Ce friant oeil qui toujours estincelle,29,None,C,32,Yes,CadInCad
+Ce friant oeil qui toujours estincelle,27,None,D,28,Yes,Plagal
+Ce friant oeil qui toujours estincelle,25,None,C,26,Yes,Authentic
+Ce friant oeil qui toujours estincelle,24,None,C,25,Yes,Authentic
+Ce friant oeil qui toujours estincelle,23,Displaced,G,24,Yes,Authentic
+Ce friant oeil qui toujours estincelle,18,Displaced,F,19,Yes,Authentic
+Ce friant oeil qui toujours estincelle,16,Evaded,A,17,Yes,Phrygian
+Ce friant oeil qui toujours estincelle,16,None,D,17,Yes,Plagal
+Ce friant oeil qui toujours estincelle,10,None,F,11,Yes,Authentic
+Ce friant oeil qui toujours estincelle,10,None,F,11,Yes,Authentic
+Ce friant oeil qui toujours estincelle,5,Displaced,C,6,Yes,Authentic
+Ce friant oeil qui toujours estincelle,5,Displaced,C,6,Yes,Authentic
+Allons aux champs sur la verdure,29,None,F,30,Yes,Authentic
+Allons aux champs sur la verdure,25,"Displaced, Inverted",C,26,Yes,Authentic
+Allons aux champs sur la verdure,25,"Displaced, Inverted",C,26,Yes,Authentic
+Allons aux champs sur la verdure,23,None,C,23,Yes,Authentic
+Allons aux champs sur la verdure,22,None,C,23,Yes,Authentic
+Allons aux champs sur la verdure,17,None,None,17,Yes,NoCadence
+Allons aux champs sur la verdure,17,"Displaced, Incomplete",F,18,Yes,Authentic
+Allons aux champs sur la verdure,11,None,F,12,Yes,Authentic
+Allons aux champs sur la verdure,11,None,F,12,Yes,Authentic
+Allons aux champs sur la verdure,7,Incomplete,F,8,Yes,Authentic
+Allons aux champs sur la verdure,4,"Displaced, Inverted",F,5,Yes,Authentic
+Allons aux champs sur la verdure,4,"Displaced, Incomplete",F,5,Yes,Authentic
+Dieu doinct le bon jour à m'amye,30,None,F,31,Yes,Authentic
+Dieu doinct le bon jour à m'amye,29,None,F,33,Yes,Authentic
+Dieu doinct le bon jour à m'amye,26,Incomplete,C,27,Yes,Authentic
+Dieu doinct le bon jour à m'amye,23,Displaced,F,24,Yes,Authentic
+Dieu doinct le bon jour à m'amye,20,None,G,21,Yes,Authentic
+Dieu doinct le bon jour à m'amye,20,None,G,21,Yes,Authentic
+Dieu doinct le bon jour à m'amye,17,None,C,18,Yes,Plagal
+Dieu doinct le bon jour à m'amye,17,None,None,18,Yes,NoCadence
+Dieu doinct le bon jour à m'amye,14,None,F,14,Yes,Authentic
+Dieu doinct le bon jour à m'amye,13,None,F,14,Yes,Authentic
+Dieu doinct le bon jour à m'amye,11,Incomplete,C,12,Yes,Authentic
+Dieu doinct le bon jour à m'amye,6,"Displaced, Inverted, Incomplete",C,7,Yes,CadInCad
+Dieu doinct le bon jour à m'amye,5,None,None,6,Yes,NoCadence
+Dieu doinct le bon jour à m'amye,3,Displaced,F,3,Yes,Authentic
+Dieu doinct le bon jour à m'amye,2,Displaced,F,3,Yes,Authentic
+Puis que malheur me tient rigueur,27,None,F,28,Yes,Authentic
+Puis que malheur me tient rigueur,27,None,F,28,Yes,Authentic
+Puis que malheur me tient rigueur,23,"Displaced, Inverted, Evaded",F,23,Yes,Authentic
+Puis que malheur me tient rigueur,22,"Displaced, Incomplete",F,23,Yes,CadInCad
+Puis que malheur me tient rigueur,18,Displaced,D,19,Yes,Authentic
+Puis que malheur me tient rigueur,18,Displaced,D,19,Yes,Authentic
+Puis que malheur me tient rigueur,15,None,A,15,Yes,Authentic
+Puis que malheur me tient rigueur,14,None,D,15,Yes,Plagal
+Puis que malheur me tient rigueur,8,None,F,9,Yes,Authentic
+Puis que malheur me tient rigueur,8,None,F,9,Yes,Authentic
+Puis que malheur me tient rigueur,4,None,None,4,Yes,NoCadence
+Puis que malheur me tient rigueur,3,"Displaced, Inverted",C,4,Yes,Authentic
+Cupido pour ses appetitz vers des mouches alla,30,None,None,31,Yes,Authentic
+Cupido pour ses appetitz vers des mouches alla,30,None,None,31,Yes,Authentic
+Cupido pour ses appetitz vers des mouches alla,27,"Displaced, Inverted",None,28,Yes,Authentic
+Cupido pour ses appetitz vers des mouches alla,24,None,E,24,Yes,Plagal
+Cupido pour ses appetitz vers des mouches alla,24,None,E,24,Yes,Plagal
+Cupido pour ses appetitz vers des mouches alla,20,None,None,20,Yes,NoCadence
+Cupido pour ses appetitz vers des mouches alla,18,None,A,19,Yes,Plagal
+Cupido pour ses appetitz vers des mouches alla,19,None,None,20,Yes,NoCadence
+Cupido pour ses appetitz vers des mouches alla,12,None,C,13,Yes,Authentic
+Cupido pour ses appetitz vers des mouches alla,9,None,C,14,Yes,Authentic
+Cupido pour ses appetitz vers des mouches alla,13,None,C,14,Yes,Authentic
+Cupido pour ses appetitz vers des mouches alla,9,None,None,9,Yes,NoCadence
+Cupido pour ses appetitz vers des mouches alla,7,"Displaced, Doubtful",G,9,Yes,Authentic
+Cupido pour ses appetitz vers des mouches alla,8,"Displaced, Doubtful",G,9,Yes,NoCadence
+Cupido pour ses appetitz vers des mouches alla,6,None,A,7,Yes,Authentic
+Cupido pour ses appetitz vers des mouches alla,6,None,E,7,Yes,CadInCad
+Cupido pour ses appetitz vers des mouches alla,4,None,A,7,Yes,CadInCad
+Cupido pour ses appetitz vers des mouches alla,6,None,A,7,Yes,Authentic
+Cupido pour ses appetitz vers des mouches alla,6,None,E,7,Yes,CadInCad
+Cupido pour ses appetitz vers des mouches alla,3,Inverted,G,3,Yes,Authentic
+Cupido pour ses appetitz vers des mouches alla,1,"Displaced, Inverted",G,4,Yes,Authentic
+Cupido pour ses appetitz vers des mouches alla,3,"Displaced, Inverted",G,3,Yes,Authentic
+Au feu d'amour qui ne se peult estaindre,26,Displaced,C,26,Yes,Authentic
+Au feu d'amour qui ne se peult estaindre,25,Displaced,C,26,Yes,Authentic
+Au feu d'amour qui ne se peult estaindre,20,None,G,20,Yes,Authentic
+Au feu d'amour qui ne se peult estaindre,19,None,G,21,Yes,Authentic
+Au feu d'amour qui ne se peult estaindre,13,None,F,14,Yes,Authentic
+Au feu d'amour qui ne se peult estaindre,13,None,F,14,Yes,Authentic
+Au feu d'amour qui ne se peult estaindre,10,"Displaced, Incomplete",C,11,Yes,Authentic
+Au feu d'amour qui ne se peult estaindre,6,Displaced,F,7,Yes,Authentic
+Au feu d'amour qui ne se peult estaindre,5,Displaced,F,6,Yes,Authentic
+Au feu d'amour qui ne se peult estaindre,3,Displaced,C,4,Yes,Authentic
+Ho le meschant qui a ployé,26,None,F,27,Yes,Authentic
+Ho le meschant qui a ployé,26,None,F,28,Yes,Authentic
+Ho le meschant qui a ployé,21,None,None,22,Yes,NoCadence
+Ho le meschant qui a ployé,21,None,None,22,Yes,NoCadence
+Ho le meschant qui a ployé,16,None,F,17,Yes,Plagal
+Ho le meschant qui a ployé,15,None,F,17,Yes,Plagal
+Ho le meschant qui a ployé,13,None,None,14,Yes,NoCadence
+Ho le meschant qui a ployé,13,None,F,14,Yes,Plagal
+Ho le meschant qui a ployé,6,None,None,6,Yes,NoCadence
+Ho le meschant qui a ployé,5,Incomplete,F,6,Yes,Authentic
+Ho le meschant qui a ployé,4,None,A,5,Yes,Plagal
+Ho le meschant qui a ployé,3,None,A,5,Yes,Plagal
+Or my doint Dieu bonne adventure,20,None,A,21,Yes,Authentic
+Or my doint Dieu bonne adventure,20,None,A,22,Yes,Authentic
+Or my doint Dieu bonne adventure,14,None,None,15,Yes,NoCadence
+Or my doint Dieu bonne adventure,14,"Displaced, Incomplete",E,15,Yes,Phrygian
+Or my doint Dieu bonne adventure,8,None,C,9,Yes,CadInCad
+Or my doint Dieu bonne adventure,8,None,C,9,Yes,Authentic
+Or my doint Dieu bonne adventure,4,None,A,5,Yes,Authentic
+Or my doint Dieu bonne adventure,4,None,A,5,Yes,Authentic
+Dire me fault par desespoir contrainct,33,None,A,34,Yes,Authentic
+Dire me fault par desespoir contrainct,33,None,A,36,Yes,Authentic
+Dire me fault par desespoir contrainct,26,Displaced,C,27,Yes,Authentic
+Dire me fault par desespoir contrainct,25,Displaced,C,26,Yes,CadInCad
+Dire me fault par desespoir contrainct,21,None,C,22,Yes,Authentic
+Dire me fault par desespoir contrainct,16,Displaced,A,18,Yes,Authentic
+Dire me fault par desespoir contrainct,15,Displaced,A,16,Yes,Authentic
+Dire me fault par desespoir contrainct,10,"Displaced, Inverted",A,11,Yes,Authentic
+Dire me fault par desespoir contrainct,10,"Displaced, Inverted",A,11,Yes,Authentic
+Dire me fault par desespoir contrainct,4,None,A,7,Yes,CadInCad
+Jouons beau jeu tout en riant,38,None,G,39,Yes,Authentic
+Jouons beau jeu tout en riant,38,None,G,39,Yes,Authentic
+Jouons beau jeu tout en riant,30,None,B-flat,31,Yes,Authentic
+Jouons beau jeu tout en riant,30,None,B-flat,31,Yes,Authentic
+Jouons beau jeu tout en riant,27,None,None,27,Yes,NoCadence
+Jouons beau jeu tout en riant,26,Incomplete,F,27,Yes,Authentic
+Jouons beau jeu tout en riant,24,None,None,24,Yes,NoCadence
+Jouons beau jeu tout en riant,23,None,None,24,Yes,NoCadence
+Jouons beau jeu tout en riant,22,None,G,23,Yes,Authentic
+Jouons beau jeu tout en riant,22,None,G,23,Yes,Authentic
+Jouons beau jeu tout en riant,19,"Displaced, Inverted, Doubtful",D,19,Yes,Phrygian
+Jouons beau jeu tout en riant,18,"Displaced, Inverted",D,19,Yes,Phrygian
+Jouons beau jeu tout en riant,13,None,G,14,Yes,Authentic
+Jouons beau jeu tout en riant,10,None,None,11,Yes,NoCadence
+Jouons beau jeu tout en riant,7,None,G,7,Yes,Authentic
+Jouons beau jeu tout en riant,6,None,G,7,Yes,Authentic
+Jouons beau jeu tout en riant,4,None,None,4,Yes,NoCadence
+Jouons beau jeu tout en riant,3,"Displaced, Inverted",D,4,Yes,Phrygian
+"Joye et santé, ma demoiselle",20,None,B-flat,21,Yes,Authentic
+"Joye et santé, ma demoiselle",20,None,B-flat,21,Yes,Authentic
+"Joye et santé, ma demoiselle",18,None,D,19,Yes,Plagal
+"Joye et santé, ma demoiselle",19,None,None,19,Yes,NoCadence
+"Joye et santé, ma demoiselle",17,Incomplete,D,18,Yes,Authentic
+"Joye et santé, ma demoiselle",14,None,G,15,Yes,Authentic
+"Joye et santé, ma demoiselle",14,None,G,15,Yes,Authentic
+"Joye et santé, ma demoiselle",12,None,None,13,Yes,NoCadence
+"Joye et santé, ma demoiselle",12,Evaded,D,13,Yes,Phrygian
+"Joye et santé, ma demoiselle",10,None,G,11,Yes,Authentic
+"Joye et santé, ma demoiselle",10,None,G,11,Yes,Authentic
+"Joye et santé, ma demoiselle",7,None,D,8,Yes,Authentic
+"Joye et santé, ma demoiselle",5,None,G,6,Yes,Plagal
+"Joye et santé, ma demoiselle",5,None,G,6,Yes,Plagal
+"Joye et santé, ma demoiselle",3,None,D,3,Yes,Authentic
+Ma mère veult que je file,25,None,G,26,Yes,Authentic
+Ma mère veult que je file,25,None,G,26,Yes,Authentic
+Ma mère veult que je file,23,None,D,23,Yes,Authentic
+Ma mère veult que je file,22,None,D,23,Yes,Authentic
+Ma mère veult que je file,20,Displaced,D,21,Yes,Authentic
+Ma mère veult que je file,17,None,F,18,Yes,Plagal
+Ma mère veult que je file,16,"Displaced, Inverted, Evaded",D,17,Yes,Authentic
+Ma mère veult que je file,16,"Displaced, Inverted, Incomplete, Evaded",D,17,Yes,Authentic
+Ma mère veult que je file,13,None,B-flat,14,Yes,Authentic
+Ma mère veult que je file,13,None,B-flat,14,Yes,Authentic
+Ma mère veult que je file,7,None,G,8,Yes,Authentic
+Ma mère veult que je file,9,None,G,11,Yes,Authentic
+Ma mère veult que je file,7,None,G,8,Yes,Authentic
+Ma mère veult que je file,5,Displaced,D,6,Yes,Authentic
+Ma mère veult que je file,4,"Displaced, Evaded",D,5,Yes,Authentic
+Ma mère veult que je file,2,None,G,3,Yes,Authentic
+Ma mère veult que je file,2,None,G,3,Yes,None
+Un fin mary voyant sa chambriere,48,None,G,49,Yes,Authentic
+Un fin mary voyant sa chambriere,48,None,G,49,Yes,Authentic
+Un fin mary voyant sa chambriere,44,None,None,45,Yes,NoCadence
+Un fin mary voyant sa chambriere,44,"Displaced, Inverted",D,45,Yes,Authentic
+Un fin mary voyant sa chambriere,39,"Displaced, Evaded",D,39,Yes,Authentic
+Un fin mary voyant sa chambriere,38,"Displaced, Evaded",D,39,Yes,Authentic
+Un fin mary voyant sa chambriere,35,Displaced,D,36,Yes,Authentic
+Un fin mary voyant sa chambriere,32,"Displaced, Inverted",D,33,Yes,Authentic
+Un fin mary voyant sa chambriere,32,"Displaced, Inverted",D,33,Yes,Authentic
+Un fin mary voyant sa chambriere,24,None,None,25,Yes,NoCadence
+Un fin mary voyant sa chambriere,25,None,None,27,Yes,NoCadence
+Un fin mary voyant sa chambriere,20,None,D,20,Yes,Authentic
+Un fin mary voyant sa chambriere,20,None,D,21,Yes,Authentic
+Un fin mary voyant sa chambriere,15,None,B-flat,15,Yes,Authentic
+Un fin mary voyant sa chambriere,14,None,B-flat,15,Yes,Authentic
+Un fin mary voyant sa chambriere,9,None,G,9,Yes,Authentic
+Un fin mary voyant sa chambriere,8,None,G,9,Yes,Authentic
+Un fin mary voyant sa chambriere,6,None,D,6,Yes,Plagal
+Un fin mary voyant sa chambriere,3,"Displaced, Inverted, Evaded",G,4,Yes,Authentic
+Si la beaulté doit perir en peu d'heure,29,None,G,30,Yes,Authentic
+Si la beaulté doit perir en peu d'heure,29,None,G,32,Yes,Authentic
+Si la beaulté doit perir en peu d'heure,21,None,B-flat,22,Yes,Authentic
+Si la beaulté doit perir en peu d'heure,21,None,B-flat,22,Yes,Authentic
+Si la beaulté doit perir en peu d'heure,16,"Displaced, Inverted, Evaded",D,16,Yes,None
+Si la beaulté doit perir en peu d'heure,15,"Displaced, Incomplete",D,16,Yes,Authentic
+Si la beaulté doit perir en peu d'heure,11,"Displaced, Evaded",D,11,Yes,Authentic
+Si la beaulté doit perir en peu d'heure,7,None,G,8,Yes,Authentic
+Si la beaulté doit perir en peu d'heure,6,None,G,8,Yes,CadInCad
+Un gros prieur son petit filz baisoit,31,None,G,32,Yes,Authentic
+Un gros prieur son petit filz baisoit,31,None,G,33,Yes,Authentic
+Un gros prieur son petit filz baisoit,26,"Displaced, Inverted",D,27,Yes,Authentic
+Un gros prieur son petit filz baisoit,26,"Displaced, Inverted",D,27,Yes,Phrygian
+Un gros prieur son petit filz baisoit,24,"Displaced, Evaded",D,24,Yes,Phrygian
+Un gros prieur son petit filz baisoit,24,Displaced,D,24,Yes,Phrygian
+Un gros prieur son petit filz baisoit,22,None,A,23,Yes,Plagal
+Un gros prieur son petit filz baisoit,22,None,A,23,Yes,Plagal
+Un gros prieur son petit filz baisoit,19,None,None,20,Yes,NoCadence
+Un gros prieur son petit filz baisoit,19,Displaced,E,20,Yes,Phrygian
+Un gros prieur son petit filz baisoit,16,None,None,16,Yes,NoCadence
+Un gros prieur son petit filz baisoit,16,"Displaced, Evaded",B-flat,16,Yes,Authentic
+Un gros prieur son petit filz baisoit,14,None,G,15,Yes,Authentic
+Un gros prieur son petit filz baisoit,11,None,B-flat,12,Yes,Authentic
+Un gros prieur son petit filz baisoit,7,None,G,8,Yes,Authentic
+Un gros prieur son petit filz baisoit,7,None,G,8,Yes,Authentic
+Un gros prieur son petit filz baisoit,4,None,B-flat,5,Yes,Authentic
+Un gros prieur son petit filz baisoit,4,None,B-flat,5,Yes,Authentic
+"Vous me changez pour un aultre, madame",27,None,D,28,Yes,Authentic
+"Vous me changez pour un aultre, madame",27,None,D,28,Yes,Authentic
+"Vous me changez pour un aultre, madame",22,None,A,22,Yes,Authentic
+"Vous me changez pour un aultre, madame",20,None,A,22,Yes,Authentic
+"Vous me changez pour un aultre, madame",16,Displaced,A,18,Yes,Authentic
+"Vous me changez pour un aultre, madame",16,Displaced,A,18,Yes,CAD NDLT
+"Vous me changez pour un aultre, madame",12,"Displaced, Incomplete, Evaded",D,13,Yes,CadInCad
+"Vous me changez pour un aultre, madame",11,"Displaced, Incomplete",F,12,Yes,Authentic
+"Vous me changez pour un aultre, madame",10,"Incomplete, Evaded",C,11,Yes,Authentic
+"Vous me changez pour un aultre, madame",8,None,D,8,Yes,Authentic
+"Vous me changez pour un aultre, madame",7,None,D,8,Yes,Authentic
+"Vous me changez pour un aultre, madame",4,"Displaced, Doubtful",A,4,Yes,Phrygian
+"Vous me changez pour un aultre, madame",4,Displaced,A,4,Yes,Phrygian
+Je me veulx tant a son vouloir offrir,22,None,D,23,Yes,Authentic
+Je me veulx tant a son vouloir offrir,22,None,D,23,Yes,Authentic
+Je me veulx tant a son vouloir offrir,22,None,D,23,Yes,Authentic
+Je me veulx tant a son vouloir offrir,17,None,D,18,Yes,Plagal
+Je me veulx tant a son vouloir offrir,22,None,D,23,Yes,Authentic
+Je me veulx tant a son vouloir offrir,16,Displaced,F,17,Yes,Authentic
+Je me veulx tant a son vouloir offrir,16,Displaced,F,17,Yes,Authentic
+Je me veulx tant a son vouloir offrir,12,"Inverted, Evaded",D,13,Yes,NoCadence
+Je me veulx tant a son vouloir offrir,16,Displaced,F,17,Yes,Authentic
+Je me veulx tant a son vouloir offrir,15,"Displaced, Inverted, Incomplete",F,16,Yes,CadInCad
+Je me veulx tant a son vouloir offrir,11,Evaded,A,12,Yes,CadInCad
+Je me veulx tant a son vouloir offrir,11,Incomplete,A,12,Yes,CadInCad
+Je me veulx tant a son vouloir offrir,11,Evaded,A,12,Yes,Authentic
+Je me veulx tant a son vouloir offrir,11,Evaded,A,12,Yes,CadInCad
+Je me veulx tant a son vouloir offrir,4,None,D,4,Yes,Authentic
+Je me veulx tant a son vouloir offrir,3,None,None,4,Yes,Authentic
+Je me veulx tant a son vouloir offrir,4,None,D,4,Yes,Authentic
+Je me veulx tant a son vouloir offrir,4,None,D,4,Yes,Authentic
+Si ton plus grand plaisir n'est sinon d'estre tienne,47,None,G,48,Yes,Authentic
+Si ton plus grand plaisir n'est sinon d'estre tienne,41,None,G,42,Yes,Authentic
+Si ton plus grand plaisir n'est sinon d'estre tienne,36,None,G,37,Yes,Authentic
+Si ton plus grand plaisir n'est sinon d'estre tienne,31,Displaced,G,32,Yes,Authentic
+Si ton plus grand plaisir n'est sinon d'estre tienne,18,None,A,19,Yes,Authentic
+Si ton plus grand plaisir n'est sinon d'estre tienne,6,None,G,7,Yes,Authentic
+Je sens l'affection/ Qui à moy se vient rendre,26,None,G,27,Yes,Authentic
+Je sens l'affection/ Qui à moy se vient rendre,24,"Displaced, Inverted",G,25,Yes,Authentic
+Je sens l'affection/ Qui à moy se vient rendre,22,"Displaced, Incomplete",G,23,Yes,Authentic
+Je sens l'affection/ Qui à moy se vient rendre,15,None,G,16,Yes,Authentic
+Je sens l'affection/ Qui à moy se vient rendre,9,None,A,10,Yes,Authentic
+Je sens l'affection/ Qui à moy se vient rendre,5,None,G,6,Yes,Authentic
+Puisque fortune mal apprinse,28,None,F,29,Yes,Authentic
+Puisque fortune mal apprinse,17,None,C,18,Yes,Authentic
+Puisque fortune mal apprinse,13,,F,13,Yes,CAD NDLT
+Puisque fortune mal apprinse,8,None,F,9,Yes,Authentic
+Puisque fortune mal apprinse,5,Displaced,A,6,Yes,Phrygian
+Amour et mort par trop grand avantage,58,None,F,59,Yes,Authentic
+Amour et mort par trop grand avantage,46,Displaced,C,47,Yes,CAD NDLT
+Amour et mort par trop grand avantage,42,,A,43,Yes,Phrygian
+Amour et mort par trop grand avantage,38,"Displaced, Evaded",G,39,Yes,Authentic
+Amour et mort par trop grand avantage,33,None,F,34,Yes,Authentic
+Amour et mort par trop grand avantage,26,"Displaced, Evaded",C,27,Yes,Authentic
+Amour et mort par trop grand avantage,21,Displaced,F,22,Yes,Authentic
+Amour et mort par trop grand avantage,16,None,A,17,Yes,Plagal
+Amour et mort par trop grand avantage,8,None,F,9,Yes,Authentic
+Amour et mort par trop grand avantage,4,,C,5,Yes,Plagal
+Mauldict soit-il qui jamays aymera,42,None,F,43,Yes,Authentic
+Mauldict soit-il qui jamays aymera,33,Displaced,C,33,Yes,CAD NDLT
+Mauldict soit-il qui jamays aymera,28,,A,29,Yes,Phrygian
+Mauldict soit-il qui jamays aymera,24,None,G,25,Yes,Authentic
+Mauldict soit-il qui jamays aymera,20,"Displaced, Inverted, Evaded",C,21,Yes,Authentic
+Mauldict soit-il qui jamays aymera,15,Displaced,F,16,Yes,Authentic
+Mauldict soit-il qui jamays aymera,11,None,F,12,Yes,Authentic
+Mauldict soit-il qui jamays aymera,4,Displaced,C,5,Yes,Authentic
+Si je me plains ce n'est sans apparence,31,None,F,32,Yes,Authentic
+Si je me plains ce n'est sans apparence,18,Displaced,C,19,Yes,Authentic
+Si je me plains ce n'est sans apparence,23,"Displaced, Inverted",C,24,Yes,Authentic
+Si je me plains ce n'est sans apparence,15,,A,16,Yes,Phrygian
+Si je me plains ce n'est sans apparence,9,None,F,10,Yes,Authentic
+J'ay d'un costé l'honneur tant estimé,31,None,F,32,Yes,Authentic
+J'ay d'un costé l'honneur tant estimé,26,None,G,27,Yes,Authentic
+J'ay d'un costé l'honneur tant estimé,21,None,D,21,Yes,Plagal
+J'ay d'un costé l'honneur tant estimé,16,"Inverted, Incomplete",C,17,Yes,Authentic
+J'ay d'un costé l'honneur tant estimé,12,None,F,13,Yes,Authentic
+J'ay d'un costé l'honneur tant estimé,12,None,F,13,Yes,Authentic
+J'ay d'un costé l'honneur tant estimé,6,Incomplete,C,6,Yes,Authentic
+J'ay d'un costé l'honneur tant estimé,5,None,C,6,Yes,Authentic
+Vrais amateurs du plaisir de Vénus,41,None,A,42,Yes,Authentic
+Vrais amateurs du plaisir de Vénus,41,None,A,42,Yes,Authentic
+Vrais amateurs du plaisir de Vénus,34,None,G,35,Yes,Authentic
+Vrais amateurs du plaisir de Vénus,34,,C,35,Yes,Authentic
+Vrais amateurs du plaisir de Vénus,34,None,G,35,Yes,Authentic
+Vrais amateurs du plaisir de Vénus,29,Displaced,E,30,Yes,Phrygian
+Vrais amateurs du plaisir de Vénus,29,Displaced,E,30,Yes,Phrygian
+Vrais amateurs du plaisir de Vénus,24,None,A,25,Yes,Authentic
+Vrais amateurs du plaisir de Vénus,24,None,A,25,Yes,Authentic
+Vrais amateurs du plaisir de Vénus,22,,C,23,Yes,CAD NDLT
+Vrais amateurs du plaisir de Vénus,15,"Displaced, Inverted",C,16,Yes,Authentic
+Vrais amateurs du plaisir de Vénus,11,None,A,11,Yes,Authentic
+Vrais amateurs du plaisir de Vénus,10,None,A,11,Yes,Authentic
+Vrais amateurs du plaisir de Vénus,5,,A,6,Yes,Authentic
+Vrais amateurs du plaisir de Vénus,5,None,A,6,Yes,Authentic
+Qu'est-ce que fait celui qui se marie,45,None,A,45,Yes,Authentic
+Qu'est-ce que fait celui qui se marie,40,None,A,40,Yes,Authentic
+Qu'est-ce que fait celui qui se marie,40,None,A,41,Yes,Authentic
+Qu'est-ce que fait celui qui se marie,34,None,A,35,Yes,Plagal
+Qu'est-ce que fait celui qui se marie,35,None,A,35,Yes,Plagal
+Qu'est-ce que fait celui qui se marie,24,Incomplete,A,25,Yes,Authentic
+Qu'est-ce que fait celui qui se marie,24,Incomplete,A,25,Yes,Authentic
+Qu'est-ce que fait celui qui se marie,17,None,G,17,Yes,Plagal
+Qu'est-ce que fait celui qui se marie,13,None,A,14,Yes,Authentic
+Qu'est-ce que fait celui qui se marie,5,None,A,6,Yes,Authentic
+Qu'est-ce que fait celui qui se marie,5,None,A,6,Yes,Authentic
+"Maistre Ambrelin, confesseur de nonettes",38,None,A,39,Yes,Authentic
+"Maistre Ambrelin, confesseur de nonettes",38,None,A,39,Yes,Authentic
+"Maistre Ambrelin, confesseur de nonettes",33,"Displaced, Evaded",C,33,Yes,Authentic
+"Maistre Ambrelin, confesseur de nonettes",29,"Displaced, Inverted",E,30,Yes,Phrygian
+"Maistre Ambrelin, confesseur de nonettes",29,"Displaced, Inverted",E,30,Yes,Phrygian
+"Maistre Ambrelin, confesseur de nonettes",26,None,E,26,Yes,Plagal
+"Maistre Ambrelin, confesseur de nonettes",26,None,E,26,Yes,Plagal
+"Maistre Ambrelin, confesseur de nonettes",21,"Displaced, Incomplete",G,22,Yes,CadInCad
+"Maistre Ambrelin, confesseur de nonettes",21,"Displaced, Inverted",D,21,Yes,Authentic
+"Maistre Ambrelin, confesseur de nonettes",18,"Displaced, Inverted",E,19,Yes,Phrygian
+"Maistre Ambrelin, confesseur de nonettes",7,None,E,8,Yes,Plagal
+"Maistre Ambrelin, confesseur de nonettes",7,None,E,8,Yes,Plagal
+"Maistre Ambrelin, confesseur de nonettes",4,None,A,4,Yes,Plagal
+"Maistre Ambrelin, confesseur de nonettes",4,None,A,4,Yes,Plagal
+Quelle prison au monde est plus cruelle,30,None,A,31,Yes,Authentic
+Quelle prison au monde est plus cruelle,20,,E,21,Yes,Phrygian
+Quelle prison au monde est plus cruelle,20,,E,21,Yes,Phrygian
+Quelle prison au monde est plus cruelle,20,,E,21,Yes,Phrygian
+Quelle prison au monde est plus cruelle,17,,C,17,Yes,Authentic
+Quelle prison au monde est plus cruelle,16,None,C,17,Yes,Authentic
+Quelle prison au monde est plus cruelle,17,None,C,17,Yes,Authentic
+Quelle prison au monde est plus cruelle,9,None,A,10,Yes,Authentic
+Quelle prison au monde est plus cruelle,9,None,A,10,Yes,Authentic
+Quelle prison au monde est plus cruelle,9,None,A,10,Yes,Authentic
+Quelle prison au monde est plus cruelle,5,"Inverted, Displaced",E,6,Yes,Phrygian
+Quelle prison au monde est plus cruelle,5,"Displaced, Inverted",E,6,Yes,Phrygian
+Quelle prison au monde est plus cruelle,5,"Displaced, Inverted",E,6,Yes,Phrygian
+Trop justement je forme une complainte,48,,A,48,Yes,Authentic
+Trop justement je forme une complainte,44,,A,45,Yes,Authentic
+Trop justement je forme une complainte,39,"Displaced, Evaded",None,40,Yes,Authentic
+Trop justement je forme une complainte,35,"Displaced, Incomplete, Inverted",C,36,Yes,Authentic
+Trop justement je forme une complainte,31,Displaced,C,32,Yes,Authentic
+Trop justement je forme une complainte,29,,A,30,Yes,Authentic
+Trop justement je forme une complainte,28,None,A,29,Yes,Authentic
+Trop justement je forme une complainte,23,,E,24,Yes,Phrygian
+Trop justement je forme une complainte,22,Displaced,E,22,Yes,Phrygian
+Trop justement je forme une complainte,17,Displaced,C,17,Yes,Authentic
+Trop justement je forme une complainte,12,None,A,12,Yes,Authentic
+Trop justement je forme une complainte,11,None,A,12,Yes,None
+Trop justement je forme une complainte,8,None,C,8,Yes,Authentic
+Trop justement je forme une complainte,7,None,C,8,Yes,Authentic
+Trop justement je forme une complainte,5,Displaced,E,6,Yes,Phrygian
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",43,,D,44,Yes,Authentic
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",43,None,D,44,Yes,Authentic
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",38,"Displaced, Incomplete, Inverted",D,39,Yes,Authentic
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",38,"Displaced, Inverted, Incomplete",D,39,Yes,Authentic
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",31,"Displaced, Inverted, Evaded",A,32,Yes,Authentic
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",31,"Displaced, Inverted, Evaded",A,32,Yes,Authentic
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",25,None,F,26,Yes,Authentic
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",25,None,F,26,Yes,Authentic
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",20,Displaced,A,21,Yes,Phrygian
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",16,Displaced,A,16,Yes,Authentic
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",15,Displaced,A,16,Yes,Authentic
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",11,None,D,12,Yes,Authentic
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",11,None,D,12,Yes,Authentic
+"Helas mon cœur (mon œil), n'as tu pas trop grand tort",5,"Displaced, Incomplete",None,6,Yes,CadInCad
+Comme l'aymant par sa vertu latente,42,None,D,43,Yes,Authentic
+Comme l'aymant par sa vertu latente,35,,D,36,Yes,Authentic
+Comme l'aymant par sa vertu latente,35,None,D,36,Yes,Authentic
+Comme l'aymant par sa vertu latente,27,Displaced,F,28,Yes,Authentic
+Comme l'aymant par sa vertu latente,23,Displaced,A,24,Yes,Phrygian
+Comme l'aymant par sa vertu latente,27,Displaced,F,28,Yes,Authentic
+Comme l'aymant par sa vertu latente,27,Displaced,F,28,Yes,Authentic
+Comme l'aymant par sa vertu latente,23,Displaced,A,24,Yes,Phrygian
+Comme l'aymant par sa vertu latente,21,"Displaced, Incomplete, Evaded",D,22,Yes,Authentic
+Comme l'aymant par sa vertu latente,21,"Displaced, Inverted, Evaded",D,22,Yes,Authentic
+Comme l'aymant par sa vertu latente,21,"Displaced, Inverted, Evaded",D,22,Yes,Authentic
+Comme l'aymant par sa vertu latente,16,,E,17,Yes,Phrygian
+Comme l'aymant par sa vertu latente,14,,D,15,Yes,Authentic
+Comme l'aymant par sa vertu latente,14,None,D,15,Yes,Authentic
+Comme l'aymant par sa vertu latente,7,,D,8,Yes,Authentic
+Comme l'aymant par sa vertu latente,7,None,D,8,Yes,Authentic
+Comme l'aymant par sa vertu latente,7,None,D,8,Yes,Authentic
+L'autre jour jouer m'aloye/ Parmi ces champs ,17,None,G,18,Yes,Authentic
+L'autre jour jouer m'aloye/ Parmi ces champs ,17,,G,18,Yes,Authentic
+L'autre jour jouer m'aloye/ Parmi ces champs ,17,,G,18,Yes,CadInCad
+L'autre jour jouer m'aloye/ Parmi ces champs ,13,,,14,Yes,NoCadence
+L'autre jour jouer m'aloye/ Parmi ces champs ,14,"Displaced, Evaded",D,15,Yes,Authentic
+L'autre jour jouer m'aloye/ Parmi ces champs ,9,None,C,10,Yes,Plagal
+L'autre jour jouer m'aloye/ Parmi ces champs ,10,None,None,10,Yes,NoCadence
+L'autre jour jouer m'aloye/ Parmi ces champs ,6,Displaced,C,7,Yes,CAD NDLT
+L'autre jour jouer m'aloye/ Parmi ces champs ,7,None,None,8,Yes,NoCadence
+L'autre jour jouer m'aloye/ Parmi ces champs ,7,None,G,8,Yes,Plagal
+L'autre jour jouer m'aloye/ Parmi ces champs ,3,Displaced,C,4,Yes,CAD NDLT
+L'autre jour jouer m'aloye/ Parmi ces champs ,4,None,None,4,Yes,NoCadence
+L'autre jour jouer m'aloye/ Parmi ces champs ,3,Displaced,C,4,Yes,CAD NDLT
+Si la promesse m'est tenue,17,None,G,18,Yes,Authentic
+Si la promesse m'est tenue,17,None,G,18,Yes,Authentic
+Si la promesse m'est tenue,12,,B-flat,14,Yes,Authentic
+Si la promesse m'est tenue,12,,B-flat,14,Yes,CadInCad
+Si la promesse m'est tenue,13,"Incomplete, Evaded",B-flat,13,Yes,Authentic
+Si la promesse m'est tenue,12,,B-flat,13,Yes,CadInCad
+Si la promesse m'est tenue,6,None,D,7,Yes,Authentic
+Si la promesse m'est tenue,6,,D,7,Yes,Authentic
+Si la promesse m'est tenue,6,Evaded,D,7,Yes,Authentic
+Si la promesse m'est tenue,3,None,G,4,Yes,Authentic
+Si la promesse m'est tenue,3,,G,4,Yes,Authentic
+Si la promesse m'est tenue,3,,G,4,Yes,Authentic
+Mars et Amour font ensemble alliance,45,None,G,46,Yes,Authentic
+Mars et Amour font ensemble alliance,44,,G,45,Yes,Authentic
+Mars et Amour font ensemble alliance,45,None,G,46,Yes,Authentic
+Mars et Amour font ensemble alliance,37,"Displaced, Inverted",D,38,Yes,Authentic
+Mars et Amour font ensemble alliance,37,"Displaced, Inverted",D,38,Yes,Authentic
+Mars et Amour font ensemble alliance,38,Displaced,None,38,Yes,Authentic
+Mars et Amour font ensemble alliance,31,None,B-flat,32,Yes,Authentic
+Mars et Amour font ensemble alliance,31,Incomplete,B-flat,32,Yes,Authentic
+Mars et Amour font ensemble alliance,31,Incomplete,B-flat,32,Yes,Authentic
+Mars et Amour font ensemble alliance,25,Displaced,D,26,Yes,Phrygian
+Mars et Amour font ensemble alliance,25,"Displaced, Doubtful",D,26,Yes,Phrygian
+Mars et Amour font ensemble alliance,10,None,G,11,Yes,Authentic
+Mars et Amour font ensemble alliance,10,None,G,11,Yes,Authentic
+Mars et Amour font ensemble alliance,10,None,G,11,Yes,Authentic
+Mars et Amour font ensemble alliance,5,Incomplete,B-flat,6,Yes,Authentic
+Mars et Amour font ensemble alliance,5,Incomplete,B-flat,6,Yes,Authentic
+Mars et Amour font ensemble alliance,5,Incomplete,B-flat,6,Yes,Authentic
+Vive sera pour jamais n'estre morte,18,None,D,19,Yes,Authentic
+Vive sera pour jamais n'estre morte,18,,D,19,Yes,Authentic
+Vive sera pour jamais n'estre morte,19,None,D,20,Yes,CadInCad
+Vive sera pour jamais n'estre morte,15,,A,15,Yes,Phrygian
+Vive sera pour jamais n'estre morte,14,,A,15,Yes,Phrygian
+Vive sera pour jamais n'estre morte,14,,A,15,Yes,Phrygian
+Vive sera pour jamais n'estre morte,10,None,G,11,Yes,Authentic
+Vive sera pour jamais n'estre morte,10,None,G,11,Yes,Authentic
+Vive sera pour jamais n'estre morte,7,"Displaced, Inverted, Incomplete",B-flat,8,Yes,Authentic
+Vive sera pour jamais n'estre morte,10,None,G,11,Yes,Authentic
+Vive sera pour jamais n'estre morte,5,Displaced,D,6,Yes,Plagal
+Vive sera pour jamais n'estre morte,5,Displaced,D,6,Yes,Phrygian
+Vive sera pour jamais n'estre morte,5,Displaced,D,6,Yes,Phrygian
+La volunté si longtemps endormie,32,None,G,33,Yes,Authentic
+La volunté si longtemps endormie,28,"Displaced, Inverted, Evaded",B-flat,29,Yes,Authentic
+La volunté si longtemps endormie,21,None,G,22,Yes,Authentic
+La volunté si longtemps endormie,21,None,G,22,Yes,Authentic
+La volunté si longtemps endormie,21,None,G,22,Yes,Authentic
+La volunté si longtemps endormie,16,None,G,17,Yes,Authentic
+La volunté si longtemps endormie,16,,G,17,Yes,Authentic
+La volunté si longtemps endormie,16,None,G,17,Yes,Authentic
+La volunté si longtemps endormie,11,None,G,12,Yes,Authentic
+La volunté si longtemps endormie,11,,G,12,Yes,Authentic
+La volunté si longtemps endormie,9,Displaced,D,10,Yes,Phrygian
+La volunté si longtemps endormie,11,,G,12,Yes,Authentic
+La volunté si longtemps endormie,10,Displaced,D,10,Yes,Phrygian
+La volunté si longtemps endormie,6,"Displaced, Inverted, Evaded",B-flat,7,Yes,Authentic
+La volunté si longtemps endormie,6,"Displaced, Evaded",B-flat,7,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,35,None,G,36,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,35,None,G,36,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,35,None,G,36,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,30,None,D,31,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,30,None,D,31,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,30,None,D,31,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,24,,A,25,Yes,Phrygian
+L'enfant Amour n'a plus son arc estrangé,20,Evaded,G,21,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,24,,A,25,Yes,Phrygian
+L'enfant Amour n'a plus son arc estrangé,19,Evaded,G,20,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,24,,A,25,Yes,Phrygian
+L'enfant Amour n'a plus son arc estrangé,19,Evaded,G,20,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,17,Displaced,D,18,Yes,Phrygian
+L'enfant Amour n'a plus son arc estrangé,17,Displaced,D,18,Yes,Phrygian
+L'enfant Amour n'a plus son arc estrangé,17,Displaced,D,18,Yes,Phrygian
+L'enfant Amour n'a plus son arc estrangé,10,,G,12,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,10,,G,12,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,11,,G,12,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,7,Displaced,B-flat,8,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,5,None,B-flat,6,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,5,,B-flat,6,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,5,None,B-flat,6,Yes,Authentic
+L'enfant Amour n'a plus son arc estrangé,2,Displaced,D,3,Yes,Phrygian
+L'enfant Amour n'a plus son arc estrangé,5,None,B-flat,6,Yes,Authentic
+"Cest oeil mignon, ce visage poly",54,None,G,55,Yes,Authentic
+"Cest oeil mignon, ce visage poly",54,,G,55,Yes,Authentic
+"Cest oeil mignon, ce visage poly",54,None,G,55,Yes,Authentic
+"Cest oeil mignon, ce visage poly",46,,G,46,Yes,Authentic
+"Cest oeil mignon, ce visage poly",46,None,G,46,Yes,Authentic
+"Cest oeil mignon, ce visage poly",45,,G,46,Yes,Authentic
+"Cest oeil mignon, ce visage poly",41,None,D,42,Yes,Authentic
+"Cest oeil mignon, ce visage poly",41,,D,42,Yes,Authentic
+"Cest oeil mignon, ce visage poly",41,,D,42,Yes,Authentic
+"Cest oeil mignon, ce visage poly",37,"Inverted, Incomplete",G,38,Yes,Authentic
+"Cest oeil mignon, ce visage poly",38,"Displaced, Inverted, Incomplete",G,38,Yes,Authentic
+"Cest oeil mignon, ce visage poly",38,"Displaced, Incomplete, Inverted",G,38,Yes,Authentic
+"Cest oeil mignon, ce visage poly",33,Displaced,B-flat,34,Yes,Authentic
+"Cest oeil mignon, ce visage poly",33,Displaced,B-flat,34,Yes,Authentic
+"Cest oeil mignon, ce visage poly",33,Displaced,B-flat,34,Yes,Authentic
+"Cest oeil mignon, ce visage poly",27,Displaced,D,28,Yes,Authentic
+"Cest oeil mignon, ce visage poly",27,"Displaced, Evaded",D,28,Yes,Authentic
+"Cest oeil mignon, ce visage poly",24,Displaced,F,25,Yes,Authentic
+"Cest oeil mignon, ce visage poly",22,Displaced,D,23,Yes,Phrygian
+"Cest oeil mignon, ce visage poly",24,Displaced,F,25,Yes,Authentic
+"Cest oeil mignon, ce visage poly",20,None,B-flat,21,Yes,Authentic
+"Cest oeil mignon, ce visage poly",20,,B-flat,21,Yes,Authentic
+"Cest oeil mignon, ce visage poly",20,,B-flat,21,Yes,Authentic
+"Cest oeil mignon, ce visage poly",13,None,G,14,Yes,Authentic
+"Cest oeil mignon, ce visage poly",13,None,G,14,Yes,Authentic
+"Cest oeil mignon, ce visage poly",10,"Displaced, Evaded",B-flat,11,Yes,Authentic
+"Cest oeil mignon, ce visage poly",13,None,G,14,Yes,Authentic
+"Cest oeil mignon, ce visage poly",8,None,B-flat,9,Yes,Plagal
+"Cest oeil mignon, ce visage poly",8,None,B-flat,9,Yes,Plagal
+"Cest oeil mignon, ce visage poly",8,None,B-flat,9,Yes,Plagal
+"Cest oeil mignon, ce visage poly",4,None,B-flat,5,Yes,Authentic
+"Cest oeil mignon, ce visage poly",4,,B-flat,5,Yes,Authentic
+"Cest oeil mignon, ce visage poly",2,,D,3,Yes,Phrygian
+"Cest oeil mignon, ce visage poly",4,,B-flat,5,Yes,Authentic
+"Cherchant amour, Hymen vint apparoistre",30,,G,31,Yes,Authentic
+"Cherchant amour, Hymen vint apparoistre",20,Displaced,D,21,Yes,Phrygian
+"Cherchant amour, Hymen vint apparoistre",19,Displaced,D,20,Yes,Phrygian
+"Cherchant amour, Hymen vint apparoistre",19,Displaced,D,20,Yes,Phrygian
+"Cherchant amour, Hymen vint apparoistre",14,"Displaced, Inverted, Evaded",D,15,Yes,Authentic
+"Cherchant amour, Hymen vint apparoistre",14,"Displaced, Inverted, Evaded",D,15,Yes,Authentic
+"Cherchant amour, Hymen vint apparoistre",9,None,G,10,Yes,Authentic
+"Cherchant amour, Hymen vint apparoistre",9,None,G,10,Yes,Authentic
+"Cherchant amour, Hymen vint apparoistre",9,None,G,10,Yes,Authentic
+"Cherchant amour, Hymen vint apparoistre",3,None,B-flat,4,Yes,Authentic
+"Cherchant amour, Hymen vint apparoistre",3,,B-flat,4,Yes,Authentic
+"Cherchant amour, Hymen vint apparoistre",3,,B-flat,4,Yes,Authentic
+O combien je suis fortuné,21,None,G,22,Yes,Authentic
+O combien je suis fortuné,27,,G,27,Yes,Authentic
+O combien je suis fortuné,20,Incomplete,G,21,Yes,Authentic
+O combien je suis fortuné,16,Displaced,B-flat,18,Yes,Authentic
+O combien je suis fortuné,13,,B-flat,14,Yes,Authentic
+O combien je suis fortuné,11,Displaced,B-flat,12,Yes,Authentic
+O combien je suis fortuné,11,Displaced,B-flat,12,Yes,Authentic
+O combien je suis fortuné,7,,G,8,Yes,Authentic
+O combien je suis fortuné,7,None,G,8,Yes,Authentic
+O combien je suis fortuné,3,Displaced,D,4,Yes,Authentic
+O combien je suis fortuné,3,"Displaced, Incomplete",None,4,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",40,,D,41,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",40,None,D,41,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",33,None,A,34,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",36,None,A,37,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",33,"Incomplete, Evaded",A,34,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",35,None,A,36,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",33,,A,34,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",27,,D,28,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",27,None,D,28,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",25,Evaded,G,26,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",27,,D,28,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",24,Evaded,G,25,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",27,None,D,28,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",20,Inverted,F,21,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",22,None,None,23,Yes,NoCadence
+"Venons au poinct, ma dame s'il vous plaist",16,,F,17,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",16,,F,17,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",16,None,F,17,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",13,None,D,14,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",12,,D,13,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",12,None,D,13,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",8,,A,9,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",8,,A,9,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",8,,A,9,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",8,None,A,9,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",4,Displaced,D,5,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",5,None,D,6,Yes,Authentic
+"Venons au poinct, ma dame s'il vous plaist",5,None,D,6,Yes,CadInCad
+"Venons au poinct, ma dame s'il vous plaist",4,None,D,5,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,33,None,D,34,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,30,None,A,31,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,33,None,D,34,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,30,,A,31,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,33,None,D,34,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,25,Displaced,A,26,Yes,Phrygian
+Qui souhaitez avoir tout le plaisir,25,Displaced,A,26,Yes,Phrygian
+Qui souhaitez avoir tout le plaisir,25,Displaced,A,26,Yes,Phrygian
+Qui souhaitez avoir tout le plaisir,21,None,A,22,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,21,,A,22,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,21,,A,22,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,16,"Displaced, Inverted, Evaded",D,17,Yes,CadInCad
+Qui souhaitez avoir tout le plaisir,15,"Displaced, Inverted, Evaded",D,16,Yes,CadInCad
+Qui souhaitez avoir tout le plaisir,12,,D,13,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,12,None,D,13,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,12,None,D,13,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,6,,A,7,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,6,,A,7,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,4,"Displaced, Inverted, Evaded",D,5,Yes,Authentic
+Qui souhaitez avoir tout le plaisir,6,,A,7,Yes,Authentic

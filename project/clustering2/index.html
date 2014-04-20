@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="filter.css" />
+<link rel="stylesheet" href="graph.css" />
+<body align="center">
+	<span id="heading">
+		<h1>Oklahoma Earthquakes</h1>
+		<span id="instructions">
+			Mouseover and click map for details. Click and drag histograms to crossfilter.
+		</span>
+	</span>
+	<div id="charts" align="center">
+            <table id="map_and_clustering"><tr>
+                <td>
+		<div id="map" class="display"></div>
+                </td>
+                <td>
+  		<div id="clustering" class="display"></div>
+                </td>
+           </tr>
+           <tr><td>
+               <div id="maplabel" class="display"></div>
+               </td>
+               <td>
+               <div id="clusteringlabel" class="display"></div>
+               </td>
+           </tr>
+           </table>
+
+		<div id="year-chart" class="chart display">
+			<div class="title">Cadence Kind</div>
+		</div>
+
+		<div id="mass-chart" class="chart display">
+			<div class="title">Magnitude</div>
+		</div>
+	</div>
+
+        <p>
+        This time I tried to do something a little bit more drastic with my data manipulation.  I only kept the rows that were cadences because these are the ones that truly matter and decide the pattern of the music.  Also I removed many more rows than usual.  I only left the cadence, cadence kind, final tone, cadence alter, and the start and stop measures.  This has allowed me to look ath the specifics about the cadences and how they can be related.  Another thing that I did was add two columns.  The columns were for each row show the cadence final tone of the cadence before it and the other column shows the cadence final tone of the cadence after it.  The idea behind this was that it would show if a type of cadence usually had one final tone or other things of that nature.  This data however does show me somethihng that is interesting.  It shows that for most of the cadences that are authentic then they final tone is usually D and the final tone of the cadence after is usually G.  I think that this shows the addition of the cadence final tone after and the cadence final tone can actually show some sort of correlation.  In terms of having a good K value I used the same idea as last time.  I cut it off before I got a very large jump so my K is equal to 2. Overall the data shows some sort of correlation through the clustering and while I did not get the filters to work I do not think that they would have added much meaning.  However I am curiousl about filtering on cadence kind.  I think this is something that I will attempt to explore more.   
+	</p>
+	<div id="about"><div id="links">
+Data from the <a class= "blacklink" href="http://www.okgeosurvey1.gov/pages/home.php">Oklahoma Geological Survey</a>
+
+		</div>
+Much of the code taken from <a class= "blacklink" href="https://github.com/1wheel/meteors">github</a>
+		<div>
+        </div>
+</body>
+<script src="point.js"></script>
+<script src="clustering.js"></script>
+<script src="kmeans.js"></script>
+<script src="d3/d3.v3.min.js"></script>
+<script src="lib/topojson.js"></script>
+<script src="lib/queue.js"></script>
+<script src="lib/crossfilter.js"></script>
+<script src="barChart.js"></script>
+<script src="drawMap.js"></script>
+<script src="lib/sample.js"></script>
+<script src="label_assignment.js"></script>
+<script src="forceDirectedGraph.js"></script>
+</html>

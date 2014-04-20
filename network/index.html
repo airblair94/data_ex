@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<meta charset="utf-8" >
+<script type=text/javascript rel="graph.js"></script>
+<!--<style>
+.node {
+    stroke: #fff;
+    stroke-width: 1.5px;
+}
+
+.link {
+    stroke: #999;
+    stroke-opacity: 6;
+}
+</style>
+<script type=text/javascript src="http://d3js.org/d3.v3.min.js"></script>
+<body>
+
+<script>
+
+var width = 960,
+    height = 500;
+
+var color = d3.scale.category20();
+
+var force = d3.layout.force()
+    .charge(-120)
+    .linkDistance(30)
+    .size([width, height]);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+d3.json("test.json", function(error, graph) {
+  force
+      .nodes(graph.nodes)
+      .links(graph.links)
+      .start();
+
+  var link = svg.selectAll(".link")
+      .data(graph.links)
+    .enter().append("line")
+      .attr("class", "link")
+      .style("stroke-width", function(d) { return Math.sqrt(d.value); });
+
+  var node = svg.selectAll(".node")
+      .data(graph.nodes)
+    .enter().append("circle")
+      .attr("class", "node")
+      .attr("r", 5)
+      .style("fill", function(d) { return color(d.group); })
+      .call(force.drag);
+
+  node.append("title")
+      .text(function(d) { return d.name; });
+
+  force.on("tick", function() {
+    link.attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node.attr("cx", function(d) { return d.x; })
+        .attr("cy", function(d) { return d.y; });
+  });
+});
+
+</script>-->
+    
+<style>
+ 
+text {
+  font: 10px sans-serif;
+}
+ 
+line {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+ 
+circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+ 
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+ 
+var width = 1200,
+    height = 600;
+d3.json("test.json", function(error, graph) {
+
+var n = 100,
+    nodes = graph.nodes,
+    links = graph.links; 
+
+var zoom = d3.behavior.zoom()
+	.scaleExtent([1,10])
+	.on("zoom", zoomed);
+ 
+var force = d3.layout.force()
+    .nodes(nodes)
+    .links(links)
+    .size([width, height]);
+ 
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+	.call(zoom);
+ 
+var loading = svg.append("text")
+    .attr("x", width / 2)
+    .attr("y", height / 2)
+    .attr("dy", ".35em")
+    .style("text-anchor", "middle")
+    .text("Simulating. One moment please…");
+
+function zoomed() {
+  svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+} 
+// Use a timeout to allow the rest of the page to load first.
+setTimeout(function() {
+ 
+  // Run the layout a fixed number of times.
+  // The ideal number of times scales with graph complexity.
+  // Of course, don't run too long—you'll hang the page!
+  force.start();
+  for (var i = n * n; i > 0; --i) force.tick();
+  force.stop();
+ 
+  svg.selectAll("line")
+      .data(links)
+    .enter().append("line")
+      .attr("x1", function(d) { return d.source.x; })
+      .attr("y1", function(d) { return d.source.y; })
+      .attr("x2", function(d) { return d.target.x; })
+      .attr("y2", function(d) { return d.target.y; });
+ 
+  svg.selectAll("circle")
+      .data(nodes)
+    .enter().append("circle")
+      .attr("cx", function(d) { return d.x; })
+      .attr("cy", function(d) { return d.y; })
+      .attr("r", 4.5);
+ 
+  loading.remove();
+}, 10);
+});
+ 
+</script>
+</body>

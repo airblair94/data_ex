@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Linear Regression Lab</title>
+        <script type="text/javascript" src="d3/d3.v3.js"></script>
+	<link href="universal.css" type=text/css rel="stylesheet" />
+    </head>
+    <body>
+	<h1> Household Power Compsumption </h1>
+	<div class="graph">	
+		<h3> Global Active Power vs. Global Intensity </h3>
+		<script type="text/javascript">
+			var dataset = []
+			var line_dataset = []
+			var w = 600;
+			var h = 600;
+			var xscale = 100;
+			var yscale = 25;
+			var slope = 4.19888515617;
+			var yint = 0.0441931375812;
+			var svg = d3.select("body")
+				    .append("svg")
+				    .attr("width", w)
+				    .attr("height", h);
+			
+			
+			d3.csv("data/test2.csv", function(data) {
+				/*for data in dataset*/
+				dataset = data.map(function(d) {
+					return [ +d["column1"], +d["column2"] ]; });
+				svg.selectAll("circle")
+			 	.data(dataset)
+			 	.enter()
+			 	.append("circle")
+			 	.attr("cx", function(d) {
+					return 100*d[0];
+				})
+				.attr("cy", function(d) {
+					return 25*d[1];
+				})
+				.attr("r", 5);	
+		
+				});
+
+			d3.select("body").select("svg")
+					.append("line")
+					.attr("x1", 0)
+					.attr("y1", yint)
+					.attr("x2", 5.5*xscale)
+					.attr("y2", 5.5*yscale*slope)
+					.attr("stroke-width", 2)
+					.attr("stroke", "red");
+			
+			
+		
+		
+			//d3.select("body").selectAll("p").data(dataset).enter().append("p").text("new paragraph!");
+		</script>
+	</div>
+	<div class="analysis">
+		<h3> Analysis </h3>
+		<p>
+This graph shows global active power(x-axis) vs. global intensity(y-axis).
+I wanted to know if there were two pobjects given in the data set that were highly correlated.  To start this I looked at the dataset in a spreadsheet.  I tested a few columns using the CORREL function in excel which checks to see if the two objects are heavily correlated.  I saw that global active power and global intensity were highly correlated.  I then calculated the linear regression by using the numpy function for the those two columns that I pulled from the CSV file.  In terms of missing data I decided it would be best to just drop it from the data set for the two columns.  Considering there was not much of it and the data set was very large I assumed that it would not effect too drastically if I just removed missing data.  That being said the the relationship between the two points is not completely linear.  The line of best fit appears to hit a lot of the data shown on the graph but that is only 1000 points out of the 2 million.  Also that 1000 points is simply the first 1000 points I figured that there was no harm in showing the data for the first 1000 rather than pulling form random points because the data set is so large and graphing it would I could just say it was over the first 1000 days.  That way I can give a more exact time frame of when the points are from that others will be able to see.  The R squared value of this line is 8.0866952431536E9.  The data is positively correlated so as global active power increases the global intensity also increases.  The graph shows this because the svg is flipped, thus meaning that the 0,0 spot is in the bottom left corner.  This gives a better visualization for people expecting to see a more typical graph.  Also it is a better representation of the positive correlation.  The points are sclaed the x coordinates are scaled by 100 and the y coordinates is scaled by 25.  This was done so that the points were easier to see however the y scale is smaller so that way the graph is not too large and you do not have to scroll down the page to see all of it.  The conclusion that can be drawn from this data is that often times as global active power increases so as more power is used around the world the intensity would intensity of power is increased.  This may mean that as more people gain power there is also larger things being used in different places that require more power to be used in certain areas thus lifting the intensity.  The data has a couple of correlational columns however this one seemed to show me something about power usage and possibly the expansion of electric power in households.  you can see a growth in the active power and the more power there is the more each household will be using in every second.    
+		</p>
+ 	</div>   
+	</body>
+</html>
